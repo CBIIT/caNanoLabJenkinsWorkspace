@@ -1,0 +1,1189 @@
+2022-06-16 15:21:07,729 - TestSuite - INFO - ---------------End of Test 01_Ensure Curator user able to search with phyico chemical characterization filters from advanced search page--------------------------------------
+2022-06-16 15:21:07,849 - TestSuite - INFO - ---------------Begin Test case: 004_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------
+2022-06-16 15:21:10,304 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,311 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,317 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,324 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,330 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,336 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,342 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,347 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,357 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:10,626 - TestSuite - ERROR - Test 004_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:21:10,626 - TestSuite - INFO - ---------------End of Test 004_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:21:10,756 - TestSuite - INFO - ---------------Begin Test case: 003_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search--------------
+2022-06-16 15:21:15,497 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,572 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,599 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,621 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,628 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,658 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,683 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:15,692 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:16,011 - TestSuite - ERROR - Test 003_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:21:16,011 - TestSuite - INFO - ---------------End of Test 003_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search--------------------------------------
+2022-06-16 15:21:16,133 - TestSuite - INFO - ---------------Begin Test case: 05_Ensure Researcher user able to Remove characterization advanced search query--------------
+2022-06-16 15:21:20,398 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,406 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,415 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,424 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,433 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,439 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,448 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,455 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,465 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:20,734 - TestSuite - ERROR - Test 05_Ensure Researcher user able to Remove characterization advanced search query failed. Error: -1
+2022-06-16 15:21:20,734 - TestSuite - INFO - ---------------End of Test 05_Ensure Researcher user able to Remove characterization advanced search query--------------------------------------
+2022-06-16 15:21:20,925 - TestSuite - INFO - ---------------Begin Test case: 005_Researcher User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------
+2022-06-16 15:21:25,040 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,050 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,057 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,067 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,073 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,079 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,096 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,103 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,119 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:25,429 - TestSuite - ERROR - Test 005_Researcher User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:21:25,430 - TestSuite - INFO - ---------------End of Test 005_Researcher User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:21:25,562 - TestSuite - INFO - ---------------Begin Test case: 022_Ensure researcher user able to edit a sample from my worksapce--------------
+2022-06-16 15:21:29,970 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:29,978 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:29,983 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:29,989 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:29,995 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:30,001 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:30,007 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:30,012 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:30,021 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:30,303 - TestSuite - ERROR - Test 022_Ensure researcher user able to edit a sample from my worksapce failed. Error: -1
+2022-06-16 15:21:30,303 - TestSuite - INFO - ---------------End of Test 022_Ensure researcher user able to edit a sample from my worksapce--------------------------------------
+2022-06-16 15:21:30,490 - TestSuite - INFO - ---------------Begin Test case: 006_Ensure Researcher user able to Remove sample criteria from advanced sample search page--------------
+2022-06-16 15:21:35,348 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,363 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,371 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,392 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,409 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,418 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,435 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,441 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,452 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:35,746 - TestSuite - ERROR - Test 006_Ensure Researcher user able to Remove sample criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:21:35,746 - TestSuite - INFO - ---------------End of Test 006_Ensure Researcher user able to Remove sample criteria from advanced sample search page--------------------------------------
+2022-06-16 15:21:35,868 - TestSuite - INFO - ---------------Begin Test case: 004_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------
+2022-06-16 15:21:40,080 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,094 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,104 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,110 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,115 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,121 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,134 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,139 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,149 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:40,406 - TestSuite - ERROR - Test 004_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:21:40,406 - TestSuite - INFO - ---------------End of Test 004_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:21:40,524 - TestSuite - INFO - ---------------Begin Test case: 034_Ensure Researcher user able to Edit a Publication from my workspace--------------
+2022-06-16 15:21:45,427 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,436 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,445 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,451 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,457 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,463 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,474 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,480 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:45,843 - TestSuite - ERROR - Test 034_Ensure Researcher user able to Edit a Publication from my workspace failed. Error: -1
+2022-06-16 15:21:45,843 - TestSuite - INFO - ---------------End of Test 034_Ensure Researcher user able to Edit a Publication from my workspace--------------------------------------
+2022-06-16 15:21:45,986 - TestSuite - INFO - ---------------Begin Test case: 06_Ensure Curator user able to Reset characterization advanced search query--------------
+2022-06-16 15:21:49,695 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,704 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,712 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,720 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,726 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,739 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,747 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,753 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:49,771 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:50,132 - TestSuite - ERROR - Test 06_Ensure Curator user able to Reset characterization advanced search query failed. Error: -1
+2022-06-16 15:21:50,132 - TestSuite - INFO - ---------------End of Test 06_Ensure Curator user able to Reset characterization advanced search query--------------------------------------
+2022-06-16 15:21:50,265 - TestSuite - INFO - ---------------Begin Test case: 008_Ensure Curator user able to Remove Composition Criteria from advanced sample search page--------------
+2022-06-16 15:21:53,867 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,876 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,884 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,892 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,907 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,925 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,938 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,948 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:53,966 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:54,283 - TestSuite - ERROR - Test 008_Ensure Curator user able to Remove Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:21:54,284 - TestSuite - INFO - ---------------End of Test 008_Ensure Curator user able to Remove Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:21:54,457 - TestSuite - INFO - ---------------Begin Test case: 05_Ensure Curator user able to Remove characterization advanced search query--------------
+2022-06-16 15:21:57,783 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,815 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,845 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,855 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,864 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,869 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,876 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:57,885 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:21:58,154 - TestSuite - ERROR - Test 05_Ensure Curator user able to Remove characterization advanced search query failed. Error: -1
+2022-06-16 15:21:58,155 - TestSuite - INFO - ---------------End of Test 05_Ensure Curator user able to Remove characterization advanced search query--------------------------------------
+2022-06-16 15:21:58,296 - TestSuite - INFO - ---------------Begin Test case: 021_Ensure Curator user able to edit a sample from my worksapce--------------
+2022-06-16 15:22:02,004 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,012 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,018 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,026 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,031 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,038 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,044 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,060 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,074 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:02,329 - TestSuite - ERROR - Test 021_Ensure Curator user able to edit a sample from my worksapce failed. Error: -1
+2022-06-16 15:22:02,330 - TestSuite - INFO - ---------------End of Test 021_Ensure Curator user able to edit a sample from my worksapce--------------------------------------
+2022-06-16 15:22:02,459 - TestSuite - INFO - ---------------Begin Test case: 025_Ensure Curator user able to delete a Protocol from my workspace--------------
+2022-06-16 15:22:07,403 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,413 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,427 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,435 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,444 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,449 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,456 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,461 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,471 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:07,752 - TestSuite - ERROR - Test 025_Ensure Curator user able to delete a Protocol from my workspace failed. Error: -1
+2022-06-16 15:22:07,752 - TestSuite - INFO - ---------------End of Test 025_Ensure Curator user able to delete a Protocol from my workspace--------------------------------------
+2022-06-16 15:22:07,901 - TestSuite - INFO - ---------------Begin Test case: 06_Ensure Researcher user able to Reset characterization advanced search query--------------
+2022-06-16 15:22:11,828 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,836 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,842 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,848 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,854 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,861 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,866 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,872 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:11,880 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:12,190 - TestSuite - ERROR - Test 06_Ensure Researcher user able to Reset characterization advanced search query failed. Error: -1
+2022-06-16 15:22:12,191 - TestSuite - INFO - ---------------End of Test 06_Ensure Researcher user able to Reset characterization advanced search query--------------------------------------
+2022-06-16 15:22:12,317 - TestSuite - INFO - ---------------Begin Test case: 04_Ensure Researcher user able to edit characterization advanced search query--------------
+2022-06-16 15:22:16,803 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,815 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,834 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,841 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,852 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,864 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,875 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:16,883 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:17,143 - TestSuite - ERROR - Test 04_Ensure Researcher user able to edit characterization advanced search query failed. Error: -1
+2022-06-16 15:22:17,143 - TestSuite - INFO - ---------------End of Test 04_Ensure Researcher user able to edit characterization advanced search query--------------------------------------
+2022-06-16 15:22:17,282 - TestSuite - INFO - ---------------Begin Test case: 001_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------
+2022-06-16 15:22:21,317 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,330 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,337 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,345 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,351 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,357 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,363 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,370 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,379 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:21,677 - TestSuite - ERROR - Test 001_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:22:21,677 - TestSuite - INFO - ---------------End of Test 001_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------------------------------
+2022-06-16 15:22:21,831 - TestSuite - INFO - ---------------Begin Test case: 032_Ensure Researcher user able to Delete a Publication from my workspace--------------
+2022-06-16 15:22:26,033 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,040 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,047 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,055 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,060 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,067 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,087 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,094 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,102 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:26,370 - TestSuite - ERROR - Test 032_Ensure Researcher user able to Delete a Publication from my workspace failed. Error: -1
+2022-06-16 15:22:26,370 - TestSuite - INFO - ---------------End of Test 032_Ensure Researcher user able to Delete a Publication from my workspace--------------------------------------
+2022-06-16 15:22:26,491 - TestSuite - INFO - ---------------Begin Test case: 009_Ensure Researcher user able to Edit Composition Criteria from advanced sample search page--------------
+2022-06-16 15:22:31,278 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,296 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,309 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,319 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,325 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,331 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,338 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,350 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:31,647 - TestSuite - ERROR - Test 009_Ensure Researcher user able to Edit Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:22:31,647 - TestSuite - INFO - ---------------End of Test 009_Ensure Researcher user able to Edit Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:22:31,782 - TestSuite - INFO - ---------------Begin Test case: 019_Ensure Curator user able to delete a sample from my workspace--------------
+2022-06-16 15:22:36,437 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,445 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,454 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,461 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,467 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,473 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,480 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,486 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:36,779 - TestSuite - ERROR - Test 019_Ensure Curator user able to delete a sample from my workspace failed. Error: -1
+2022-06-16 15:22:36,780 - TestSuite - INFO - ---------------End of Test 019_Ensure Curator user able to delete a sample from my workspace--------------------------------------
+2022-06-16 15:22:36,921 - TestSuite - INFO - ---------------Begin Test case: 031_Ensure Curator user able to Delete a Publication from my workspace--------------
+2022-06-16 15:22:41,598 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,608 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,616 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,625 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,641 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,655 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,667 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,675 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:41,978 - TestSuite - ERROR - Test 031_Ensure Curator user able to Delete a Publication from my workspace failed. Error: -1
+2022-06-16 15:22:41,978 - TestSuite - INFO - ---------------End of Test 031_Ensure Curator user able to Delete a Publication from my workspace--------------------------------------
+2022-06-16 15:22:42,095 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------
+2022-06-16 15:22:46,239 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,248 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,263 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,271 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,278 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,283 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,292 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,298 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,315 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:46,627 - TestSuite - ERROR - Test 001_Ensure Curator user able to add a Sample to the Favorites list and view the added sample from my favorites page failed. Error: -1
+2022-06-16 15:22:46,627 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------------------------------
+2022-06-16 15:22:46,787 - TestSuite - INFO - ---------------Begin Test case: 033_Ensure Curator user able to Edit a Publication from my workspace--------------
+2022-06-16 15:22:50,685 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,692 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,698 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,706 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,716 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,721 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,727 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,733 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:50,742 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:51,003 - TestSuite - ERROR - Test 033_Ensure Curator user able to Edit a Publication from my workspace failed. Error: -1
+2022-06-16 15:22:51,003 - TestSuite - INFO - ---------------End of Test 033_Ensure Curator user able to Edit a Publication from my workspace--------------------------------------
+2022-06-16 15:22:51,132 - TestSuite - INFO - ---------------Begin Test case: 003_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter--------------
+2022-06-16 15:22:55,658 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,665 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,671 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,687 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,692 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,698 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,704 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,710 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,718 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:22:55,986 - TestSuite - ERROR - Test 003_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter failed. Error: -1
+2022-06-16 15:22:55,986 - TestSuite - INFO - ---------------End of Test 003_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter--------------------------------------
+2022-06-16 15:22:56,165 - TestSuite - INFO - ---------------Begin Test case: 005_Ensure Researcher user able to Reset sample criteria from advanced sample search page--------------
+2022-06-16 15:23:01,237 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,253 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,280 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,295 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,320 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,326 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,332 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,338 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,351 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:01,626 - TestSuite - ERROR - Test 005_Ensure Researcher user able to Reset sample criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:23:01,626 - TestSuite - INFO - ---------------End of Test 005_Ensure Researcher user able to Reset sample criteria from advanced sample search page--------------------------------------
+2022-06-16 15:23:01,751 - TestSuite - INFO - ---------------Begin Test case: 002_Researcher User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------
+2022-06-16 15:23:05,154 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,161 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,166 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,173 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,177 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,194 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,200 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,206 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,215 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:05,525 - TestSuite - ERROR - Test 002_Researcher User should be able to add sample criteria with sample name and equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:23:05,525 - TestSuite - INFO - ---------------End of Test 002_Researcher User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:23:05,650 - TestSuite - INFO - ---------------Begin Test case: 021_Ensure Curator user able to view a sample from my worksapce--------------
+2022-06-16 15:23:10,185 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,205 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,213 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,222 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,230 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,242 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,256 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,268 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,277 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:10,612 - TestSuite - ERROR - Test 021_Ensure Curator user able to view a sample from my worksapce failed. Error: -1
+2022-06-16 15:23:10,612 - TestSuite - INFO - ---------------End of Test 021_Ensure Curator user able to view a sample from my worksapce--------------------------------------
+2022-06-16 15:23:10,739 - TestSuite - INFO - ---------------Begin Test case: 02_Ensure Curator user able to search with in vitro characterization filters from advanced search page--------------
+2022-06-16 15:23:14,779 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,787 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,796 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,802 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,810 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,816 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,823 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,829 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:14,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:15,118 - TestSuite - ERROR - Test 02_Ensure Curator user able to search with in vitro characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:23:15,118 - TestSuite - INFO - ---------------End of Test 02_Ensure Curator user able to search with in vitro characterization filters from advanced search page--------------------------------------
+2022-06-16 15:23:15,284 - TestSuite - INFO - ---------------Begin Test case: 006_Researcher User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------
+2022-06-16 15:23:19,738 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,746 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,752 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,759 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,766 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,773 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,790 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,796 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:19,806 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:20,074 - TestSuite - ERROR - Test 006_Researcher User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:23:20,074 - TestSuite - INFO - ---------------End of Test 006_Researcher User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:23:20,229 - TestSuite - INFO - ---------------Begin Test case: 007_Ensure Researcher user able to Edit sample criteria from advanced sample search page--------------
+2022-06-16 15:23:24,389 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,399 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,406 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,413 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,435 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,441 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,452 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,463 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,477 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:24,767 - TestSuite - ERROR - Test 007_Ensure Researcher user able to Edit sample criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:23:24,767 - TestSuite - INFO - ---------------End of Test 007_Ensure Researcher user able to Edit sample criteria from advanced sample search page--------------------------------------
+2022-06-16 15:23:24,893 - TestSuite - INFO - ---------------Begin Test case: 006_Curator User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------
+2022-06-16 15:23:31,798 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,806 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,812 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,825 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,831 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,844 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,850 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:31,859 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:32,139 - TestSuite - ERROR - Test 006_Curator User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:23:32,139 - TestSuite - INFO - ---------------End of Test 006_Curator User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:23:32,264 - TestSuite - INFO - ---------------Begin Test case: 030_Ensure Researcher user able to view a Protocol from my workspace--------------
+2022-06-16 15:23:37,017 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,025 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,038 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,058 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,089 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,095 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,113 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,128 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,154 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:37,507 - TestSuite - ERROR - Test 030_Ensure Researcher user able to view a Protocol from my workspace failed. Error: -1
+2022-06-16 15:23:37,507 - TestSuite - INFO - ---------------End of Test 030_Ensure Researcher user able to view a Protocol from my workspace--------------------------------------
+2022-06-16 15:23:37,757 - TestSuite - INFO - ---------------Begin Test case: 007_Ensure Researcher user able to Reset Composition Criteria from advanced sample search page--------------
+2022-06-16 15:23:41,223 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,231 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,237 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,244 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,250 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,257 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,263 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,288 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:41,587 - TestSuite - ERROR - Test 007_Ensure Researcher user able to Reset Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:23:41,587 - TestSuite - INFO - ---------------End of Test 007_Ensure Researcher user able to Reset Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:23:41,774 - TestSuite - INFO - ---------------Begin Test case: 005_Curator User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------
+2022-06-16 15:23:47,070 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,079 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,096 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,109 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,117 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,123 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,131 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,137 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,146 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:47,479 - TestSuite - ERROR - Test 005_Curator User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:23:47,479 - TestSuite - INFO - ---------------End of Test 005_Curator User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:23:47,608 - TestSuite - INFO - ---------------Begin Test case: 03_Ensure Researcher user able to search with in vivo characterization filters from advanced search page--------------
+2022-06-16 15:23:52,108 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,126 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,135 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,152 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,160 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,177 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,184 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,194 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,205 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:52,532 - TestSuite - ERROR - Test 03_Ensure Researcher user able to search with in vivo characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:23:52,533 - TestSuite - INFO - ---------------End of Test 03_Ensure Researcher user able to search with in vivo characterization filters from advanced search page--------------------------------------
+2022-06-16 15:23:52,665 - TestSuite - INFO - ---------------Begin Test case: 028_Ensure Researcher user able to edit a Protocol from my workspace--------------
+2022-06-16 15:23:56,767 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,775 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,787 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,796 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,810 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,817 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,824 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,831 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:56,844 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:23:57,164 - TestSuite - ERROR - Test 028_Ensure Researcher user able to edit a Protocol from my workspace failed. Error: -1
+2022-06-16 15:23:57,164 - TestSuite - INFO - ---------------End of Test 028_Ensure Researcher user able to edit a Protocol from my workspace--------------------------------------
+2022-06-16 15:23:57,291 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Curator user able to add a Publication to the Favorites list--------------
+2022-06-16 15:24:01,477 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,486 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,501 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,506 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,512 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,519 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,526 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,533 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,542 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:01,803 - TestSuite - ERROR - Test 003_Ensure Curator user able to add a Publication to the Favorites list failed. Error: -1
+2022-06-16 15:24:01,803 - TestSuite - INFO - ---------------End of Test 003_Ensure Curator user able to add a Publication to the Favorites list--------------------------------------
+2022-06-16 15:24:01,923 - TestSuite - INFO - ---------------Begin Test case: 04_Ensure Curator user able to edit characterization advanced search query--------------
+2022-06-16 15:24:04,573 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,597 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,604 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,614 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,619 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,625 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,638 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,648 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:04,932 - TestSuite - ERROR - Test 04_Ensure Curator user able to edit characterization advanced search query failed. Error: -1
+2022-06-16 15:24:04,933 - TestSuite - INFO - ---------------End of Test 04_Ensure Curator user able to edit characterization advanced search query--------------------------------------
+2022-06-16 15:24:05,067 - TestSuite - INFO - ---------------Begin Test case: 001_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------
+2022-06-16 15:24:09,980 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:09,988 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:09,996 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:10,005 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:10,011 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:10,018 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:10,025 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:10,031 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:10,047 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:10,366 - TestSuite - ERROR - Test 001_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:24:10,366 - TestSuite - INFO - ---------------End of Test 001_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------------------------------
+2022-06-16 15:24:10,504 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator user able to add a Sample to the Favorites list--------------
+2022-06-16 15:24:14,882 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,891 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,897 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,903 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,921 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,943 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,956 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,962 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:14,977 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:15,288 - TestSuite - ERROR - Test 001_Ensure Curator user able to add a Sample to the Favorites list failed. Error: -1
+2022-06-16 15:24:15,288 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator user able to add a Sample to the Favorites list--------------------------------------
+2022-06-16 15:24:15,423 - TestSuite - INFO - ---------------Begin Test case: 002_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search--------------
+2022-06-16 15:24:19,689 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,698 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,711 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,717 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,722 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,731 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,741 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,747 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:19,763 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:20,032 - TestSuite - ERROR - Test 002_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:24:20,032 - TestSuite - INFO - ---------------End of Test 002_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:24:20,238 - TestSuite - INFO - ---------------Begin Test case: 029_Ensure Curator user able to view a Protocol from my workspace--------------
+2022-06-16 15:24:25,109 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,117 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,125 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,131 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,140 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,147 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,159 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,168 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,190 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:25,481 - TestSuite - ERROR - Test 029_Ensure Curator user able to view a Protocol from my workspace failed. Error: -1
+2022-06-16 15:24:25,481 - TestSuite - INFO - ---------------End of Test 029_Ensure Curator user able to view a Protocol from my workspace--------------------------------------
+2022-06-16 15:24:30,384 - TestSuite - INFO - ---------------Begin Test case: 027_Ensure Curator user able to edit a Protocol from my workspace--------------
+2022-06-16 15:24:35,778 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,791 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,800 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,814 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,825 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,841 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,866 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,893 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:35,939 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:36,320 - TestSuite - ERROR - Test 027_Ensure Curator user able to edit a Protocol from my workspace failed. Error: -1
+2022-06-16 15:24:36,320 - TestSuite - INFO - ---------------End of Test 027_Ensure Curator user able to edit a Protocol from my workspace--------------------------------------
+2022-06-16 15:24:36,623 - TestSuite - INFO - ---------------Begin Test case: 007_Ensure curator user able to Reset Composition Criteria from advanced sample search page--------------
+2022-06-16 15:24:40,980 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:40,999 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,011 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,033 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,043 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,064 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,088 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,097 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,123 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:41,617 - TestSuite - ERROR - Test 007_Ensure curator user able to Reset Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:24:41,617 - TestSuite - INFO - ---------------End of Test 007_Ensure curator user able to Reset Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:24:41,884 - TestSuite - INFO - ---------------Begin Test case: 008_Ensure Researcher user able to Remove Composition Criteria from advanced sample search page--------------
+2022-06-16 15:24:47,438 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,453 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,464 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,474 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,481 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,489 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,497 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,505 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,516 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:47,823 - TestSuite - ERROR - Test 008_Ensure Researcher user able to Remove Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:24:47,824 - TestSuite - INFO - ---------------End of Test 008_Ensure Researcher user able to Remove Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:24:47,982 - TestSuite - INFO - ---------------Begin Test case: 020_Ensure Researcher user able to delete a sample from my workspace--------------
+2022-06-16 15:24:52,159 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,171 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,178 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,187 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,195 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,203 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,211 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,219 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,229 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:52,519 - TestSuite - ERROR - Test 020_Ensure Researcher user able to delete a sample from my workspace failed. Error: -1
+2022-06-16 15:24:52,519 - TestSuite - INFO - ---------------End of Test 020_Ensure Researcher user able to delete a sample from my workspace--------------------------------------
+2022-06-16 15:24:52,723 - TestSuite - INFO - ---------------Begin Test case: 024_Ensure Researcher user able to view a sample from my worksapce--------------
+2022-06-16 15:24:56,966 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:56,984 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:56,992 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:57,001 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:57,009 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:57,023 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:57,032 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:57,050 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:57,064 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:24:57,454 - TestSuite - ERROR - Test 024_Ensure Researcher user able to view a sample from my worksapce failed. Error: -1
+2022-06-16 15:24:57,454 - TestSuite - INFO - ---------------End of Test 024_Ensure Researcher user able to view a sample from my worksapce--------------------------------------
+2022-06-16 15:24:57,578 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure Curator user able to add a Protocol to the Favorites list and view the added protocol from my favorites page--------------
+2022-06-16 15:25:02,353 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,361 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,377 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,385 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,392 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,403 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,411 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,422 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,443 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:02,774 - TestSuite - ERROR - Test 002_Ensure Curator user able to add a Protocol to the Favorites list and view the added protocol from my favorites page failed. Error: -1
+2022-06-16 15:25:02,774 - TestSuite - INFO - ---------------End of Test 002_Ensure Curator user able to add a Protocol to the Favorites list and view the added protocol from my favorites page--------------------------------------
+2022-06-16 15:25:02,916 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Curator user able to add a publication to the Favorites list and view the added publication from my favorites page--------------
+2022-06-16 15:25:07,129 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,159 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,176 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,200 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,213 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,237 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,254 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,280 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,312 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:07,618 - TestSuite - ERROR - Test 003_Ensure Curator user able to add a publication to the Favorites list and view the added publication from my favorites page failed. Error: -1
+2022-06-16 15:25:07,618 - TestSuite - INFO - ---------------End of Test 003_Ensure Curator user able to add a publication to the Favorites list and view the added publication from my favorites page--------------------------------------
+2022-06-16 15:25:07,770 - TestSuite - INFO - ---------------Begin Test case: 002_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search--------------
+2022-06-16 15:25:11,263 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,275 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,310 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,317 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,325 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,332 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,341 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:11,645 - TestSuite - ERROR - Test 002_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:25:11,645 - TestSuite - INFO - ---------------End of Test 002_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:25:11,848 - TestSuite - INFO - ---------------Begin Test case: 003_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search--------------
+2022-06-16 15:25:15,636 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,644 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,652 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,659 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,665 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,674 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,689 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,695 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:15,704 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:16,002 - TestSuite - ERROR - Test 003_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:25:16,003 - TestSuite - INFO - ---------------End of Test 003_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search--------------------------------------
+2022-06-16 15:25:16,123 - TestSuite - INFO - ---------------Begin Test case: 02_Ensure Researcher user able to search with in vitro characterization filters from advanced search page--------------
+2022-06-16 15:25:19,779 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,793 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,799 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,824 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,830 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,843 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,850 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,857 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:19,870 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:20,182 - TestSuite - ERROR - Test 02_Ensure Researcher user able to search with in vitro characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:25:20,182 - TestSuite - INFO - ---------------End of Test 02_Ensure Researcher user able to search with in vitro characterization filters from advanced search page--------------------------------------
+2022-06-16 15:25:20,355 - TestSuite - INFO - ---------------Begin Test case: 004_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and equals filter--------------
+2022-06-16 15:25:24,621 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,639 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,648 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,655 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,661 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,667 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,673 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,682 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:24,990 - TestSuite - ERROR - Test 004_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and equals filter failed. Error: -1
+2022-06-16 15:25:24,990 - TestSuite - INFO - ---------------End of Test 004_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and equals filter--------------------------------------
+2022-06-16 15:25:25,143 - TestSuite - INFO - ---------------Begin Test case: 025_Ensure Researcher user able to delete a Protocol from my workspace--------------
+2022-06-16 15:25:29,515 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,525 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,532 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,542 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,549 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,556 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,564 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,570 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,582 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:29,967 - TestSuite - ERROR - Test 025_Ensure Researcher user able to delete a Protocol from my workspace failed. Error: -1
+2022-06-16 15:25:29,967 - TestSuite - INFO - ---------------End of Test 025_Ensure Researcher user able to delete a Protocol from my workspace--------------------------------------
+2022-06-16 15:25:30,115 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure Curator user able to add a Protocol to the Favorites list--------------
+2022-06-16 15:25:34,424 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,447 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,457 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,469 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,476 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,504 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,534 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,541 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,562 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:34,862 - TestSuite - ERROR - Test 002_Ensure Curator user able to add a Protocol to the Favorites list failed. Error: -1
+2022-06-16 15:25:34,862 - TestSuite - INFO - ---------------End of Test 002_Ensure Curator user able to add a Protocol to the Favorites list--------------------------------------
+2022-06-16 15:25:34,999 - TestSuite - INFO - ---------------Begin Test case: 009_Ensure Curator user able to Edit Composition Criteria from advanced sample search page--------------
+2022-06-16 15:25:39,406 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,434 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,449 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,457 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,463 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,469 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,475 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,481 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,496 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:39,851 - TestSuite - ERROR - Test 009_Ensure Curator user able to Edit Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:25:39,851 - TestSuite - INFO - ---------------End of Test 009_Ensure Curator user able to Edit Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:25:39,976 - TestSuite - INFO - ---------------Begin Test case: 01_Ensure Researcher user able to search with phyico chemical characterization filters from advanced search page--------------
+2022-06-16 15:25:44,246 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,257 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,264 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,290 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,328 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,334 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,349 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,356 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,375 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:44,785 - TestSuite - ERROR - Test 01_Ensure Researcher user able to search with phyico chemical characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:25:44,786 - TestSuite - INFO - ---------------End of Test 01_Ensure Researcher user able to search with phyico chemical characterization filters from advanced search page--------------------------------------
+2022-06-16 15:25:44,926 - TestSuite - INFO - ---------------Begin Test case: 03_Ensure Curator user able to search with in vivo characterization filters from advanced search page--------------
+2022-06-16 15:25:48,852 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,867 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,875 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,882 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,888 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,893 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,900 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,910 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:48,921 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:49,237 - TestSuite - ERROR - Test 03_Ensure Curator user able to search with in vivo characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:25:49,237 - TestSuite - INFO - ---------------End of Test 03_Ensure Curator user able to search with in vivo characterization filters from advanced search page--------------------------------------
+2022-06-16 15:25:49,376 - TestSuite - INFO - ---------------Begin Test case: 01_Ensure Curator user able to search with phyico chemical characterization filters from advanced search page--------------
+2022-06-16 15:25:54,175 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,200 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,207 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,226 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,238 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,251 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,273 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,280 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,290 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:54,555 - TestSuite - ERROR - Test 01_Ensure Curator user able to search with phyico chemical characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:25:54,555 - TestSuite - INFO - ---------------End of Test 01_Ensure Curator user able to search with phyico chemical characterization filters from advanced search page--------------------------------------
+2022-06-16 15:25:54,680 - TestSuite - INFO - ---------------Begin Test case: 004_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------
+2022-06-16 15:25:59,347 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,364 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,373 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,381 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,392 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,401 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,410 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,416 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,425 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:25:59,785 - TestSuite - ERROR - Test 004_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:25:59,785 - TestSuite - INFO - ---------------End of Test 004_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:25:59,904 - TestSuite - INFO - ---------------Begin Test case: 003_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search--------------
+2022-06-16 15:26:04,325 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,336 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,350 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,356 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,366 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,372 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,382 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,390 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,400 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:04,679 - TestSuite - ERROR - Test 003_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:26:04,679 - TestSuite - INFO - ---------------End of Test 003_Curator User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name contains filter to the Advanced sample search--------------------------------------
+2022-06-16 15:26:04,831 - TestSuite - INFO - ---------------Begin Test case: 05_Ensure Researcher user able to Remove characterization advanced search query--------------
+2022-06-16 15:26:09,303 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,312 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,319 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,327 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,334 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,342 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,354 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,361 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,372 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:09,666 - TestSuite - ERROR - Test 05_Ensure Researcher user able to Remove characterization advanced search query failed. Error: -1
+2022-06-16 15:26:09,666 - TestSuite - INFO - ---------------End of Test 05_Ensure Researcher user able to Remove characterization advanced search query--------------------------------------
+2022-06-16 15:26:09,786 - TestSuite - INFO - ---------------Begin Test case: 005_Researcher User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------
+2022-06-16 15:26:14,200 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,212 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,219 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,238 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,248 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,256 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,263 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,288 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:14,608 - TestSuite - ERROR - Test 005_Researcher User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:26:14,608 - TestSuite - INFO - ---------------End of Test 005_Researcher User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:26:14,735 - TestSuite - INFO - ---------------Begin Test case: 022_Ensure researcher user able to edit a sample from my worksapce--------------
+2022-06-16 15:26:18,798 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,806 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,812 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,818 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,824 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,845 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,857 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:18,872 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:19,171 - TestSuite - ERROR - Test 022_Ensure researcher user able to edit a sample from my worksapce failed. Error: -1
+2022-06-16 15:26:19,171 - TestSuite - INFO - ---------------End of Test 022_Ensure researcher user able to edit a sample from my worksapce--------------------------------------
+2022-06-16 15:26:19,304 - TestSuite - INFO - ---------------Begin Test case: 006_Ensure Researcher user able to Remove sample criteria from advanced sample search page--------------
+2022-06-16 15:26:23,810 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,818 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,830 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,855 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,862 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,870 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:23,879 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:24,168 - TestSuite - ERROR - Test 006_Ensure Researcher user able to Remove sample criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:26:24,169 - TestSuite - INFO - ---------------End of Test 006_Ensure Researcher user able to Remove sample criteria from advanced sample search page--------------------------------------
+2022-06-16 15:26:24,317 - TestSuite - INFO - ---------------Begin Test case: 004_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------
+2022-06-16 15:26:28,832 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,846 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,856 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,865 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,873 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,881 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,890 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,898 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:28,907 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:29,204 - TestSuite - ERROR - Test 004_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:26:29,205 - TestSuite - INFO - ---------------End of Test 004_Researcher User should be able to add Composition Criteria with Functionalizing Entity and Antibody and Chemical name equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:26:29,352 - TestSuite - INFO - ---------------Begin Test case: 034_Ensure Researcher user able to Edit a Publication from my workspace--------------
+2022-06-16 15:26:33,957 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:33,972 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:33,979 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:33,989 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:34,004 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:34,013 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:34,019 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:34,030 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:34,043 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:34,341 - TestSuite - ERROR - Test 034_Ensure Researcher user able to Edit a Publication from my workspace failed. Error: -1
+2022-06-16 15:26:34,341 - TestSuite - INFO - ---------------End of Test 034_Ensure Researcher user able to Edit a Publication from my workspace--------------------------------------
+2022-06-16 15:26:34,468 - TestSuite - INFO - ---------------Begin Test case: 06_Ensure Curator user able to Reset characterization advanced search query--------------
+2022-06-16 15:26:38,295 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,309 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,324 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,337 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,343 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,352 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,360 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,366 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,381 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:38,664 - TestSuite - ERROR - Test 06_Ensure Curator user able to Reset characterization advanced search query failed. Error: -1
+2022-06-16 15:26:38,664 - TestSuite - INFO - ---------------End of Test 06_Ensure Curator user able to Reset characterization advanced search query--------------------------------------
+2022-06-16 15:26:38,789 - TestSuite - INFO - ---------------Begin Test case: 008_Ensure Curator user able to Remove Composition Criteria from advanced sample search page--------------
+2022-06-16 15:26:42,924 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,932 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,938 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,944 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,950 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,959 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,965 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,970 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:42,979 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:43,239 - TestSuite - ERROR - Test 008_Ensure Curator user able to Remove Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:26:43,239 - TestSuite - INFO - ---------------End of Test 008_Ensure Curator user able to Remove Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:26:43,382 - TestSuite - INFO - ---------------Begin Test case: 05_Ensure Curator user able to Remove characterization advanced search query--------------
+2022-06-16 15:26:47,940 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:47,948 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:47,956 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:47,963 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:47,979 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:47,985 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:47,991 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:47,997 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:48,007 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:48,350 - TestSuite - ERROR - Test 05_Ensure Curator user able to Remove characterization advanced search query failed. Error: -1
+2022-06-16 15:26:48,350 - TestSuite - INFO - ---------------End of Test 05_Ensure Curator user able to Remove characterization advanced search query--------------------------------------
+2022-06-16 15:26:48,489 - TestSuite - INFO - ---------------Begin Test case: 021_Ensure Curator user able to edit a sample from my worksapce--------------
+2022-06-16 15:26:52,950 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:52,960 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:52,966 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:52,974 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:52,981 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:52,987 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:52,995 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:53,008 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:53,021 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:53,289 - TestSuite - ERROR - Test 021_Ensure Curator user able to edit a sample from my worksapce failed. Error: -1
+2022-06-16 15:26:53,289 - TestSuite - INFO - ---------------End of Test 021_Ensure Curator user able to edit a sample from my worksapce--------------------------------------
+2022-06-16 15:26:53,454 - TestSuite - INFO - ---------------Begin Test case: 025_Ensure Curator user able to delete a Protocol from my workspace--------------
+2022-06-16 15:26:57,281 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,290 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,296 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,304 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,315 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,323 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,330 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,340 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,354 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:26:57,623 - TestSuite - ERROR - Test 025_Ensure Curator user able to delete a Protocol from my workspace failed. Error: -1
+2022-06-16 15:26:57,623 - TestSuite - INFO - ---------------End of Test 025_Ensure Curator user able to delete a Protocol from my workspace--------------------------------------
+2022-06-16 15:26:57,749 - TestSuite - INFO - ---------------Begin Test case: 06_Ensure Researcher user able to Reset characterization advanced search query--------------
+2022-06-16 15:27:02,061 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,090 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,117 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,138 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,151 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,159 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,170 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,186 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,210 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:02,565 - TestSuite - ERROR - Test 06_Ensure Researcher user able to Reset characterization advanced search query failed. Error: -1
+2022-06-16 15:27:02,565 - TestSuite - INFO - ---------------End of Test 06_Ensure Researcher user able to Reset characterization advanced search query--------------------------------------
+2022-06-16 15:27:02,694 - TestSuite - INFO - ---------------Begin Test case: 04_Ensure Researcher user able to edit characterization advanced search query--------------
+2022-06-16 15:27:06,165 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,180 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,188 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,195 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,203 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,209 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,214 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,222 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,244 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:06,549 - TestSuite - ERROR - Test 04_Ensure Researcher user able to edit characterization advanced search query failed. Error: -1
+2022-06-16 15:27:06,549 - TestSuite - INFO - ---------------End of Test 04_Ensure Researcher user able to edit characterization advanced search query--------------------------------------
+2022-06-16 15:27:06,697 - TestSuite - INFO - ---------------Begin Test case: 001_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------
+2022-06-16 15:27:11,105 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,115 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,122 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,135 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,142 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,150 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,163 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,176 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,188 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:11,476 - TestSuite - ERROR - Test 001_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:27:11,476 - TestSuite - INFO - ---------------End of Test 001_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------------------------------
+2022-06-16 15:27:11,626 - TestSuite - INFO - ---------------Begin Test case: 032_Ensure Researcher user able to Delete a Publication from my workspace--------------
+2022-06-16 15:27:15,091 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,104 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,110 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,119 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,124 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,137 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,144 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,154 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,167 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:15,450 - TestSuite - ERROR - Test 032_Ensure Researcher user able to Delete a Publication from my workspace failed. Error: -1
+2022-06-16 15:27:15,451 - TestSuite - INFO - ---------------End of Test 032_Ensure Researcher user able to Delete a Publication from my workspace--------------------------------------
+2022-06-16 15:27:15,585 - TestSuite - INFO - ---------------Begin Test case: 009_Ensure Researcher user able to Edit Composition Criteria from advanced sample search page--------------
+2022-06-16 15:27:20,064 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,089 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,098 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,121 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,127 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,133 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,140 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,146 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,155 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:20,432 - TestSuite - ERROR - Test 009_Ensure Researcher user able to Edit Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:27:20,433 - TestSuite - INFO - ---------------End of Test 009_Ensure Researcher user able to Edit Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:27:20,570 - TestSuite - INFO - ---------------Begin Test case: 019_Ensure Curator user able to delete a sample from my workspace--------------
+2022-06-16 15:27:23,916 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,926 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,932 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,941 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,946 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,952 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,963 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:23,973 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:24,288 - TestSuite - ERROR - Test 019_Ensure Curator user able to delete a sample from my workspace failed. Error: -1
+2022-06-16 15:27:24,288 - TestSuite - INFO - ---------------End of Test 019_Ensure Curator user able to delete a sample from my workspace--------------------------------------
+2022-06-16 15:27:24,445 - TestSuite - INFO - ---------------Begin Test case: 031_Ensure Curator user able to Delete a Publication from my workspace--------------
+2022-06-16 15:27:29,149 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,158 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,164 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,171 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,187 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,199 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,206 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,212 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,221 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:29,507 - TestSuite - ERROR - Test 031_Ensure Curator user able to Delete a Publication from my workspace failed. Error: -1
+2022-06-16 15:27:29,507 - TestSuite - INFO - ---------------End of Test 031_Ensure Curator user able to Delete a Publication from my workspace--------------------------------------
+2022-06-16 15:27:29,653 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------
+2022-06-16 15:27:34,288 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,295 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,302 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,309 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,315 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,325 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,331 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,339 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,350 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:34,674 - TestSuite - ERROR - Test 001_Ensure Curator user able to add a Sample to the Favorites list and view the added sample from my favorites page failed. Error: -1
+2022-06-16 15:27:34,674 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------------------------------
+2022-06-16 15:27:34,815 - TestSuite - INFO - ---------------Begin Test case: 033_Ensure Curator user able to Edit a Publication from my workspace--------------
+2022-06-16 15:27:38,347 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,356 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,361 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,368 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,374 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,382 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,390 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,396 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,408 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:38,705 - TestSuite - ERROR - Test 033_Ensure Curator user able to Edit a Publication from my workspace failed. Error: -1
+2022-06-16 15:27:38,705 - TestSuite - INFO - ---------------End of Test 033_Ensure Curator user able to Edit a Publication from my workspace--------------------------------------
+2022-06-16 15:27:38,830 - TestSuite - INFO - ---------------Begin Test case: 003_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter--------------
+2022-06-16 15:27:42,352 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,363 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,370 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,377 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,382 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,389 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,395 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,401 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,409 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:42,680 - TestSuite - ERROR - Test 003_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter failed. Error: -1
+2022-06-16 15:27:42,680 - TestSuite - INFO - ---------------End of Test 003_Researcher User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter--------------------------------------
+2022-06-16 15:27:42,921 - TestSuite - INFO - ---------------Begin Test case: 005_Ensure Researcher user able to Reset sample criteria from advanced sample search page--------------
+2022-06-16 15:27:46,867 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,876 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,884 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,891 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,898 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,903 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,909 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,915 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:46,925 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:47,250 - TestSuite - ERROR - Test 005_Ensure Researcher user able to Reset sample criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:27:47,250 - TestSuite - INFO - ---------------End of Test 005_Ensure Researcher user able to Reset sample criteria from advanced sample search page--------------------------------------
+2022-06-16 15:27:47,369 - TestSuite - INFO - ---------------Begin Test case: 002_Researcher User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------
+2022-06-16 15:27:52,032 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,042 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,048 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,054 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,059 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,064 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,072 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,078 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,087 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:52,343 - TestSuite - ERROR - Test 002_Researcher User should be able to add sample criteria with sample name and equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:27:52,343 - TestSuite - INFO - ---------------End of Test 002_Researcher User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:27:52,469 - TestSuite - INFO - ---------------Begin Test case: 021_Ensure Curator user able to view a sample from my worksapce--------------
+2022-06-16 15:27:54,940 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:54,947 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:54,962 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:54,970 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:54,976 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:54,988 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:54,995 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:55,005 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:55,015 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:55,280 - TestSuite - ERROR - Test 021_Ensure Curator user able to view a sample from my worksapce failed. Error: -1
+2022-06-16 15:27:55,280 - TestSuite - INFO - ---------------End of Test 021_Ensure Curator user able to view a sample from my worksapce--------------------------------------
+2022-06-16 15:27:55,399 - TestSuite - INFO - ---------------Begin Test case: 02_Ensure Curator user able to search with in vitro characterization filters from advanced search page--------------
+2022-06-16 15:27:57,907 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,914 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,920 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,937 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,942 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,950 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,957 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,962 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:57,973 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:27:58,240 - TestSuite - ERROR - Test 02_Ensure Curator user able to search with in vitro characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:27:58,241 - TestSuite - INFO - ---------------End of Test 02_Ensure Curator user able to search with in vitro characterization filters from advanced search page--------------------------------------
+2022-06-16 15:27:58,368 - TestSuite - INFO - ---------------Begin Test case: 006_Researcher User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------
+2022-06-16 15:28:02,069 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,091 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,112 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,119 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,146 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,170 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,178 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,186 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,196 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:02,653 - TestSuite - ERROR - Test 006_Researcher User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:28:02,653 - TestSuite - INFO - ---------------End of Test 006_Researcher User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:28:02,779 - TestSuite - INFO - ---------------Begin Test case: 007_Ensure Researcher user able to Edit sample criteria from advanced sample search page--------------
+2022-06-16 15:28:07,330 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,347 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,377 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,392 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,429 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,436 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,444 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,458 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,488 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:07,804 - TestSuite - ERROR - Test 007_Ensure Researcher user able to Edit sample criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:28:07,804 - TestSuite - INFO - ---------------End of Test 007_Ensure Researcher user able to Edit sample criteria from advanced sample search page--------------------------------------
+2022-06-16 15:28:07,976 - TestSuite - INFO - ---------------Begin Test case: 006_Curator User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------
+2022-06-16 15:28:10,619 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,630 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,656 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,700 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,724 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,744 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,760 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,770 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:10,782 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:11,182 - TestSuite - ERROR - Test 006_Curator User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:28:11,182 - TestSuite - INFO - ---------------End of Test 006_Curator User should be able to add Composition Criteria with Function and Targeting Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:28:11,372 - TestSuite - INFO - ---------------Begin Test case: 030_Ensure Researcher user able to view a Protocol from my workspace--------------
+2022-06-16 15:28:16,520 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,545 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,579 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,589 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,599 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,612 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,619 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,627 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,637 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:16,929 - TestSuite - ERROR - Test 030_Ensure Researcher user able to view a Protocol from my workspace failed. Error: -1
+2022-06-16 15:28:16,929 - TestSuite - INFO - ---------------End of Test 030_Ensure Researcher user able to view a Protocol from my workspace--------------------------------------
+2022-06-16 15:28:17,061 - TestSuite - INFO - ---------------Begin Test case: 007_Ensure Researcher user able to Reset Composition Criteria from advanced sample search page--------------
+2022-06-16 15:28:21,084 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,091 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,097 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,106 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,112 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,118 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,128 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,134 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,143 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:21,408 - TestSuite - ERROR - Test 007_Ensure Researcher user able to Reset Composition Criteria from advanced sample search page failed. Error: -1
+2022-06-16 15:28:21,408 - TestSuite - INFO - ---------------End of Test 007_Ensure Researcher user able to Reset Composition Criteria from advanced sample search page--------------------------------------
+2022-06-16 15:28:21,558 - TestSuite - INFO - ---------------Begin Test case: 005_Curator User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------
+2022-06-16 15:28:27,321 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,329 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,336 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,343 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,349 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,356 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,364 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,371 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,399 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:27,747 - TestSuite - ERROR - Test 005_Curator User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:28:27,747 - TestSuite - INFO - ---------------End of Test 005_Curator User should be able to add Composition Criteria with Function and Imaging Function filter to the Advanced sample search--------------------------------------
+2022-06-16 15:28:27,899 - TestSuite - INFO - ---------------Begin Test case: 03_Ensure Researcher user able to search with in vivo characterization filters from advanced search page--------------
+2022-06-16 15:28:31,514 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,552 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,565 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,579 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,588 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,601 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,618 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,624 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,634 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:31,928 - TestSuite - ERROR - Test 03_Ensure Researcher user able to search with in vivo characterization filters from advanced search page failed. Error: -1
+2022-06-16 15:28:31,928 - TestSuite - INFO - ---------------End of Test 03_Ensure Researcher user able to search with in vivo characterization filters from advanced search page--------------------------------------
+2022-06-16 15:28:32,063 - TestSuite - INFO - ---------------Begin Test case: 028_Ensure Researcher user able to edit a Protocol from my workspace--------------
+2022-06-16 15:28:36,465 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,482 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,504 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,513 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,519 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,525 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,532 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,539 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,548 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:36,827 - TestSuite - ERROR - Test 028_Ensure Researcher user able to edit a Protocol from my workspace failed. Error: -1
+2022-06-16 15:28:36,827 - TestSuite - INFO - ---------------End of Test 028_Ensure Researcher user able to edit a Protocol from my workspace--------------------------------------
+2022-06-16 15:28:36,962 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Curator user able to add a Publication to the Favorites list--------------
+2022-06-16 15:28:41,892 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,899 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,908 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,927 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,932 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,942 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,949 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,962 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:41,973 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:42,278 - TestSuite - ERROR - Test 003_Ensure Curator user able to add a Publication to the Favorites list failed. Error: -1
+2022-06-16 15:28:42,278 - TestSuite - INFO - ---------------End of Test 003_Ensure Curator user able to add a Publication to the Favorites list--------------------------------------
+2022-06-16 15:28:42,502 - TestSuite - INFO - ---------------Begin Test case: 04_Ensure Curator user able to edit characterization advanced search query--------------
+2022-06-16 15:28:47,340 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,359 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,365 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,372 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,377 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,384 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,390 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,396 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,407 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:47,708 - TestSuite - ERROR - Test 04_Ensure Curator user able to edit characterization advanced search query failed. Error: -1
+2022-06-16 15:28:47,709 - TestSuite - INFO - ---------------End of Test 04_Ensure Curator user able to edit characterization advanced search query--------------------------------------
+2022-06-16 15:28:47,882 - TestSuite - INFO - ---------------Begin Test case: 001_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------
+2022-06-16 15:28:52,594 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,603 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,611 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,617 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,624 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,630 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,637 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,643 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,663 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:52,964 - TestSuite - ERROR - Test 001_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:28:52,964 - TestSuite - INFO - ---------------End of Test 001_Curator User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name contains filter to the Advanced sample search--------------------------------------
+2022-06-16 15:28:53,093 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator user able to add a Sample to the Favorites list--------------
+2022-06-16 15:28:57,502 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,511 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,516 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,523 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,529 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,535 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,541 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,549 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,559 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:28:57,861 - TestSuite - ERROR - Test 001_Ensure Curator user able to add a Sample to the Favorites list failed. Error: -1
+2022-06-16 15:28:57,861 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator user able to add a Sample to the Favorites list--------------------------------------
+2022-06-16 15:28:57,992 - TestSuite - INFO - ---------------Begin Test case: 002_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search--------------
+2022-06-16 15:29:02,584 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,599 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,619 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,626 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,634 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,649 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,657 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,663 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,672 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:02,943 - TestSuite - ERROR - Test 002_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 15:29:02,943 - TestSuite - INFO - ---------------End of Test 002_Researcher User should be able to add Composition Criteria with Nanomaterial Entity and Biopolymer and Chemical name equals filter to the Advanced sample search--------------------------------------
+2022-06-16 15:29:03,071 - TestSuite - INFO - ---------------Begin Test case: 029_Ensure Curator user able to view a Protocol from my workspace--------------
+2022-06-16 15:29:07,590 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,599 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,607 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,615 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,643 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,658 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,664 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:07,681 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:29:08,019 - TestSuite - ERROR - Test 029_Ensure Curator user able to view a Protocol from my workspace failed. Error: -1
+2022-06-16 15:29:08,019 - TestSuite - INFO - ---------------End of Test 029_Ensure Curator user able to view a Protocol from my workspace--------------------------------------

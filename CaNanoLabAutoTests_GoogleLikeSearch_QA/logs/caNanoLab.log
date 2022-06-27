@@ -1,0 +1,182 @@
+2022-06-16 15:06:40,255 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,276 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,314 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,320 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,329 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,339 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,347 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,361 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:40,738 - TestSuite - ERROR - Test 002_Verify User able to search for publicly available samples from google like search while user logged in as curator failed. Error: -1
+2022-06-16 15:06:40,738 - TestSuite - INFO - ---------------End of Test 002_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------------------------------
+2022-06-16 15:06:40,921 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by name when user logged in as Reasercher--------------
+2022-06-16 15:06:46,440 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,459 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,470 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,478 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,486 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,503 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,510 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,521 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:46,785 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by name when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:06:46,786 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by name when user logged in as Reasercher--------------------------------------
+2022-06-16 15:06:46,912 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description when user logged in as Curator--------------
+2022-06-16 15:06:49,513 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,523 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,530 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,538 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,545 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,551 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,557 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,563 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,571 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:49,829 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Description when user logged in as Curator failed. Error: -1
+2022-06-16 15:06:49,829 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description when user logged in as Curator--------------------------------------
+2022-06-16 15:06:49,956 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date--------------
+2022-06-16 15:06:52,402 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,411 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,418 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,432 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,440 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,446 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,453 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,459 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:52,469 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:55,723 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:06:55,724 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date--------------------------------------
+2022-06-16 15:06:55,724 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Created Date Passed
+2022-06-16 15:06:55,904 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by name when user logged in as Curator--------------
+2022-06-16 15:06:59,471 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,481 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,490 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,508 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,515 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,524 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,536 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,543 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,552 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:06:59,871 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by name when user logged in as Curator failed. Error: -1
+2022-06-16 15:06:59,871 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by name when user logged in as Curator--------------------------------------
+2022-06-16 15:07:00,008 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------
+2022-06-16 15:07:04,962 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:04,969 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:04,977 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:04,986 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:04,992 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:04,999 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:05,005 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:05,011 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:05,023 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:05,303 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:07:05,303 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------------------------------
+2022-06-16 15:07:05,429 - TestSuite - INFO - ---------------Begin Test case: 002_Verify User able to search for publicly available samples from google like search while user logged in as Researcher--------------
+2022-06-16 15:07:07,848 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,866 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,872 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,878 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,885 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,891 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,899 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,906 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:07,926 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:08,184 - TestSuite - ERROR - Test 002_Verify User able to search for publicly available samples from google like search while user logged in as Researcher failed. Error: -1
+2022-06-16 15:07:08,184 - TestSuite - INFO - ---------------End of Test 002_Verify User able to search for publicly available samples from google like search while user logged in as Researcher--------------------------------------
+2022-06-16 15:07:08,305 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type when user logged in as Reasercher--------------
+2022-06-16 15:07:10,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,856 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,862 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,868 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,874 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,880 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,886 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,893 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:10,901 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:11,164 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Type when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:07:11,164 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type when user logged in as Reasercher--------------------------------------
+2022-06-16 15:07:11,299 - TestSuite - INFO - ---------------Begin Test case: 003_Verify User able to search for publicly available samples from google like search while user logged in as researcher--------------
+2022-06-16 15:07:13,961 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:13,973 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:13,983 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:13,991 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:13,998 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:14,005 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:14,011 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:14,018 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:14,027 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:14,388 - TestSuite - ERROR - Test 003_Verify User able to search for publicly available samples from google like search while user logged in as researcher failed. Error: -1
+2022-06-16 15:07:14,388 - TestSuite - INFO - ---------------End of Test 003_Verify User able to search for publicly available samples from google like search while user logged in as researcher--------------------------------------
+2022-06-16 15:07:14,548 - TestSuite - INFO - ---------------Begin Test case: 001_Verify User able to search for publicly available samples from google like search without login--------------
+2022-06-16 15:07:18,614 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,622 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,629 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,635 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,641 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,647 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,670 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,678 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,686 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:18,942 - TestSuite - ERROR - Test 001_Verify User able to search for publicly available samples from google like search without login failed. Error: -1
+2022-06-16 15:07:18,943 - TestSuite - INFO - ---------------End of Test 001_Verify User able to search for publicly available samples from google like search without login--------------------------------------
+2022-06-16 15:07:19,064 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------
+2022-06-16 15:07:21,538 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,557 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,564 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,570 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,576 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,582 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,589 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,594 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,603 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:21,858 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:07:21,858 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------------------------------
+2022-06-16 15:07:21,986 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type--------------
+2022-06-16 15:07:24,434 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,452 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,458 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,469 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,477 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,486 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,506 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:24,514 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:27,768 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:07:27,768 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type--------------------------------------
+2022-06-16 15:07:27,768 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Type Passed
+2022-06-16 15:07:27,897 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by name--------------
+2022-06-16 15:07:30,433 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,441 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,448 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,456 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,462 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,468 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,475 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,481 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:30,494 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:33,750 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:07:33,750 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by name--------------------------------------
+2022-06-16 15:07:33,750 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by name Passed
+2022-06-16 15:07:33,881 - TestSuite - INFO - ---------------Begin Test case: 001_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------
+2022-06-16 15:07:36,406 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,414 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,421 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,428 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,434 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,442 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,449 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,455 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,466 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:36,723 - TestSuite - ERROR - Test 001_Verify User able to search for publicly available samples from google like search while user logged in as curator failed. Error: -1
+2022-06-16 15:07:36,723 - TestSuite - INFO - ---------------End of Test 001_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------------------------------
+2022-06-16 15:07:36,845 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type when user logged in as Curator--------------
+2022-06-16 15:07:39,262 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,273 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,296 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,304 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,310 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,319 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,328 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,336 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,346 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:07:39,612 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Type when user logged in as Curator failed. Error: -1
+2022-06-16 15:07:39,612 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type when user logged in as Curator--------------------------------------

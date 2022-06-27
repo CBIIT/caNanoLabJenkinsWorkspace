@@ -1,0 +1,671 @@
+2022-06-16 20:26:59,974 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:26:59,982 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:26:59,988 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:26:59,998 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:00,005 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:00,016 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:00,022 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:00,028 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:00,036 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:00,301 - TestSuite - ERROR - Test 001_Ensure_Struts_has_been_removed_from_Manage_Protocol_page failed. Error: -1
+2022-06-16 20:27:00,301 - TestSuite - INFO - ---------------End of Test 001_Ensure_Struts_has_been_removed_from_Manage_Protocol_page--------------------------------------
+2022-06-16 20:27:00,423 - TestSuite - INFO - ---------------Begin Test case: 009_Verify_Researcher_User_can_Edit_samples_from_My_Workspace_page--------------
+2022-06-16 20:27:02,982 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:02,990 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:02,996 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:03,004 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:03,009 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:03,015 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:03,021 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:03,027 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:03,035 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:03,291 - TestSuite - ERROR - Test 009_Verify_Researcher_User_can_Edit_samples_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:27:03,292 - TestSuite - INFO - ---------------End of Test 009_Verify_Researcher_User_can_Edit_samples_from_My_Workspace_page--------------------------------------
+2022-06-16 20:27:03,412 - TestSuite - INFO - ---------------Begin Test case: 002_Curator User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------
+2022-06-16 20:27:05,912 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,920 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,939 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,945 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,950 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,956 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,963 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,972 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:05,983 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:06,241 - TestSuite - ERROR - Test 002_Curator User should be able to add sample criteria with sample name and equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 20:27:06,241 - TestSuite - INFO - ---------------End of Test 002_Curator User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------------------------------
+2022-06-16 20:27:06,368 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_the_ability_to_add_a_Sample_Composition_Functionalizing_Entity_as_Curator--------------
+2022-06-16 20:27:08,974 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:08,987 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:08,993 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:08,999 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:09,004 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:09,010 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:09,016 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:09,022 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:09,030 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:09,301 - TestSuite - ERROR - Test 006_Verify_the_ability_to_add_a_Sample_Composition_Functionalizing_Entity_as_Curator failed. Error: -1
+2022-06-16 20:27:09,301 - TestSuite - INFO - ---------------End of Test 006_Verify_the_ability_to_add_a_Sample_Composition_Functionalizing_Entity_as_Curator--------------------------------------
+2022-06-16 20:27:09,423 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure_Struts_has_been_removed_from_Search_Existing_Protocols_page--------------
+2022-06-16 20:27:11,914 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,932 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,938 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,944 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,955 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,960 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,966 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,972 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:11,980 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:12,235 - TestSuite - ERROR - Test 003_Ensure_Struts_has_been_removed_from_Search_Existing_Protocols_page failed. Error: -1
+2022-06-16 20:27:12,235 - TestSuite - INFO - ---------------End of Test 003_Ensure_Struts_has_been_removed_from_Search_Existing_Protocols_page--------------------------------------
+2022-06-16 20:27:15,537 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_the_ability_to_submit_a_New_Protocols_as_a_Curator--------------
+2022-06-16 20:27:19,057 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,068 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,076 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,085 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,092 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,100 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,107 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,115 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,126 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:19,464 - TestSuite - ERROR - Test 001_Verify_the_ability_to_submit_a_New_Protocols_as_a_Curator failed. Error: -1
+2022-06-16 20:27:19,464 - TestSuite - INFO - ---------------End of Test 001_Verify_the_ability_to_submit_a_New_Protocols_as_a_Curator--------------------------------------
+2022-06-16 20:27:19,650 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_the_ability_to_Search_Protocols_as_a_Curator--------------
+2022-06-16 20:27:22,265 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,276 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,285 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,295 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,302 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,309 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,316 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,323 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,333 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:22,683 - TestSuite - ERROR - Test 001_Verify_the_ability_to_Search_Protocols_as_a_Curator failed. Error: -1
+2022-06-16 20:27:22,683 - TestSuite - INFO - ---------------End of Test 001_Verify_the_ability_to_Search_Protocols_as_a_Curator--------------------------------------
+2022-06-16 20:27:22,812 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_the_ability_to_Search_Protocols_as_a_Curator--------------
+2022-06-16 20:27:25,322 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,337 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,346 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,354 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,360 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,368 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,376 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,383 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,392 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:25,683 - TestSuite - ERROR - Test 001_Verify_the_ability_to_Search_Protocols_as_a_Curator failed. Error: -1
+2022-06-16 20:27:25,683 - TestSuite - INFO - ---------------End of Test 001_Verify_the_ability_to_Search_Protocols_as_a_Curator--------------------------------------
+2022-06-16 20:27:25,825 - TestSuite - INFO - ---------------Begin Test case: 011_Verify_Researcher_User_can_View_My_Protocols_from_My_Workspace_page--------------
+2022-06-16 20:27:28,411 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,420 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,427 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,434 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,441 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,449 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,457 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,463 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,473 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:28,741 - TestSuite - ERROR - Test 011_Verify_Researcher_User_can_View_My_Protocols_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:27:28,742 - TestSuite - INFO - ---------------End of Test 011_Verify_Researcher_User_can_View_My_Protocols_from_My_Workspace_page--------------------------------------
+2022-06-16 20:27:28,874 - TestSuite - INFO - ---------------Begin Test case: 012_Verify_Curator_User_can_Edit_My_Protocols_from_My_Workspace_page--------------
+2022-06-16 20:27:31,267 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,279 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,292 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,299 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,305 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,311 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,317 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,334 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,344 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:31,634 - TestSuite - ERROR - Test 012_Verify_Curator_User_can_Edit_My_Protocols_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:27:31,634 - TestSuite - INFO - ---------------End of Test 012_Verify_Curator_User_can_Edit_My_Protocols_from_My_Workspace_page--------------------------------------
+2022-06-16 20:27:31,773 - TestSuite - INFO - ---------------Begin Test case: 004_Curator User should be able to perform Advanced sample search by sample criteria with point of contact name and equals filter--------------
+2022-06-16 20:27:34,278 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,288 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,307 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,313 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,322 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,328 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,338 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:34,601 - TestSuite - ERROR - Test 004_Curator User should be able to perform Advanced sample search by sample criteria with point of contact name and equals filter failed. Error: -1
+2022-06-16 20:27:34,601 - TestSuite - INFO - ---------------End of Test 004_Curator User should be able to perform Advanced sample search by sample criteria with point of contact name and equals filter--------------------------------------
+2022-06-16 20:27:34,725 - TestSuite - INFO - ---------------Begin Test case: 015_Verify_Researcher_User_can_View_My_publications_from_My_Workspace_page--------------
+2022-06-16 20:27:37,284 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,299 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,304 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,312 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,319 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,329 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,338 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,345 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,355 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:37,617 - TestSuite - ERROR - Test 015_Verify_Researcher_User_can_View_My_publications_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:27:37,617 - TestSuite - INFO - ---------------End of Test 015_Verify_Researcher_User_can_View_My_publications_from_My_Workspace_page--------------------------------------
+2022-06-16 20:27:37,759 - TestSuite - INFO - ---------------Begin Test case: 007_Ensure Curator user able to Edit sample criteria from adavanced sample search page--------------
+2022-06-16 20:27:40,274 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,283 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,291 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,309 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,315 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,322 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,332 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,352 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:40,613 - TestSuite - ERROR - Test 007_Ensure Curator user able to Edit sample criteria from adavanced sample search page failed. Error: -1
+2022-06-16 20:27:40,613 - TestSuite - INFO - ---------------End of Test 007_Ensure Curator user able to Edit sample criteria from adavanced sample search page--------------------------------------
+2022-06-16 20:27:40,734 - TestSuite - INFO - ---------------Begin Test case: 002_Verify_the_ability_to_submit_a_New_Protocols_as_a_Researcher--------------
+2022-06-16 20:27:43,268 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,276 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,307 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,314 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,321 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,327 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,337 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:43,605 - TestSuite - ERROR - Test 002_Verify_the_ability_to_submit_a_New_Protocols_as_a_Researcher failed. Error: -1
+2022-06-16 20:27:43,605 - TestSuite - INFO - ---------------End of Test 002_Verify_the_ability_to_submit_a_New_Protocols_as_a_Researcher--------------------------------------
+2022-06-16 20:27:43,735 - TestSuite - INFO - ---------------Begin Test case: 005_Verify_the_ability_to_add_a_Sample_Composition_Naomaterial_Entity_as_Curator--------------
+2022-06-16 20:27:46,209 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,218 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,224 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,238 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,247 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,258 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,276 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,285 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:46,554 - TestSuite - ERROR - Test 005_Verify_the_ability_to_add_a_Sample_Composition_Naomaterial_Entity_as_Curator failed. Error: -1
+2022-06-16 20:27:46,554 - TestSuite - INFO - ---------------End of Test 005_Verify_the_ability_to_add_a_Sample_Composition_Naomaterial_Entity_as_Curator--------------------------------------
+2022-06-16 20:27:46,686 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_the_ability_to_Search_Protocols_as_a_Curator--------------
+2022-06-16 20:27:49,260 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,275 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,282 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,288 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,300 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,308 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,321 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:49,577 - TestSuite - ERROR - Test 001_Verify_the_ability_to_Search_Protocols_as_a_Curator failed. Error: -1
+2022-06-16 20:27:49,577 - TestSuite - INFO - ---------------End of Test 001_Verify_the_ability_to_Search_Protocols_as_a_Curator--------------------------------------
+2022-06-16 20:27:49,698 - TestSuite - INFO - ---------------Begin Test case: 004_Verify_User_can_Uncheck_protocols_from_My_Workspace--------------
+2022-06-16 20:27:52,093 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,108 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,114 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,131 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,137 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,145 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,151 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,158 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,169 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:52,440 - TestSuite - ERROR - Test 004_Verify_User_can_Uncheck_protocols_from_My_Workspace failed. Error: -1
+2022-06-16 20:27:52,440 - TestSuite - INFO - ---------------End of Test 004_Verify_User_can_Uncheck_protocols_from_My_Workspace--------------------------------------
+2022-06-16 20:27:52,576 - TestSuite - INFO - ---------------Begin Test case: 005_Ensure Curator user able to Reset sample criteria from adavanced sample search page--------------
+2022-06-16 20:27:55,393 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,455 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,467 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,476 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,483 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,492 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,501 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,508 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,518 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:55,887 - TestSuite - ERROR - Test 005_Ensure Curator user able to Reset sample criteria from adavanced sample search page failed. Error: -1
+2022-06-16 20:27:55,887 - TestSuite - INFO - ---------------End of Test 005_Ensure Curator user able to Reset sample criteria from adavanced sample search page--------------------------------------
+2022-06-16 20:27:56,017 - TestSuite - INFO - ---------------Begin Test case: 002_Verify_that_a_researcher_able_to_remove_sample_from_publication_for_publication_that_user_have_delete_access--------------
+2022-06-16 20:27:59,820 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,840 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,856 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,863 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,872 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,885 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,890 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:27:59,900 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:00,158 - TestSuite - ERROR - Test 002_Verify_that_a_researcher_able_to_remove_sample_from_publication_for_publication_that_user_have_delete_access failed. Error: -1
+2022-06-16 20:28:00,158 - TestSuite - INFO - ---------------End of Test 002_Verify_that_a_researcher_able_to_remove_sample_from_publication_for_publication_that_user_have_delete_access--------------------------------------
+2022-06-16 20:28:00,283 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Struts has been removed from Search for Samples by Publication Page--------------
+2022-06-16 20:28:02,800 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,807 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,814 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,820 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,828 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,833 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,854 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:02,863 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:03,118 - TestSuite - ERROR - Test 001_Ensure Struts has been removed from Search for Samples by Publication Page failed. Error: -1
+2022-06-16 20:28:03,120 - TestSuite - INFO - ---------------End of Test 001_Ensure Struts has been removed from Search for Samples by Publication Page--------------------------------------
+2022-06-16 20:28:03,251 - TestSuite - INFO - ---------------Begin Test case: 013_Verify_Reseracher_User_can_Edit_My_Protocols_from_My_Workspace_page--------------
+2022-06-16 20:28:05,874 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,884 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,891 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,898 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,903 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,909 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,916 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,922 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:05,931 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:06,192 - TestSuite - ERROR - Test 013_Verify_Reseracher_User_can_Edit_My_Protocols_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:28:06,192 - TestSuite - INFO - ---------------End of Test 013_Verify_Reseracher_User_can_Edit_My_Protocols_from_My_Workspace_page--------------------------------------
+2022-06-16 20:28:06,319 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_Curator_User_can_View_samples_from_My_Workspace_page--------------
+2022-06-16 20:28:08,952 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:08,964 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:08,970 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:08,978 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:08,984 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:08,990 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:08,996 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:09,009 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:09,020 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:09,289 - TestSuite - ERROR - Test 006_Verify_Curator_User_can_View_samples_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:28:09,289 - TestSuite - INFO - ---------------End of Test 006_Verify_Curator_User_can_View_samples_from_My_Workspace_page--------------------------------------
+2022-06-16 20:28:09,420 - TestSuite - INFO - ---------------Begin Test case: 001_Curator User should be able to add sample criteria with sample name and contains filter to the Advanced sample search--------------
+2022-06-16 20:28:13,686 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,693 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,699 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,721 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,726 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,732 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,747 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,754 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:13,763 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:14,032 - TestSuite - ERROR - Test 001_Curator User should be able to add sample criteria with sample name and contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 20:28:14,032 - TestSuite - INFO - ---------------End of Test 001_Curator User should be able to add sample criteria with sample name and contains filter to the Advanced sample search--------------------------------------
+2022-06-16 20:28:14,152 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Struts has been removed from Publication Submission Page--------------
+2022-06-16 20:28:16,704 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,727 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,741 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,748 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,756 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,764 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,772 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,780 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:16,793 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:17,059 - TestSuite - ERROR - Test 001_Ensure Struts has been removed from Publication Submission Page failed. Error: -1
+2022-06-16 20:28:17,060 - TestSuite - INFO - ---------------End of Test 001_Ensure Struts has been removed from Publication Submission Page--------------------------------------
+2022-06-16 20:28:17,188 - TestSuite - INFO - ---------------Begin Test case: 003_Curator User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter--------------
+2022-06-16 20:28:19,702 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,711 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,722 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,728 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,734 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,740 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,746 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,752 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:19,761 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:20,028 - TestSuite - ERROR - Test 003_Curator User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter failed. Error: -1
+2022-06-16 20:28:20,028 - TestSuite - INFO - ---------------End of Test 003_Curator User should be able to perform Advanced sample search by sample criteria with point of contact name and contains filter--------------------------------------
+2022-06-16 20:28:20,152 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_Manage_Curation_page_title_exists--------------
+2022-06-16 20:28:22,720 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,728 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,734 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,740 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,745 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,751 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,757 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,763 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:22,771 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:23,026 - TestSuite - ERROR - Test 001_Verify_Manage_Curation_page_title_exists failed. Error: -1
+2022-06-16 20:28:23,026 - TestSuite - INFO - ---------------End of Test 001_Verify_Manage_Curation_page_title_exists--------------------------------------
+2022-06-16 20:28:23,148 - TestSuite - INFO - ---------------Begin Test case: 003_Verify_Manage_Batch_Data_Availability_link_Exists--------------
+2022-06-16 20:28:26,932 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:26,944 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:26,953 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:26,978 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:26,984 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:26,993 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:27,000 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:27,010 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:27,026 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:27,340 - TestSuite - ERROR - Test 003_Verify_Manage_Batch_Data_Availability_link_Exists failed. Error: -1
+2022-06-16 20:28:27,340 - TestSuite - INFO - ---------------End of Test 003_Verify_Manage_Batch_Data_Availability_link_Exists--------------------------------------
+2022-06-16 20:28:27,498 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Struts has been removed from Publication Search Page--------------
+2022-06-16 20:28:31,823 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,895 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,903 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,910 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,917 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,925 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,933 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,940 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:31,952 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:32,348 - TestSuite - ERROR - Test 001_Ensure Struts has been removed from Publication Search Page failed. Error: -1
+2022-06-16 20:28:32,348 - TestSuite - INFO - ---------------End of Test 001_Ensure Struts has been removed from Publication Search Page--------------------------------------
+2022-06-16 20:28:32,477 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_Curator_user_can_view_My_Worksapce--------------
+2022-06-16 20:28:35,775 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,784 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,796 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,803 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,812 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,818 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,831 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:35,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:36,143 - TestSuite - ERROR - Test 001_Verify_Curator_user_can_view_My_Worksapce failed. Error: -1
+2022-06-16 20:28:36,143 - TestSuite - INFO - ---------------End of Test 001_Verify_Curator_user_can_view_My_Worksapce--------------------------------------
+2022-06-16 20:28:36,269 - TestSuite - INFO - ---------------Begin Test case: 010_Verify_Curator_User_can_View_My_Protocols_from_My_Workspace_page--------------
+2022-06-16 20:28:41,440 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,449 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,466 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,478 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,487 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,494 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,505 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,513 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,524 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:41,808 - TestSuite - ERROR - Test 010_Verify_Curator_User_can_View_My_Protocols_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:28:41,808 - TestSuite - INFO - ---------------End of Test 010_Verify_Curator_User_can_View_My_Protocols_from_My_Workspace_page--------------------------------------
+2022-06-16 20:28:41,932 - TestSuite - INFO - ---------------Begin Test case: 006_Ensure Curator user able to Remove sample criteria from adavanced sample search page--------------
+2022-06-16 20:28:45,698 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,716 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,733 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,739 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,747 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,753 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,763 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,768 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:45,781 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:46,149 - TestSuite - ERROR - Test 006_Ensure Curator user able to Remove sample criteria from adavanced sample search page failed. Error: -1
+2022-06-16 20:28:46,149 - TestSuite - INFO - ---------------End of Test 006_Ensure Curator user able to Remove sample criteria from adavanced sample search page--------------------------------------
+2022-06-16 20:28:46,288 - TestSuite - INFO - ---------------Begin Test case: 008_Verify_Researcher_User_can_View_samples_from_My_Workspace_page--------------
+2022-06-16 20:28:50,954 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:50,971 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:50,977 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:50,983 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:50,989 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:51,004 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:51,010 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:51,019 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:51,028 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:51,356 - TestSuite - ERROR - Test 008_Verify_Researcher_User_can_View_samples_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:28:51,356 - TestSuite - INFO - ---------------End of Test 008_Verify_Researcher_User_can_View_samples_from_My_Workspace_page--------------------------------------
+2022-06-16 20:28:51,477 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure_Struts_has_been_removed_from_Manage_Batch_Data_Availability_page--------------
+2022-06-16 20:28:56,049 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,064 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,077 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,093 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,109 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,116 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,122 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,128 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,143 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:28:56,420 - TestSuite - ERROR - Test 003_Ensure_Struts_has_been_removed_from_Manage_Batch_Data_Availability_page failed. Error: -1
+2022-06-16 20:28:56,420 - TestSuite - INFO - ---------------End of Test 003_Ensure_Struts_has_been_removed_from_Manage_Batch_Data_Availability_page--------------------------------------
+2022-06-16 20:28:56,552 - TestSuite - INFO - ---------------Begin Test case: 002_Verify_Researcher_user_can_view_My_Worksapce--------------
+2022-06-16 20:29:00,786 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,794 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,800 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,806 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,811 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,817 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,823 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,829 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:00,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:01,100 - TestSuite - ERROR - Test 002_Verify_Researcher_user_can_view_My_Worksapce failed. Error: -1
+2022-06-16 20:29:01,101 - TestSuite - INFO - ---------------End of Test 002_Verify_Researcher_user_can_view_My_Worksapce--------------------------------------
+2022-06-16 20:29:01,240 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_that_a_researcher_can_edit_publication_for_publication_that_user_has_update_or_edit_access--------------
+2022-06-16 20:29:05,938 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,946 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,952 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,960 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,965 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,976 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,982 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,988 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:05,997 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:06,359 - TestSuite - ERROR - Test 001_Verify_that_a_researcher_can_edit_publication_for_publication_that_user_has_update_or_edit_access failed. Error: -1
+2022-06-16 20:29:06,360 - TestSuite - INFO - ---------------End of Test 001_Verify_that_a_researcher_can_edit_publication_for_publication_that_user_has_update_or_edit_access--------------------------------------
+2022-06-16 20:29:06,486 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_that_a_curator_can_remove_submited_publication--------------
+2022-06-16 20:29:11,091 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,098 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,106 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,112 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,121 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,132 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,138 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,145 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,153 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:11,497 - TestSuite - ERROR - Test 001_Verify_that_a_curator_can_remove_submited_publication failed. Error: -1
+2022-06-16 20:29:11,497 - TestSuite - INFO - ---------------End of Test 001_Verify_that_a_curator_can_remove_submited_publication--------------------------------------
+2022-06-16 20:29:11,692 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Struts has been removed from Manage Publication Page--------------
+2022-06-16 20:29:16,300 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,308 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,315 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,321 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,327 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,333 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,339 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,345 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,354 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:16,653 - TestSuite - ERROR - Test 003_Ensure Struts has been removed from Manage Publication Page failed. Error: -1
+2022-06-16 20:29:16,654 - TestSuite - INFO - ---------------End of Test 003_Ensure Struts has been removed from Manage Publication Page--------------------------------------
+2022-06-16 20:29:16,810 - TestSuite - INFO - ---------------Begin Test case: 016_Verify_Curator_User_can_Edit_My_Publications_from_My_Workspace_page--------------
+2022-06-16 20:29:21,775 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,787 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,795 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,802 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,807 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,817 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,824 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,838 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:21,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:22,170 - TestSuite - ERROR - Test 016_Verify_Curator_User_can_Edit_My_Publications_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:29:22,171 - TestSuite - INFO - ---------------End of Test 016_Verify_Curator_User_can_Edit_My_Publications_from_My_Workspace_page--------------------------------------
+2022-06-16 20:29:22,298 - TestSuite - INFO - ---------------Begin Test case: 003_Verify_User_can_uncheck_Samples_from_My_Workspace--------------
+2022-06-16 20:29:26,823 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,833 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,846 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,855 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,868 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,874 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,883 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,891 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:26,905 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:27,212 - TestSuite - ERROR - Test 003_Verify_User_can_uncheck_Samples_from_My_Workspace failed. Error: -1
+2022-06-16 20:29:27,212 - TestSuite - INFO - ---------------End of Test 003_Verify_User_can_uncheck_Samples_from_My_Workspace--------------------------------------
+2022-06-16 20:29:27,343 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure_Struts_has_been_removed_from_Submit_a_New_Protocol_page--------------
+2022-06-16 20:29:30,592 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,600 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,606 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,612 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,617 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,623 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,629 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,635 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,652 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:30,979 - TestSuite - ERROR - Test 002_Ensure_Struts_has_been_removed_from_Submit_a_New_Protocol_page failed. Error: -1
+2022-06-16 20:29:30,979 - TestSuite - INFO - ---------------End of Test 002_Ensure_Struts_has_been_removed_from_Submit_a_New_Protocol_page--------------------------------------
+2022-06-16 20:29:31,106 - TestSuite - INFO - ---------------Begin Test case: 014_Verify_Curator_User_can_View_My_Publications_from_My_Workspace_page--------------
+2022-06-16 20:29:36,060 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,069 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,075 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,084 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,092 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,098 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,105 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,112 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,126 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:36,448 - TestSuite - ERROR - Test 014_Verify_Curator_User_can_View_My_Publications_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:29:36,448 - TestSuite - INFO - ---------------End of Test 014_Verify_Curator_User_can_View_My_Publications_from_My_Workspace_page--------------------------------------
+2022-06-16 20:29:36,600 - TestSuite - INFO - ---------------Begin Test case: 002_Verify_the_ability_to_add_a_new_sample_as_a_Researcher--------------
+2022-06-16 20:29:41,220 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,228 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,234 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,243 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,249 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,260 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,268 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,274 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,282 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:41,542 - TestSuite - ERROR - Test 002_Verify_the_ability_to_add_a_new_sample_as_a_Researcher failed. Error: -1
+2022-06-16 20:29:41,542 - TestSuite - INFO - ---------------End of Test 002_Verify_the_ability_to_add_a_new_sample_as_a_Researcher--------------------------------------
+2022-06-16 20:29:41,662 - TestSuite - INFO - ---------------Begin Test case: 002_Verify_Review_Data_Pending_Release_to_Public_link_Exists--------------
+2022-06-16 20:29:44,234 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,254 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,260 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,267 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,273 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,279 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,288 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,302 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:44,662 - TestSuite - ERROR - Test 002_Verify_Review_Data_Pending_Release_to_Public_link_Exists failed. Error: -1
+2022-06-16 20:29:44,662 - TestSuite - INFO - ---------------End of Test 002_Verify_Review_Data_Pending_Release_to_Public_link_Exists--------------------------------------
+2022-06-16 20:29:44,786 - TestSuite - INFO - ---------------Begin Test case: 017_Verify_Researcher_User_can_Edit_My_Publications_from_My_Workspace_page--------------
+2022-06-16 20:29:48,714 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,721 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,732 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,749 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,757 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,763 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,769 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,775 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:48,786 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:49,080 - TestSuite - ERROR - Test 017_Verify_Researcher_User_can_Edit_My_Publications_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:29:49,080 - TestSuite - INFO - ---------------End of Test 017_Verify_Researcher_User_can_Edit_My_Publications_from_My_Workspace_page--------------------------------------
+2022-06-16 20:29:49,225 - TestSuite - INFO - ---------------Begin Test case: 007_Verify_Curator_User_can_Edit_samples_from_My_Workspace_page--------------
+2022-06-16 20:29:53,941 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:53,949 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:53,960 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:53,975 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:53,986 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:53,991 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:53,999 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:54,005 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:54,015 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:54,295 - TestSuite - ERROR - Test 007_Verify_Curator_User_can_Edit_samples_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:29:54,295 - TestSuite - INFO - ---------------End of Test 007_Verify_Curator_User_can_Edit_samples_from_My_Workspace_page--------------------------------------
+2022-06-16 20:29:54,434 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_the_ability_to_add_a_new_sample_as_a_Curator--------------
+2022-06-16 20:29:58,425 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,436 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,444 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,458 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,466 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,479 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,488 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,504 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:29:58,812 - TestSuite - ERROR - Test 001_Verify_the_ability_to_add_a_new_sample_as_a_Curator failed. Error: -1
+2022-06-16 20:29:58,812 - TestSuite - INFO - ---------------End of Test 001_Verify_the_ability_to_add_a_new_sample_as_a_Curator--------------------------------------
+2022-06-16 20:29:58,945 - TestSuite - INFO - ---------------Begin Test case: 018_Ensure_User_can_view_samples_protocols_and_publications_and_use_back_button_from_view_page--------------
+2022-06-16 20:30:04,007 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,016 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,024 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,033 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,039 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,045 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,051 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,059 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,070 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:04,407 - TestSuite - ERROR - Test 018_Ensure_User_can_view_samples_protocols_and_publications_and_use_back_button_from_view_page failed. Error: -1
+2022-06-16 20:30:04,407 - TestSuite - INFO - ---------------End of Test 018_Ensure_User_can_view_samples_protocols_and_publications_and_use_back_button_from_view_page--------------------------------------
+2022-06-16 20:30:04,560 - TestSuite - INFO - ---------------Begin Test case: 001_Researcher User should be able to add sample criteria with sample name and contains filter to the Advanced sample search--------------
+2022-06-16 20:30:07,989 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:07,996 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,006 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,012 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,017 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,029 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,035 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,042 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,053 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:08,379 - TestSuite - ERROR - Test 001_Researcher User should be able to add sample criteria with sample name and contains filter to the Advanced sample search failed. Error: -1
+2022-06-16 20:30:08,380 - TestSuite - INFO - ---------------End of Test 001_Researcher User should be able to add sample criteria with sample name and contains filter to the Advanced sample search--------------------------------------
+2022-06-16 20:30:08,503 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_user_able_to_submit_generate_data_availability_for_all_samples_search--------------
+2022-06-16 20:30:13,656 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,666 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,674 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,681 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,687 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,693 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,698 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,705 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,713 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:13,983 - TestSuite - ERROR - Test 001_Verify_user_able_to_submit_generate_data_availability_for_all_samples_search failed. Error: -1
+2022-06-16 20:30:13,983 - TestSuite - INFO - ---------------End of Test 001_Verify_user_able_to_submit_generate_data_availability_for_all_samples_search--------------------------------------
+2022-06-16 20:30:14,120 - TestSuite - INFO - ---------------Begin Test case: 005_Verify_User_can_uncheck_Publications_from_My_Workspace_page--------------
+2022-06-16 20:30:18,788 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,797 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,810 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,818 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,831 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,849 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,864 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,871 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:18,882 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:19,176 - TestSuite - ERROR - Test 005_Verify_User_can_uncheck_Publications_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:30:19,177 - TestSuite - INFO - ---------------End of Test 005_Verify_User_can_uncheck_Publications_from_My_Workspace_page--------------------------------------
+2022-06-16 20:30:19,309 - TestSuite - INFO - ---------------Begin Test case: 003_Verify_that_a_curator_can_edit_publication--------------
+2022-06-16 20:30:23,965 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:23,977 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:23,984 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:23,998 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:24,013 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:24,026 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:24,039 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:24,052 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:24,066 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:24,364 - TestSuite - ERROR - Test 003_Verify_that_a_curator_can_edit_publication failed. Error: -1
+2022-06-16 20:30:24,364 - TestSuite - INFO - ---------------End of Test 003_Verify_that_a_curator_can_edit_publication--------------------------------------
+2022-06-16 20:30:24,487 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure_Struts_has_been_removed_from_Manage_Protocol_page--------------
+2022-06-16 20:30:28,596 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,606 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,620 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,643 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,659 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,665 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,671 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,683 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:28,966 - TestSuite - ERROR - Test 001_Ensure_Struts_has_been_removed_from_Manage_Protocol_page failed. Error: -1
+2022-06-16 20:30:28,966 - TestSuite - INFO - ---------------End of Test 001_Ensure_Struts_has_been_removed_from_Manage_Protocol_page--------------------------------------
+2022-06-16 20:30:29,120 - TestSuite - INFO - ---------------Begin Test case: 009_Verify_Researcher_User_can_Edit_samples_from_My_Workspace_page--------------
+2022-06-16 20:30:33,024 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,032 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,048 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,055 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,068 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,073 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,084 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,092 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,101 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:33,442 - TestSuite - ERROR - Test 009_Verify_Researcher_User_can_Edit_samples_from_My_Workspace_page failed. Error: -1
+2022-06-16 20:30:33,442 - TestSuite - INFO - ---------------End of Test 009_Verify_Researcher_User_can_Edit_samples_from_My_Workspace_page--------------------------------------
+2022-06-16 20:30:33,577 - TestSuite - INFO - ---------------Begin Test case: 002_Curator User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------
+2022-06-16 20:30:37,691 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,700 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,706 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,713 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,719 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,726 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,734 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,770 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:37,779 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:38,053 - TestSuite - ERROR - Test 002_Curator User should be able to add sample criteria with sample name and equals filter to the Advanced sample search failed. Error: -1
+2022-06-16 20:30:38,053 - TestSuite - INFO - ---------------End of Test 002_Curator User should be able to add sample criteria with sample name and equals filter to the Advanced sample search--------------------------------------
+2022-06-16 20:30:38,176 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_the_ability_to_add_a_Sample_Composition_Functionalizing_Entity_as_Curator--------------
+2022-06-16 20:30:42,466 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,474 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,482 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,489 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,494 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,500 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,506 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,523 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,531 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:42,826 - TestSuite - ERROR - Test 006_Verify_the_ability_to_add_a_Sample_Composition_Functionalizing_Entity_as_Curator failed. Error: -1
+2022-06-16 20:30:42,827 - TestSuite - INFO - ---------------End of Test 006_Verify_the_ability_to_add_a_Sample_Composition_Functionalizing_Entity_as_Curator--------------------------------------
+2022-06-16 20:30:42,952 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure_Struts_has_been_removed_from_Search_Existing_Protocols_page--------------
+2022-06-16 20:30:47,549 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,556 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,562 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,568 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,573 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,579 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,585 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,590 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,601 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:30:47,858 - TestSuite - ERROR - Test 003_Ensure_Struts_has_been_removed_from_Search_Existing_Protocols_page failed. Error: -1
+2022-06-16 20:30:47,858 - TestSuite - INFO - ---------------End of Test 003_Ensure_Struts_has_been_removed_from_Search_Existing_Protocols_page--------------------------------------

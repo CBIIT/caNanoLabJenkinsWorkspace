@@ -1,0 +1,75 @@
+2022-06-16 20:22:22,661 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-16 20:22:23,729 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(3)"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.62.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5c44547c-4fbc-4efc-8a1e-b7a73fcdf1ae
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(3)}
+2022-06-16 20:22:23,729 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-16 20:22:24,797 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(4)"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.62.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5c44547c-4fbc-4efc-8a1e-b7a73fcdf1ae
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(4)}
+2022-06-16 20:22:24,797 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-16 20:22:25,865 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(5)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.62.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5c44547c-4fbc-4efc-8a1e-b7a73fcdf1ae
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(5)}
+2022-06-16 20:22:25,865 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-16 20:22:26,936 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(6)"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.62.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5c44547c-4fbc-4efc-8a1e-b7a73fcdf1ae
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(6)}
+2022-06-16 20:22:26,937 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-16 20:22:28,007 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(7)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.62.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5c44547c-4fbc-4efc-8a1e-b7a73fcdf1ae
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(7)}
+2022-06-16 20:22:28,007 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-16 20:22:29,078 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(8)"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.62.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5c44547c-4fbc-4efc-8a1e-b7a73fcdf1ae
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(8)}
+2022-06-16 20:22:29,078 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-16 20:22:29,078 - TestSuite - ERROR - Test 012_Verify_publication_search_by_Composition_Functionalizing_Entity failed. Error: -null
+2022-06-16 20:22:29,078 - TestSuite - INFO - ---------------End of Test 012_Verify_publication_search_by_Composition_Functionalizing_Entity--------------------------------------
+2022-06-16 20:22:29,202 - TestSuite - INFO - ---------------Begin Test case: 004_Verify_sample_search_by_publication_DOI_as_a_Curator--------------
+2022-06-16 20:22:31,673 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,683 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,689 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,697 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,701 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,707 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,712 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,718 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,726 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 20:22:31,987 - TestSuite - ERROR - Test 004_Verify_sample_search_by_publication_DOI_as_a_Curator failed. Error: -1
+2022-06-16 20:22:31,987 - TestSuite - INFO - ---------------End of Test 004_Verify_sample_search_by_publication_DOI_as_a_Curator--------------------------------------

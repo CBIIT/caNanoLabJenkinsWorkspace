@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="58" failures="0" name="gov.nih.nci.TestSuiteD" time="248.558" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/usr/local/jdk1.8/jre/lib/amd64"/>
+    <property name="java.vm.version" value="25.331-b31"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/local/content/jenkins/slave1/workspace/_default/_lower/cananolab/CaNanoLabAutoTests_Test_Suite_D_QA"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/local/content/jenkins/slave1/workspace/_default/_lower/cananolab/CaNanoLabAutoTests_Test_Suite_D_QA"/>
+    <property name="java.runtime.version" value="1.8.0_331-b31"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/usr/local/jdk1.8/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/local/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.10.0-1160.62.1.el7.x86_64"/>
+    <property name="user.home" value="/local/home/slave1"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="user.name" value="slave1"/>
+    <property name="java.class.path" value="/usr/local/maven/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/usr/local/jdk1.8/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_331"/>
+    <property name="java.ext.dirs" value="/usr/local/jdk1.8/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/usr/local/jdk1.8/jre/lib/resources.jar:/usr/local/jdk1.8/jre/lib/rt.jar:/usr/local/jdk1.8/jre/lib/sunrsasign.jar:/usr/local/jdk1.8/jre/lib/jsse.jar:/usr/local/jdk1.8/jre/lib/jce.jar:/usr/local/jdk1.8/jre/lib/charsets.jar:/usr/local/jdk1.8/jre/lib/jfr.jar:/usr/local/jdk1.8/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/local/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test42ensureResearcherUserAbleToDeleteAProtocolFromMyWorkspace" time="5.127"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test18researcherUserShouldBeAbleToAddCompositionCriteriaWithNanomaterialEntityAndBiopolymerAndChemicalNameContainsFilterToTheAdvancedSampleSearch" time="5.5"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test4ensureResearcherUserAbleToResetSampleCriteriaFromAdavancedSampleSearchPage" time="4.135"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test24EnsureCuratorUserAbleToSearchWithInVivoCharacterizationFiltersFromAdvancedSearchPage" time="4.75"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test53EnsureCuratorUserAbleToAddAProtocolToTheFavoritesList" time="4.393"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test26EnsureCuratorUserAbleToEditCharacterizationAdvnacedSearchQuery" time="4.727"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test45ensureCuratorUserAbleToViewAProtocolFromMyWorkspace" time="4.41"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test43ensureCuratorUserAbleToEditAProtocolFromMyWorkspace" time="7.547"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test14curatorUserShouldBeAbleToAddCompositionCriteriaWithFunctionalizingEntityAndAntibodyAndChemicalNameContainsFilterToTheAdvancedSampleSearch" time="3.854"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test6ensureResearcherUserAbleToEditSampleCriteriaFromAdvancedSampleSearchPage" time="4.781"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test37ensureResearcherUserAbleToDeleteASampleFromMyWorksapce" time="4.794"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test31EnsureResearcherUserAbleToSearchWithInVivoCharacterizationFiltersFromAdvancedSearchPage" time="5.999"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test49ensureResearcherUserAbleToDeleteAPublicationFromMyWorkspace" time="4.049"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test3researcherUserShouldBeAbleToPefromAdvancedSampleSearchBySampleCriteriaWithPointOfContactNameAndEqualsFilter" time="5.096"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test15curatorUserShouldBeAbleToAddCompositionCriteriaWithFunctionalizingEntityAndAntibodyAndChemicalNameEqualsFilterToTheAdvancedSampleSearch" time="4.819"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test56ensureCuratorUserAbleToAddAProtocolToTheFavoritesListAndViewTheAddedProtocolFromMyFavoritesPage" time="5.004"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test57EnsureCuratorUserAbleToAddAPublicationToTheFavoritesListAndViewTheAddedPublicationFromMyFavoritesPage" time="4.587"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test38ensureResearcherUserAbleToEditASampleFromMyWorksapce" time="4.706"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test7EnsureCuratorUserAbleToResetCompositionCriteriaFromAdvancedSampleSearchPage" time="4.316"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test22ensureCuratorUserAbleToSearchWithPhyicoChemicalCharacterizationFiltersFromAdvancedSearchPage" time="5.468"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test35ResearcherUserShouldBeAbleToAddCompositionCriteriaWithFunctionAndTargetingFunctionFilterToTheAdvancedSampleSearch" time="4.286"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test47ensureCuratorUserAbleToDeleteAPublicationFromMyWorkspace" time="4.888"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test51ensureResearcherUserAbleToEditAPublicationFromMyWorkspace" time="4.998"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test19ResearcherUserShouldBeAbleToAddCompositionCriteriaWithNanomaterialEntityAndBiopolymerAndChemicalNameEqualsFilterToTheAdvancedSampleSearch" time="4.771"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test12curatorUserShouldBeAbleToAddCompositionCriteriaWithNanomaterialEntityAndBiopolymerAndChemicalNameContainsFilterToTheAdvancedSampleSearch" time="5.177"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test48ensureResearcherUserAbleToRemoveCompositionCriteriaFromAdavancedSampleSearchPage" time="4.714"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test33ensureResearcherUserAbleToRemoveCharacterizationAdvancedSearchQuery" time="5.183"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test8ensureCuratorUserAbleToRemoveCompositionCriteriaFromAdavancedSampleSearchPage" time="5.739"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test21ResearcherUserShouldBeAbleToAddCompositionCriteriaWithFunctionalizingEntityAndAntibodyAndChemicalNameEqualsFilterToTheAdvancedSampleSearch" time="4.179"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test25ResearcherUserShouldBeAbleToAddCompositionCriteriaWithFunctionAndImagingFunctionFilterToTheAdvancedSampleSearch" time="5.006"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test27ensureCuratorUserAbleToRemoveCharacterizationAdvancedSearchQuery" time="3.998"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test1researcherUserShouldBeAbleToAddSampleCriteriaWithSampleNameAndEqualsFilterToTheAdvancedSampleSearch" time="4.782"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test30ensureResearcherUserAbleToSearchWithInVitroCharacterizationFiltersFromAdvancedSearchPage" time="5.944"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test55EnsureCuratorUserAbleToAddASampleToTheFavoritesListAndViewTheAddedSampleFromMyFavoritesPage" time="4.764"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test5ensureResearcherUserAbleToRemoveSampleCriteriaFromAdvancedSampleSearchPage" time="4.097"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test40ensureResearcherUserAbleToViewASampleFromMyWorksapce" time="4.294"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test20ResearcherUserShouldBeAbleToAddCompositionCriteriaWithFunctionalizingEntityAndAntibodyAndChemicalNameContainsFilterToTheAdvancedSampleSearch" time="3.799"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test50ensureCuratorUserAbleToEditAPublicationFromMyWorkspace" time="5.257"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test32EnsureResearcherUserAbleToEditCharacterizationAdvnacedSearchQuery" time="5.125"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test11ensureResearcherUserAbleToEditCompositionCriteriaFromAdavancedSampleSearchPage" time="4.656"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test2researcherUserShouldBeAbleToPefromAdvancedSampleSearchBySampleCriteriaWithPointOfContactNameAndContainsFilter" time="4.422"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test54EnsureCuratorUserAbleToAddAPublicationToTheFavoritesList" time="2.897"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test52EnsureCuratorUserAbleToAddASampleToTheFavoritesList" time="2.913"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test46ensureResearcherUserAbleToViewAProtocolFromMyWorkspace" time="3.113"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test34EnsureResearcherUserAbleToResetCharacterizationAdvancedSearchQuery" time="2.948"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test44ensureResearcherUserAbleToEditAProtocolFromMyWorkspace" time="3.015"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test36ensureCuratorUserAbleToDeleteASampleFromMyWorksapce" time="3.037"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test41ensureCuratorUserAbleToDeleteAProtocolFromMyWorkspace" time="2.863"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test17curatorUserShouldBeAbleToAddCompositionCriteriaWithFunctionAndTargetingFunctionFilterToTheAdvancedSampleSearch" time="2.907"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test58ensureCuratorUserAbleToEditASampleFromMyWorksapce" time="3.053"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test23ensureCuratorUserAbleToSearchWithInVitroCharacterizationFiltersFromAdvancedSearchPage" time="2.996"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test16curatorUserShouldBeAbleToAddCompositionCriteriaWithFunctionAndImagingFunctionFilterToTheAdvancedSampleSearch" time="2.962"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test29ensureResearcherrUserAbleToSearchWithPhyicoChemicalCharacterizationFiltersFromAdvancedSearchPage" time="2.864"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test10EnsureResearcherUserAbleToResetCompositionCriteriaFromAdvancedSampleSearchPage" time="2.945"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test28EnsureCuratorUserAbleToResetCharacterizationAdvancedSearchQuery" time="2.994"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test39ensureCuratorUserAbleToViewASampleFromMyWorksapce" time="2.958"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test9ensureCuratorUserAbleToEditCompositionCriteriaFromAdavancedSampleSearchPage" time="2.93"/>
+  <testcase classname="gov.nih.nci.TestSuiteD" name="Test13curatorUserShouldBeAbleToAddCompositionCriteriaWithNanomaterialEntityAndBiopolymerAndChemicalNameEqualsFilterToTheAdvancedSampleSearch" time="3.022"/>
+</testsuite>

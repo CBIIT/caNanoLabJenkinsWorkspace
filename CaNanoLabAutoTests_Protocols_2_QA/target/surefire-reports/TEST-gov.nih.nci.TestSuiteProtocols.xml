@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="49" failures="0" name="gov.nih.nci.TestSuiteProtocols" time="9,093.077" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/usr/local/jdk1.8/jre/lib/amd64"/>
+    <property name="java.vm.version" value="25.331-b31"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/local/content/jenkins/slave1/workspace/_default/_lower/cananolab/CaNanoLabAutoTests_Protocols_2_QA"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/local/content/jenkins/slave1/workspace/_default/_lower/cananolab/CaNanoLabAutoTests_Protocols_2_QA"/>
+    <property name="java.runtime.version" value="1.8.0_331-b31"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/usr/local/jdk1.8/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/usr/local/maven/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.10.0-1160.62.1.el7.x86_64"/>
+    <property name="user.home" value="/local/home/slave1"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="user.name" value="slave1"/>
+    <property name="java.class.path" value="/usr/local/maven/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/usr/local/jdk1.8/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_331"/>
+    <property name="java.ext.dirs" value="/usr/local/jdk1.8/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/usr/local/jdk1.8/jre/lib/resources.jar:/usr/local/jdk1.8/jre/lib/rt.jar:/usr/local/jdk1.8/jre/lib/sunrsasign.jar:/usr/local/jdk1.8/jre/lib/jsse.jar:/usr/local/jdk1.8/jre/lib/jce.jar:/usr/local/jdk1.8/jre/lib/charsets.jar:/usr/local/jdk1.8/jre/lib/jfr.jar:/usr/local/jdk1.8/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/local/maven"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test35verifyPublicationSearchByCompositionFunctionalizingEntity_5" time="318.125"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test27verifyPublicationSearchByCompositionNanomaterialEntity_1" time="317.771"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test25verifyPublicationSearchBySampleNameContains" time="317.708"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test36verifyPublicationSearchByCompositionFunctionalizingEntity_6" time="317.301"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test37verifyPublicationSearchByCompositionFunctionalizingEntity_7" time="318.037"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test7verifyThatPublicallyAvailableSampleDetailsSummaryCanBeViewed" time="68.531"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test19verifyPublicationSearchByResearchCategory" time="318.589"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test38verifyPublicationSearchByCompositionFunctionalizingEntity_8" time="318.612"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test13verifySampleSearchByPublicationPubMedIDasaCurator" time="3.002"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test43verifyPublicationSearchByFunction_5" time="321.162"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test18verifyPublicationSearchByPublicationType" time="318.915"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test28verifyPublicationSearchByCompositionNanomaterialEntity_2" time="318.862"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test47verifyCuratorShouldBeAbleToReviewPendingData" time="3.091"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test41verifyPublicationSearchByFunction_3" time="3.114"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test48ensureStrutsHasBeenRemovedfromManageCurationPage" time="2.846"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test9verifyThatAResearcherCanOnlyViewSampleDetailsforSamplesThatHehasReadOnlyAccess" time="3.114"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test29verifyPublicationSearchByCompositionNanomaterialEntity_3" time="317.595"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test11verifySampleSearchByPublicationPubMedID" time="6.235"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test1verifyAbilityToSearchNonPublicallyAvailableSamplesWhenLoggedInAsCurator" time="3.067"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test22VerifyPublicationContainsSearchbyPublicationTitle" time="318.17"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test3SamplesSearchBySampleNameAndPOC" time="68.52"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test21verifyPublicationSearchByDigitalObjectID" time="317.875"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test12verifySampleSearchByPublicationDOI" time="130.87"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test46verifyPublicationSearchByKeywordAsaResearcher" time="4"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test24VerifyPublicationSearchByAuthors" time="318.9"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test30verifyPublicationSearchByCompositionNanomaterialEntity_4" time="319.405"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test26verifyPublicationSearchBySampleNameEquals" time="318.575"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test45verifyPublicationSearchByKeywordAsaCurator" time="3.035"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test44verifyPublicationSearchByFunction_6" time="320.866"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test6verifyTheAbilityToResetSampleSearchCriteria" time="19.393"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test8verifyThatDataAvailabilityChartOfPublicallyAvailableSampleCanBeViewed" time="68.329"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test42verifyPublicationSearchByFunction_4" time="321.541"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test15verifySampleSearchByPublicationPubMedIDasaResearcher" time="3.03"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test17verifyPublicationSearchByKeyword" time="319.151"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test16verifySampleSearchByPublicationDOIasaResearcher" time="2.983"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test4VerifyTheAbilityToSubmitaNewPublicationAsaCurator" time="2.912"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test40verifyPublicationSearchByFunction_2" time="321.399"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test2verifyThatSearchingForNonPublicSampleResultsInNoSearchResultsForPublicUsers" time="11.07"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test39verifyPublicationSearchByFunction_1" time="321.263"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test5VerifyTheAbilityToSubmitaNewPublicationAsaResearcher" time="3.289"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test20verifyPublicationSearchByPubMedID" time="317.163"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test23VerifyPublicationEqualsSearchByPublicationTitle" time="319.168"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test31verifyPublicationSearchByCompositionFunctionalizingEntity_1" time="321.893"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test49ensureStrutsHasBeenRemovedFromReviewByCuratorPage" time="2.983"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test32verifyPublicationSearchByCompositionFunctionalizingEntity_2" time="317.12"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test33verifyPublicationSearchByCompositionFunctionalizingEntity_3" time="318.139"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test10verifyClickingOnPublicResultsLinkAgainstSampleSearchesFromHomePageReturnsAllPublicallyAvailableSamples" time="64.916"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test34verifyPublicationSearchByCompositionFunctionalizingEntity_4" time="318.538"/>
+  <testcase classname="gov.nih.nci.TestSuiteProtocols" name="Test14verifySampleSearchByPublicationDOIasaCurator" time="2.904"/>
+</testsuite>

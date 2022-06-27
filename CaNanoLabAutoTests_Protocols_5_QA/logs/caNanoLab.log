@@ -1,0 +1,871 @@
+2022-06-16 15:30:22,954 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:22,961 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:22,968 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:22,981 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:22,988 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:22,995 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:23,002 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:23,008 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:23,016 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:23,276 - TestSuite - ERROR - Test 005_Ensure Curator User able to submit a Composition File to the sample failed. Error: -1
+2022-06-16 15:30:23,276 - TestSuite - INFO - ---------------End of Test 005_Ensure Curator User able to submit a Composition File to the sample--------------------------------------
+2022-06-16 15:30:23,405 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure Curator User able to submit a Chemical Association to the sample--------------
+2022-06-16 15:30:25,877 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,884 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,890 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,897 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,902 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,908 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,914 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,921 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:25,929 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:26,190 - TestSuite - ERROR - Test 004_Ensure Curator User able to submit a Chemical Association to the sample failed. Error: -1
+2022-06-16 15:30:26,191 - TestSuite - INFO - ---------------End of Test 004_Ensure Curator User able to submit a Chemical Association to the sample--------------------------------------
+2022-06-16 15:30:26,317 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure researcher user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page--------------
+2022-06-16 15:30:28,901 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,917 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,923 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,935 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,940 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,946 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,952 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,963 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:28,972 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:29,227 - TestSuite - ERROR - Test 002_Ensure researcher user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page failed. Error: -1
+2022-06-16 15:30:29,227 - TestSuite - INFO - ---------------End of Test 002_Ensure researcher user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page--------------------------------------
+2022-06-16 15:30:29,349 - TestSuite - INFO - ---------------Begin Test case: 001_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------
+2022-06-16 15:30:31,773 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,780 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,786 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,794 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,809 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,814 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,820 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,826 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:31,835 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:32,101 - TestSuite - ERROR - Test 001_Verify User able to search for publicly available samples from google like search while user logged in as curator failed. Error: -1
+2022-06-16 15:30:32,101 - TestSuite - INFO - ---------------End of Test 001_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------------------------------
+2022-06-16 15:30:32,220 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type when user logged in as Curator--------------
+2022-06-16 15:30:34,653 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,677 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,684 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,691 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,697 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,702 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,708 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,713 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,722 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:34,988 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Type when user logged in as Curator failed. Error: -1
+2022-06-16 15:30:34,988 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type when user logged in as Curator--------------------------------------
+2022-06-16 15:30:35,107 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure researcher user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------
+2022-06-16 15:30:37,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,659 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,664 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,670 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,679 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,688 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,695 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,701 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,711 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:37,963 - TestSuite - ERROR - Test 001_Ensure researcher user able to add a Sample to the Favorites list and view the added sample from my favorites page failed. Error: -1
+2022-06-16 15:30:37,963 - TestSuite - INFO - ---------------End of Test 001_Ensure researcher user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------------------------------
+2022-06-16 15:30:38,090 - TestSuite - INFO - ---------------Begin Test case: 005_Ensure Researcher User able to submit a Composition File to the sample--------------
+2022-06-16 15:30:40,623 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,646 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,658 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,665 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,684 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,696 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,703 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,711 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:40,964 - TestSuite - ERROR - Test 005_Ensure Researcher User able to submit a Composition File to the sample failed. Error: -1
+2022-06-16 15:30:40,964 - TestSuite - INFO - ---------------End of Test 005_Ensure Researcher User able to submit a Composition File to the sample--------------------------------------
+2022-06-16 15:30:41,090 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Researcher User able to submit a Functionalzing entity to the sample--------------
+2022-06-16 15:30:43,521 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,543 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,549 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,556 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,561 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,568 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,575 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,581 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,589 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:43,849 - TestSuite - ERROR - Test 003_Ensure Researcher User able to submit a Functionalzing entity to the sample failed. Error: -1
+2022-06-16 15:30:43,849 - TestSuite - INFO - ---------------End of Test 003_Ensure Researcher User able to submit a Functionalzing entity to the sample--------------------------------------
+2022-06-16 15:30:43,969 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type--------------
+2022-06-16 15:30:46,483 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,493 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,499 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,507 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,513 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,518 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,524 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,530 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:46,541 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:49,802 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:30:49,802 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type--------------------------------------
+2022-06-16 15:30:49,802 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Type Passed
+2022-06-16 15:30:49,932 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description--------------
+2022-06-16 15:30:52,549 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,557 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,564 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,589 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,595 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,600 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,606 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,612 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:52,620 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:55,881 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:30:55,881 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description--------------------------------------
+2022-06-16 15:30:55,881 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Description Passed
+2022-06-16 15:30:56,002 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------
+2022-06-16 15:30:58,664 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,673 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,678 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,685 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,693 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,702 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,711 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,717 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:58,726 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:30:59,015 - TestSuite - ERROR - Test 002_Ensure user should be able to submit a protocol and associate a collaboration group failed. Error: -1
+2022-06-16 15:30:59,015 - TestSuite - INFO - ---------------End of Test 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------------------------------
+2022-06-16 15:30:59,134 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Curator user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------
+2022-06-16 15:31:01,750 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,763 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,769 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,776 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,789 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,795 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,801 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,806 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:01,818 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:02,076 - TestSuite - ERROR - Test 003_Ensure Curator user able to add a publication to the Favorites list and edit the added publication from my favorites page failed. Error: -1
+2022-06-16 15:31:02,076 - TestSuite - INFO - ---------------End of Test 003_Ensure Curator user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------------------------------
+2022-06-16 15:31:02,197 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by name--------------
+2022-06-16 15:31:04,904 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,911 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,926 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,932 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,937 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,943 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,950 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:04,975 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:08,235 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:31:08,235 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by name--------------------------------------
+2022-06-16 15:31:08,235 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by name Passed
+2022-06-16 15:31:08,357 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure researcher user able to add a Publication to the Favorites list--------------
+2022-06-16 15:31:10,807 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,816 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,829 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,837 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,842 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,848 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,854 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,859 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:10,876 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:11,130 - TestSuite - ERROR - Test 003_Ensure researcher user able to add a Publication to the Favorites list failed. Error: -1
+2022-06-16 15:31:11,130 - TestSuite - INFO - ---------------End of Test 003_Ensure researcher user able to add a Publication to the Favorites list--------------------------------------
+2022-06-16 15:31:11,249 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator user able to add a Sample to the Favorites list and edit the added sample from my favorites page--------------
+2022-06-16 15:31:13,704 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,721 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,727 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,744 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,749 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,767 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,774 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,779 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:13,789 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:14,044 - TestSuite - ERROR - Test 001_Ensure Curator user able to add a Sample to the Favorites list and edit the added sample from my favorites page failed. Error: -1
+2022-06-16 15:31:14,044 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator user able to add a Sample to the Favorites list and edit the added sample from my favorites page--------------------------------------
+2022-06-16 15:31:14,168 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Researcher User able to submit a sample--------------
+2022-06-16 15:31:16,627 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,646 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,652 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,658 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,663 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,669 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,676 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,683 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,692 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:16,948 - TestSuite - ERROR - Test 001_Ensure Researcher User able to submit a sample failed. Error: -1
+2022-06-16 15:31:16,948 - TestSuite - INFO - ---------------End of Test 001_Ensure Researcher User able to submit a sample--------------------------------------
+2022-06-16 15:31:17,070 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure user should be able to submit a sample and associate a collaboration group--------------
+2022-06-16 15:31:19,569 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,577 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,583 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,607 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,614 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,625 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,637 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,646 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:19,942 - TestSuite - ERROR - Test 004_Ensure user should be able to submit a sample and associate a collaboration group failed. Error: -1
+2022-06-16 15:31:19,942 - TestSuite - INFO - ---------------End of Test 004_Ensure user should be able to submit a sample and associate a collaboration group--------------------------------------
+2022-06-16 15:31:20,062 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure researcher user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------
+2022-06-16 15:31:22,487 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,498 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,511 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,517 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,522 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,527 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,533 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,538 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,546 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:22,807 - TestSuite - ERROR - Test 003_Ensure researcher user able to add a publication to the Favorites list and edit the added publication from my favorites page failed. Error: -1
+2022-06-16 15:31:22,807 - TestSuite - INFO - ---------------End of Test 003_Ensure researcher user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------------------------------
+2022-06-16 15:31:22,949 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure researcher user able to add a publication to the Favorites list and remove the added publication from my favorites page--------------
+2022-06-16 15:31:25,450 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,458 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,463 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,469 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,479 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,484 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,491 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,497 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,507 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:25,772 - TestSuite - ERROR - Test 003_Ensure researcher user able to add a publication to the Favorites list and remove the added publication from my favorites page failed. Error: -1
+2022-06-16 15:31:25,772 - TestSuite - INFO - ---------------End of Test 003_Ensure researcher user able to add a publication to the Favorites list and remove the added publication from my favorites page--------------------------------------
+2022-06-16 15:31:25,895 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date--------------
+2022-06-16 15:31:28,390 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,407 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,416 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,422 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,432 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,437 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,443 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,448 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:28,457 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:31,711 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:31:31,711 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date--------------------------------------
+2022-06-16 15:31:31,712 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Created Date Passed
+2022-06-16 15:31:31,832 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date when user logged in as Curator--------------
+2022-06-16 15:31:34,323 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,330 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,346 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,352 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,357 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,363 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,369 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,374 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,385 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:34,643 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Curator failed. Error: -1
+2022-06-16 15:31:34,644 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Curator--------------------------------------
+2022-06-16 15:31:37,942 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure researcher user able to add a Sample to the Favorites list and remove the added sample from my favorites page--------------
+2022-06-16 15:31:41,414 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,429 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,437 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,448 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,458 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,469 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,478 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,488 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,499 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:41,830 - TestSuite - ERROR - Test 001_Ensure researcher user able to add a Sample to the Favorites list and remove the added sample from my favorites page failed. Error: -1
+2022-06-16 15:31:41,830 - TestSuite - INFO - ---------------End of Test 001_Ensure researcher user able to add a Sample to the Favorites list and remove the added sample from my favorites page--------------------------------------
+2022-06-16 15:31:42,028 - TestSuite - INFO - ---------------Begin Test case: 003_Verify User able to search for publicly available samples from google like search while user logged in as researcher--------------
+2022-06-16 15:31:44,605 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,625 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,633 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,642 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,655 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,662 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,670 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,679 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:44,693 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:45,020 - TestSuite - ERROR - Test 003_Verify User able to search for publicly available samples from google like search while user logged in as researcher failed. Error: -1
+2022-06-16 15:31:45,020 - TestSuite - INFO - ---------------End of Test 003_Verify User able to search for publicly available samples from google like search while user logged in as researcher--------------------------------------
+2022-06-16 15:31:45,151 - TestSuite - INFO - ---------------Begin Test case: 002_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------
+2022-06-16 15:31:48,339 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,348 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,356 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,364 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,371 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,380 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,387 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,396 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,410 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:48,676 - TestSuite - ERROR - Test 002_Verify User able to search for publicly available samples from google like search while user logged in as curator failed. Error: -1
+2022-06-16 15:31:48,676 - TestSuite - INFO - ---------------End of Test 002_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------------------------------
+2022-06-16 15:31:48,831 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure researcher user able to add a publication to the Favorites list and view the added publication from my favorites page--------------
+2022-06-16 15:31:51,426 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,437 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,451 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,464 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,470 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,476 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,483 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,489 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,499 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:51,765 - TestSuite - ERROR - Test 003_Ensure researcher user able to add a publication to the Favorites list and view the added publication from my favorites page failed. Error: -1
+2022-06-16 15:31:51,765 - TestSuite - INFO - ---------------End of Test 003_Ensure researcher user able to add a publication to the Favorites list and view the added publication from my favorites page--------------------------------------
+2022-06-16 15:31:51,890 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------
+2022-06-16 15:31:54,421 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,429 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,437 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,445 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,453 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,462 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,469 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,476 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,490 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:54,805 - TestSuite - ERROR - Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups failed. Error: -1
+2022-06-16 15:31:54,805 - TestSuite - INFO - ---------------End of Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------------------------------
+2022-06-16 15:31:54,942 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure researcher user able to add a Protocol to the Favorites list and view the added protocol from my favorites page--------------
+2022-06-16 15:31:57,675 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,683 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,691 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,698 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,707 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,713 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,723 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,729 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:57,747 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:31:58,000 - TestSuite - ERROR - Test 002_Ensure researcher user able to add a Protocol to the Favorites list and view the added protocol from my favorites page failed. Error: -1
+2022-06-16 15:31:58,000 - TestSuite - INFO - ---------------End of Test 002_Ensure researcher user able to add a Protocol to the Favorites list and view the added protocol from my favorites page--------------------------------------
+2022-06-16 15:31:58,125 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure Curator user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page--------------
+2022-06-16 15:32:00,575 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,599 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,612 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,620 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,626 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,635 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,642 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,649 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,658 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:00,925 - TestSuite - ERROR - Test 002_Ensure Curator user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page failed. Error: -1
+2022-06-16 15:32:00,926 - TestSuite - INFO - ---------------End of Test 002_Ensure Curator user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page--------------------------------------
+2022-06-16 15:32:01,085 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure researcher user able to add a Protocol to the Favorites list--------------
+2022-06-16 15:32:03,626 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,635 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,642 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,649 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,655 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,662 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,668 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,674 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,683 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:03,942 - TestSuite - ERROR - Test 002_Ensure researcher user able to add a Protocol to the Favorites list failed. Error: -1
+2022-06-16 15:32:03,942 - TestSuite - INFO - ---------------End of Test 002_Ensure researcher user able to add a Protocol to the Favorites list--------------------------------------
+2022-06-16 15:32:04,064 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Curator user able to add a publication to the Favorites list and remove the added publication from my favorites page--------------
+2022-06-16 15:32:06,514 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,522 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,528 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,536 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,543 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,549 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,557 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,566 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,577 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:06,848 - TestSuite - ERROR - Test 003_Ensure Curator user able to add a publication to the Favorites list and remove the added publication from my favorites page failed. Error: -1
+2022-06-16 15:32:06,848 - TestSuite - INFO - ---------------End of Test 003_Ensure Curator user able to add a publication to the Favorites list and remove the added publication from my favorites page--------------------------------------
+2022-06-16 15:32:06,971 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator user able to add a Sample to the Favorites list and remove the added sample from my favorites page--------------
+2022-06-16 15:32:09,436 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,449 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,455 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,466 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,481 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,490 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,498 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,506 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,514 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:09,776 - TestSuite - ERROR - Test 001_Ensure Curator user able to add a Sample to the Favorites list and remove the added sample from my favorites page failed. Error: -1
+2022-06-16 15:32:09,776 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator user able to add a Sample to the Favorites list and remove the added sample from my favorites page--------------------------------------
+2022-06-16 15:32:09,903 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure user should be able to submit a publication and associate a collaboration group--------------
+2022-06-16 15:32:12,390 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,398 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,404 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,411 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,417 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,423 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,429 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,436 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,445 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:12,704 - TestSuite - ERROR - Test 003_Ensure user should be able to submit a publication and associate a collaboration group failed. Error: -1
+2022-06-16 15:32:12,704 - TestSuite - INFO - ---------------End of Test 003_Ensure user should be able to submit a publication and associate a collaboration group--------------------------------------
+2022-06-16 15:32:12,823 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure Curator user able to add a Protocol to the Favorites list and edit the added protocol from my favorites page--------------
+2022-06-16 15:32:15,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,308 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,314 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,322 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,328 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,334 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,341 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,350 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:15,706 - TestSuite - ERROR - Test 002_Ensure Curator user able to add a Protocol to the Favorites list and edit the added protocol from my favorites page failed. Error: -1
+2022-06-16 15:32:15,706 - TestSuite - INFO - ---------------End of Test 002_Ensure Curator user able to add a Protocol to the Favorites list and edit the added protocol from my favorites page--------------------------------------
+2022-06-16 15:32:15,832 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description when user logged in as Curator--------------
+2022-06-16 15:32:18,359 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,367 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,380 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,387 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,393 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,400 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,409 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,415 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,425 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:18,682 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Description when user logged in as Curator failed. Error: -1
+2022-06-16 15:32:18,682 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description when user logged in as Curator--------------------------------------
+2022-06-16 15:32:18,806 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator User able to submit a sample--------------
+2022-06-16 15:32:21,297 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,304 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,319 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,329 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,335 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,343 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,354 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,359 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,370 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:21,628 - TestSuite - ERROR - Test 001_Ensure Curator User able to submit a sample failed. Error: -1
+2022-06-16 15:32:21,628 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator User able to submit a sample--------------------------------------
+2022-06-16 15:32:21,747 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by name when user logged in as Curator--------------
+2022-06-16 15:32:24,276 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,292 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,299 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,306 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,311 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,317 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,325 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,340 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,349 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:24,604 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by name when user logged in as Curator failed. Error: -1
+2022-06-16 15:32:24,605 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by name when user logged in as Curator--------------------------------------
+2022-06-16 15:32:24,740 - TestSuite - INFO - ---------------Begin Test case: 004_Verify User should not be able to search non publicly available samples from google like search without login--------------
+2022-06-16 15:32:27,205 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,218 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,224 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,230 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,237 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,255 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,263 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,275 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,284 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:27,540 - TestSuite - ERROR - Test 004_Verify User should not be able to search non publicly available samples from google like search without login failed. Error: -1
+2022-06-16 15:32:27,540 - TestSuite - INFO - ---------------End of Test 004_Verify User should not be able to search non publicly available samples from google like search without login--------------------------------------
+2022-06-16 15:32:27,667 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------
+2022-06-16 15:32:30,210 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,229 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,244 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,251 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,257 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,263 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,272 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,278 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,291 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:30,549 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:32:30,549 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------------------------------
+2022-06-16 15:32:30,670 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure researcher user able to add a Protocol to the Favorites list and edit the added protocol from my favorites page--------------
+2022-06-16 15:32:33,218 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,226 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,231 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,238 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,243 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,249 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,256 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,261 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,271 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:33,529 - TestSuite - ERROR - Test 002_Ensure researcher user able to add a Protocol to the Favorites list and edit the added protocol from my favorites page failed. Error: -1
+2022-06-16 15:32:33,529 - TestSuite - INFO - ---------------End of Test 002_Ensure researcher user able to add a Protocol to the Favorites list and edit the added protocol from my favorites page--------------------------------------
+2022-06-16 15:32:33,649 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by name when user logged in as Reasercher--------------
+2022-06-16 15:32:36,138 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,155 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,162 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,169 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,174 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,180 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,186 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,192 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,201 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:36,466 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by name when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:32:36,466 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by name when user logged in as Reasercher--------------------------------------
+2022-06-16 15:32:36,588 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure Researcher User able to submit a Nanomaterial entity to the sample--------------
+2022-06-16 15:32:39,171 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,179 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,185 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,192 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,198 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,205 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,212 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,218 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,228 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:39,479 - TestSuite - ERROR - Test 002_Ensure Researcher User able to submit a Nanomaterial entity to the sample failed. Error: -1
+2022-06-16 15:32:39,479 - TestSuite - INFO - ---------------End of Test 002_Ensure Researcher User able to submit a Nanomaterial entity to the sample--------------------------------------
+2022-06-16 15:32:39,620 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure Researcher User able to submit a Chemical Association to the sample--------------
+2022-06-16 15:32:42,164 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,182 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,188 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,197 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,213 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,220 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,227 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,233 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,242 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:42,495 - TestSuite - ERROR - Test 004_Ensure Researcher User able to submit a Chemical Association to the sample failed. Error: -1
+2022-06-16 15:32:42,495 - TestSuite - INFO - ---------------End of Test 004_Ensure Researcher User able to submit a Chemical Association to the sample--------------------------------------
+2022-06-16 15:32:42,617 - TestSuite - INFO - ---------------Begin Test case: 001_Verify User able to search for publicly available samples from google like search without login--------------
+2022-06-16 15:32:45,069 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,088 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,096 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,103 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,109 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,114 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,121 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,127 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,135 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:45,401 - TestSuite - ERROR - Test 001_Verify User able to search for publicly available samples from google like search without login failed. Error: -1
+2022-06-16 15:32:45,401 - TestSuite - INFO - ---------------End of Test 001_Verify User able to search for publicly available samples from google like search without login--------------------------------------
+2022-06-16 15:32:45,522 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure researcher user able to add a Sample to the Favorites list--------------
+2022-06-16 15:32:47,996 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,014 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,021 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,027 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,033 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,040 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,047 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,052 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,063 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:48,331 - TestSuite - ERROR - Test 001_Ensure researcher user able to add a Sample to the Favorites list failed. Error: -1
+2022-06-16 15:32:48,331 - TestSuite - INFO - ---------------End of Test 001_Ensure researcher user able to add a Sample to the Favorites list--------------------------------------
+2022-06-16 15:32:48,449 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure Curator User able to submit a Nanomaterial entity to the sample--------------
+2022-06-16 15:32:50,988 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:50,998 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,008 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,016 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,021 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,029 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,044 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,050 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,059 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:51,346 - TestSuite - ERROR - Test 002_Ensure Curator User able to submit a Nanomaterial entity to the sample failed. Error: -1
+2022-06-16 15:32:51,346 - TestSuite - INFO - ---------------End of Test 002_Ensure Curator User able to submit a Nanomaterial entity to the sample--------------------------------------
+2022-06-16 15:32:51,468 - TestSuite - INFO - ---------------Begin Test case: 001_Verify Google like search does not return any search result when user search for invalid search term--------------
+2022-06-16 15:32:54,092 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,098 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,105 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,114 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,121 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,134 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,142 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,147 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,160 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:54,419 - TestSuite - ERROR - Test 001_Verify Google like search does not return any search result when user search for invalid search term failed. Error: -1
+2022-06-16 15:32:54,419 - TestSuite - INFO - ---------------End of Test 001_Verify Google like search does not return any search result when user search for invalid search term--------------------------------------
+2022-06-16 15:32:54,548 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure researcher user able to add a Sample to the Favorites list and edit the added sample from my favorites page--------------
+2022-06-16 15:32:56,965 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:56,974 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:56,991 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:57,005 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:57,011 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:57,017 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:57,032 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:57,037 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:57,048 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:57,308 - TestSuite - ERROR - Test 001_Ensure researcher user able to add a Sample to the Favorites list and edit the added sample from my favorites page failed. Error: -1
+2022-06-16 15:32:57,308 - TestSuite - INFO - ---------------End of Test 001_Ensure researcher user able to add a Sample to the Favorites list and edit the added sample from my favorites page--------------------------------------
+2022-06-16 15:32:57,428 - TestSuite - INFO - ---------------Begin Test case: 002_Verify User able to search for publicly available samples from google like search while user logged in as Researcher--------------
+2022-06-16 15:32:59,922 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,939 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,946 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,952 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,964 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,971 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,978 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:32:59,991 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:00,291 - TestSuite - ERROR - Test 002_Verify User able to search for publicly available samples from google like search while user logged in as Researcher failed. Error: -1
+2022-06-16 15:33:00,291 - TestSuite - INFO - ---------------End of Test 002_Verify User able to search for publicly available samples from google like search while user logged in as Researcher--------------------------------------
+2022-06-16 15:33:00,432 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Curator User able to submit a Functionalzing entity to the sample--------------
+2022-06-16 15:33:02,923 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,940 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,946 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,964 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,971 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,982 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,987 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:02,995 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:03,246 - TestSuite - ERROR - Test 003_Ensure Curator User able to submit a Functionalzing entity to the sample failed. Error: -1
+2022-06-16 15:33:03,246 - TestSuite - INFO - ---------------End of Test 003_Ensure Curator User able to submit a Functionalzing entity to the sample--------------------------------------
+2022-06-16 15:33:03,370 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------
+2022-06-16 15:33:05,928 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,936 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,942 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,948 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,957 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,964 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,971 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,976 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:05,986 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:06,247 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:33:06,247 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------------------------------
+2022-06-16 15:33:06,368 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type when user logged in as Reasercher--------------
+2022-06-16 15:33:08,818 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,826 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,841 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,848 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,853 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,860 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,866 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,873 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:08,883 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:09,166 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Type when user logged in as Reasercher failed. Error: -1
+2022-06-16 15:33:09,166 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type when user logged in as Reasercher--------------------------------------
+2022-06-16 15:33:09,289 - TestSuite - INFO - ---------------Begin Test case: 005_Ensure Curator User able to submit a Composition File to the sample--------------
+2022-06-16 15:33:11,790 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,801 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,808 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,815 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,828 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,833 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,840 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,848 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:11,860 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:12,131 - TestSuite - ERROR - Test 005_Ensure Curator User able to submit a Composition File to the sample failed. Error: -1
+2022-06-16 15:33:12,131 - TestSuite - INFO - ---------------End of Test 005_Ensure Curator User able to submit a Composition File to the sample--------------------------------------
+2022-06-16 15:33:12,251 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure Curator User able to submit a Chemical Association to the sample--------------
+2022-06-16 15:33:14,716 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,724 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,746 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,755 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,763 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,770 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,777 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,782 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:14,791 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:15,056 - TestSuite - ERROR - Test 004_Ensure Curator User able to submit a Chemical Association to the sample failed. Error: -1
+2022-06-16 15:33:15,056 - TestSuite - INFO - ---------------End of Test 004_Ensure Curator User able to submit a Chemical Association to the sample--------------------------------------
+2022-06-16 15:33:15,185 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure researcher user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page--------------
+2022-06-16 15:33:17,641 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,656 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,664 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,671 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,676 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,682 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,688 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,694 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,703 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:17,964 - TestSuite - ERROR - Test 002_Ensure researcher user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page failed. Error: -1
+2022-06-16 15:33:17,964 - TestSuite - INFO - ---------------End of Test 002_Ensure researcher user able to add a Protocol to the Favorites list and remove the added protocol from my favorites page--------------------------------------
+2022-06-16 15:33:18,088 - TestSuite - INFO - ---------------Begin Test case: 001_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------
+2022-06-16 15:33:20,654 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,665 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,673 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,679 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,689 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,695 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,702 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,708 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,716 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:20,972 - TestSuite - ERROR - Test 001_Verify User able to search for publicly available samples from google like search while user logged in as curator failed. Error: -1
+2022-06-16 15:33:20,972 - TestSuite - INFO - ---------------End of Test 001_Verify User able to search for publicly available samples from google like search while user logged in as curator--------------------------------------
+2022-06-16 15:33:21,090 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type when user logged in as Curator--------------
+2022-06-16 15:33:23,530 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,537 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,553 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,560 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,566 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,572 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,578 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,585 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,595 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:23,860 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Type when user logged in as Curator failed. Error: -1
+2022-06-16 15:33:23,860 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type when user logged in as Curator--------------------------------------
+2022-06-16 15:33:23,983 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure researcher user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------
+2022-06-16 15:33:26,449 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,456 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,462 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,476 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,482 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,487 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,500 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,511 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:26,770 - TestSuite - ERROR - Test 001_Ensure researcher user able to add a Sample to the Favorites list and view the added sample from my favorites page failed. Error: -1
+2022-06-16 15:33:26,770 - TestSuite - INFO - ---------------End of Test 001_Ensure researcher user able to add a Sample to the Favorites list and view the added sample from my favorites page--------------------------------------
+2022-06-16 15:33:26,894 - TestSuite - INFO - ---------------Begin Test case: 005_Ensure Researcher User able to submit a Composition File to the sample--------------
+2022-06-16 15:33:29,482 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,489 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,501 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,512 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,523 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,529 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,539 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,548 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:29,829 - TestSuite - ERROR - Test 005_Ensure Researcher User able to submit a Composition File to the sample failed. Error: -1
+2022-06-16 15:33:29,829 - TestSuite - INFO - ---------------End of Test 005_Ensure Researcher User able to submit a Composition File to the sample--------------------------------------
+2022-06-16 15:33:29,948 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Researcher User able to submit a Functionalzing entity to the sample--------------
+2022-06-16 15:33:32,462 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,471 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,485 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,492 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,497 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,503 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,517 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,530 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,539 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:32,796 - TestSuite - ERROR - Test 003_Ensure Researcher User able to submit a Functionalzing entity to the sample failed. Error: -1
+2022-06-16 15:33:32,796 - TestSuite - INFO - ---------------End of Test 003_Ensure Researcher User able to submit a Functionalzing entity to the sample--------------------------------------
+2022-06-16 15:33:32,918 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Type--------------
+2022-06-16 15:33:35,361 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,369 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,375 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,383 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,389 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,396 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,402 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,408 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:35,416 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:38,682 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:33:38,682 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Type--------------------------------------
+2022-06-16 15:33:38,682 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Type Passed
+2022-06-16 15:33:38,807 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description--------------
+2022-06-16 15:33:41,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,302 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,326 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,335 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,341 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,346 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,354 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,359 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:41,368 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:44,626 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:33:44,627 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description--------------------------------------
+2022-06-16 15:33:44,627 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Description Passed
+2022-06-16 15:33:44,749 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------
+2022-06-16 15:33:47,345 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,353 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,360 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,368 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,375 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,385 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,393 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,400 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,409 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:47,659 - TestSuite - ERROR - Test 002_Ensure user should be able to submit a protocol and associate a collaboration group failed. Error: -1
+2022-06-16 15:33:47,659 - TestSuite - INFO - ---------------End of Test 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------------------------------
+2022-06-16 15:33:47,780 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure Curator user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------
+2022-06-16 15:33:50,220 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,228 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,234 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,240 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,247 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,253 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,259 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,265 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,273 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:50,546 - TestSuite - ERROR - Test 003_Ensure Curator user able to add a publication to the Favorites list and edit the added publication from my favorites page failed. Error: -1
+2022-06-16 15:33:50,547 - TestSuite - INFO - ---------------End of Test 003_Ensure Curator user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------------------------------
+2022-06-16 15:33:50,667 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by name--------------
+2022-06-16 15:33:53,155 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,172 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,179 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,185 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,190 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,196 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,203 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,211 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:53,223 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:56,478 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:33:56,478 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by name--------------------------------------
+2022-06-16 15:33:56,478 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by name Passed
+2022-06-16 15:33:56,607 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure researcher user able to add a Publication to the Favorites list--------------
+2022-06-16 15:33:59,110 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,127 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,132 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,139 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,145 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,155 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,161 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,168 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,176 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:33:59,434 - TestSuite - ERROR - Test 003_Ensure researcher user able to add a Publication to the Favorites list failed. Error: -1
+2022-06-16 15:33:59,435 - TestSuite - INFO - ---------------End of Test 003_Ensure researcher user able to add a Publication to the Favorites list--------------------------------------
+2022-06-16 15:33:59,555 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Curator user able to add a Sample to the Favorites list and edit the added sample from my favorites page--------------
+2022-06-16 15:34:02,054 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,061 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,068 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,075 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,080 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,086 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,092 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,105 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,114 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:02,408 - TestSuite - ERROR - Test 001_Ensure Curator user able to add a Sample to the Favorites list and edit the added sample from my favorites page failed. Error: -1
+2022-06-16 15:34:02,409 - TestSuite - INFO - ---------------End of Test 001_Ensure Curator user able to add a Sample to the Favorites list and edit the added sample from my favorites page--------------------------------------
+2022-06-16 15:34:02,530 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Researcher User able to submit a sample--------------
+2022-06-16 15:34:04,980 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:04,987 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:04,993 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:05,007 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:05,012 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:05,019 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:05,024 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:05,030 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:05,039 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:05,306 - TestSuite - ERROR - Test 001_Ensure Researcher User able to submit a sample failed. Error: -1
+2022-06-16 15:34:05,307 - TestSuite - INFO - ---------------End of Test 001_Ensure Researcher User able to submit a sample--------------------------------------
+2022-06-16 15:34:05,440 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure user should be able to submit a sample and associate a collaboration group--------------
+2022-06-16 15:34:07,884 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,894 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,900 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,914 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,920 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,929 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,935 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,948 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:07,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:08,221 - TestSuite - ERROR - Test 004_Ensure user should be able to submit a sample and associate a collaboration group failed. Error: -1
+2022-06-16 15:34:08,221 - TestSuite - INFO - ---------------End of Test 004_Ensure user should be able to submit a sample and associate a collaboration group--------------------------------------
+2022-06-16 15:34:08,340 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure researcher user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------
+2022-06-16 15:34:10,789 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,797 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,807 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,813 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,827 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,833 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,839 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,844 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:10,852 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:11,111 - TestSuite - ERROR - Test 003_Ensure researcher user able to add a publication to the Favorites list and edit the added publication from my favorites page failed. Error: -1
+2022-06-16 15:34:11,111 - TestSuite - INFO - ---------------End of Test 003_Ensure researcher user able to add a publication to the Favorites list and edit the added publication from my favorites page--------------------------------------
+2022-06-16 15:34:11,233 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure researcher user able to add a publication to the Favorites list and remove the added publication from my favorites page--------------
+2022-06-16 15:34:13,712 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,721 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,727 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,733 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,739 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,744 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,750 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,759 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:13,772 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:14,041 - TestSuite - ERROR - Test 003_Ensure researcher user able to add a publication to the Favorites list and remove the added publication from my favorites page failed. Error: -1
+2022-06-16 15:34:14,041 - TestSuite - INFO - ---------------End of Test 003_Ensure researcher user able to add a publication to the Favorites list and remove the added publication from my favorites page--------------------------------------
+2022-06-16 15:34:14,161 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date--------------
+2022-06-16 15:34:16,628 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,636 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,643 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,655 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,660 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,684 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,691 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:16,704 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:19,964 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-16 15:34:19,965 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date--------------------------------------
+2022-06-16 15:34:19,965 - TestSuite - INFO - Test 002_Ensure user able to sort google like search results by Created Date Passed
+2022-06-16 15:34:20,087 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date when user logged in as Curator--------------
+2022-06-16 15:34:22,721 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,729 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,735 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,742 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,748 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,754 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,764 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,770 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:22,780 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:34:23,041 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Curator failed. Error: -1
+2022-06-16 15:34:23,041 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Curator--------------------------------------

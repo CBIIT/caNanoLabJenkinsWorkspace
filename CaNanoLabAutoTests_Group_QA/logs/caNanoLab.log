@@ -1,0 +1,135 @@
+2022-02-03 10:13:43,361 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:43,667 - TestSuite - ERROR - Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups failed. Error: -1
+2022-02-03 10:13:43,667 - TestSuite - INFO - ---------------End of Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------------------------------
+2022-02-03 10:13:43,848 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure user should be able to submit a sample and associate a collaboration group--------------
+2022-02-03 10:13:50,575 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,588 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,599 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,624 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,643 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,661 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,686 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,695 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:50,722 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-02-03 10:13:51,276 - TestSuite - ERROR - Test 004_Ensure user should be able to submit a sample and associate a collaboration group failed. Error: -1
+2022-02-03 10:13:51,277 - TestSuite - INFO - ---------------End of Test 004_Ensure user should be able to submit a sample and associate a collaboration group--------------------------------------
+2022-04-12 10:16:41,968 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------
+2022-04-12 10:17:27,471 - TestSuite - ERROR - Test 002_Ensure user should be able to submit a protocol and associate a collaboration group failed. Error: -Unable to bind to locking port 7054 within 45000 ms
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.59.1.el7.x86_64', java.version: '1.8.0_321'
+Driver info: driver.version: FirefoxDriver
+2022-04-12 10:17:27,472 - TestSuite - INFO - ---------------End of Test 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------------------------------
+2022-04-12 10:17:27,477 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure user should be able to submit a publication and associate a collaboration group--------------
+2022-04-12 10:18:13,123 - TestSuite - ERROR - Test 003_Ensure user should be able to submit a publication and associate a collaboration group failed. Error: -Unable to bind to locking port 7054 within 45000 ms
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.59.1.el7.x86_64', java.version: '1.8.0_321'
+Driver info: driver.version: FirefoxDriver
+2022-04-12 10:18:13,124 - TestSuite - INFO - ---------------End of Test 003_Ensure user should be able to submit a publication and associate a collaboration group--------------------------------------
+2022-04-12 10:18:13,126 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------
+2022-04-12 10:18:59,349 - TestSuite - ERROR - Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups failed. Error: -Unable to bind to locking port 7054 within 45000 ms
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.59.1.el7.x86_64', java.version: '1.8.0_321'
+Driver info: driver.version: FirefoxDriver
+2022-04-12 10:18:59,350 - TestSuite - INFO - ---------------End of Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------------------------------
+2022-04-12 10:18:59,351 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure user should be able to submit a sample and associate a collaboration group--------------
+2022-04-12 10:19:45,196 - TestSuite - ERROR - Test 004_Ensure user should be able to submit a sample and associate a collaboration group failed. Error: -Unable to bind to locking port 7054 within 45000 ms
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.59.1.el7.x86_64', java.version: '1.8.0_321'
+Driver info: driver.version: FirefoxDriver
+2022-04-12 10:19:45,196 - TestSuite - INFO - ---------------End of Test 004_Ensure user should be able to submit a sample and associate a collaboration group--------------------------------------
+2022-06-16 15:04:36,990 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------
+2022-06-16 15:04:44,322 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,349 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,376 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,388 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,412 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,428 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,446 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,461 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:44,503 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:45,138 - TestSuite - ERROR - Test 002_Ensure user should be able to submit a protocol and associate a collaboration group failed. Error: -1
+2022-06-16 15:04:45,138 - TestSuite - INFO - ---------------End of Test 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------------------------------
+2022-06-16 15:04:45,583 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure user should be able to submit a publication and associate a collaboration group--------------
+2022-06-16 15:04:53,820 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,839 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,849 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,868 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,881 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,891 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,903 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,913 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:53,926 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:04:54,261 - TestSuite - ERROR - Test 003_Ensure user should be able to submit a publication and associate a collaboration group failed. Error: -1
+2022-06-16 15:04:54,261 - TestSuite - INFO - ---------------End of Test 003_Ensure user should be able to submit a publication and associate a collaboration group--------------------------------------
+2022-06-16 15:04:54,390 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------
+2022-06-16 15:05:01,220 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,236 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,245 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,253 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,261 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,278 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,286 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,297 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:01,624 - TestSuite - ERROR - Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups failed. Error: -1
+2022-06-16 15:05:01,624 - TestSuite - INFO - ---------------End of Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------------------------------
+2022-06-16 15:05:01,819 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure user should be able to submit a sample and associate a collaboration group--------------
+2022-06-16 15:05:08,535 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,545 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,554 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,562 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,575 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,588 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,596 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,622 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,636 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:08,987 - TestSuite - ERROR - Test 004_Ensure user should be able to submit a sample and associate a collaboration group failed. Error: -1
+2022-06-16 15:05:08,987 - TestSuite - INFO - ---------------End of Test 004_Ensure user should be able to submit a sample and associate a collaboration group--------------------------------------
+2022-06-16 15:05:15,195 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------
+2022-06-16 15:05:22,427 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,444 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,456 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,481 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,494 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,506 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,515 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,529 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,543 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:22,933 - TestSuite - ERROR - Test 002_Ensure user should be able to submit a protocol and associate a collaboration group failed. Error: -1
+2022-06-16 15:05:22,933 - TestSuite - INFO - ---------------End of Test 002_Ensure user should be able to submit a protocol and associate a collaboration group--------------------------------------
+2022-06-16 15:05:23,202 - TestSuite - INFO - ---------------Begin Test case: 003_Ensure user should be able to submit a publication and associate a collaboration group--------------
+2022-06-16 15:05:26,499 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,589 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,609 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,620 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,628 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,635 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,643 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:26,662 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:27,275 - TestSuite - ERROR - Test 003_Ensure user should be able to submit a publication and associate a collaboration group failed. Error: -1
+2022-06-16 15:05:27,275 - TestSuite - INFO - ---------------End of Test 003_Ensure user should be able to submit a publication and associate a collaboration group--------------------------------------
+2022-06-16 15:05:27,467 - TestSuite - INFO - ---------------Begin Test case: 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------
+2022-06-16 15:05:37,398 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,418 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,426 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,436 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,447 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,454 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,462 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,478 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,491 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:37,851 - TestSuite - ERROR - Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups failed. Error: -1
+2022-06-16 15:05:37,851 - TestSuite - INFO - ---------------End of Test 001_Ensure Only Curator user able to Add a groups to the collaboration Groups--------------------------------------
+2022-06-16 15:05:38,005 - TestSuite - INFO - ---------------Begin Test case: 004_Ensure user should be able to submit a sample and associate a collaboration group--------------
+2022-06-16 15:05:41,577 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,588 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,595 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,606 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,614 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,623 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,638 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,648 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-16 15:05:41,954 - TestSuite - ERROR - Test 004_Ensure user should be able to submit a sample and associate a collaboration group failed. Error: -1
+2022-06-16 15:05:41,954 - TestSuite - INFO - ---------------End of Test 004_Ensure user should be able to submit a sample and associate a collaboration group--------------------------------------

@@ -1,0 +1,52 @@
+2022-06-23 12:14:22,276 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d9739d66-57c8-4dd3-9266-4c9636923c91
+*** Element info: {Using=css selector, value=.sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs}
+2022-06-23 12:14:23,638 - BaseNanoLabMethods - INFO - Identified Actual value:[No account is required to browse publicly available data.] from home page
+2022-06-23 12:14:24,711 - BaseNanoLabMethods - INFO - Verification successful for Expected value:[No account is required to browse publicly available data.] with Actual value: [No account is required to browse publicly available data.] in [td.sidebarContent]
+2022-06-23 12:14:24,712 - TestSuite - INFO - ---------------End of Test 002_Verify_Option_Login_to_submit_data--------------------------------------
+2022-06-23 12:14:24,712 - TestSuite - INFO - Test 002_Verify_Option_Login_to_submit_data Passed
+2022-06-23 12:14:24,887 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_Option_Browse_publically_available_Data--------------
+2022-06-23 12:14:27,392 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,399 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,405 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,411 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,417 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,422 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,432 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,438 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,446 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-23 12:14:27,779 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"name","selector":"userActions"}
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d159c4fd-935a-4e84-b120-c997b1ece26f
+*** Element info: {Using=name, value=userActions}
+2022-06-23 12:14:27,848 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d159c4fd-935a-4e84-b120-c997b1ece26f
+*** Element info: {Using=css selector, value=.sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs}
+2022-06-23 12:14:28,917 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".contentTitle>tbody>tr>th"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d159c4fd-935a-4e84-b120-c997b1ece26f
+*** Element info: {Using=css selector, value=.contentTitle>tbody>tr>th}
+2022-06-23 12:14:28,917 - TestSuite - ERROR - Test 001_Verify_Option_Browse_publically_available_Data failed. Error: -null
+2022-06-23 12:14:28,917 - TestSuite - INFO - ---------------End of Test 001_Verify_Option_Browse_publically_available_Data--------------------------------------

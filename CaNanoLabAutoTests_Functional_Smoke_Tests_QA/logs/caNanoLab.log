@@ -1,0 +1,1466 @@
+2022-06-22 19:51:18,352 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:18,358 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:18,366 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:18,372 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:18,385 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:18,395 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:18,686 - TestSuite - ERROR - Test 005_Verify_Invalid_password failed. Error: -2
+2022-06-22 19:51:18,686 - TestSuite - INFO - ---------------End of Test 005_Verify_Invalid_password--------------------------------------
+2022-06-22 19:51:18,809 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NanotechnologyWorkingGroup--------------
+2022-06-22 19:51:21,282 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,290 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,302 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,311 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,317 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,323 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,330 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,336 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,346 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:21,613 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NanotechnologyWorkingGroup--------------------------------------
+2022-06-22 19:51:21,614 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NanotechnologyWorkingGroup Passed
+2022-06-22 19:51:21,746 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_sample_search_by_keyword--------------
+2022-06-22 19:51:24,307 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,319 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,325 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,332 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,339 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,345 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,353 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,361 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:24,371 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:27,648 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-22 19:51:27,720 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: efa92aa2-da24-4f65-b5b7-1eb90e5119d0
+*** Element info: {Using=css selector, value=html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a}
+2022-06-22 19:51:31,721 - BaseNanoLabMethods - INFO - Wait Time: [4000]
+2022-06-22 19:51:33,721 - BaseNanoLabMethods - INFO - Wait Time: [2000]
+2022-06-22 19:51:33,721 - TestSuite - INFO - ---------------End of Test 001_Verify_sample_search_by_keyword--------------------------------------
+2022-06-22 19:51:33,722 - TestSuite - INFO - Test 001_Verify_sample_search_by_keyword Passed
+2022-06-22 19:51:33,867 - TestSuite - INFO - ---------------Begin Test case: 014_Verify_caNanoLab_Whats_New_section_content_downloadLink--------------
+2022-06-22 19:51:36,338 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,347 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,354 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,360 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,366 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,373 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,379 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,385 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:36,394 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:47,547 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab Wiki Home Page
+2022-06-22 19:51:47,547 - TestSuite - INFO - ---------------End of Test 014_Verify_caNanoLab_Whats_New_section_content_downloadLink--------------------------------------
+2022-06-22 19:51:47,547 - TestSuite - INFO - Test 014_Verify_caNanoLab_Whats_New_section_content_downloadLink Passed
+2022-06-22 19:51:47,785 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NCICBIITHome--------------
+2022-06-22 19:51:50,165 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,172 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,178 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,194 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,200 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,205 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,211 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,217 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:51:50,226 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:01,709 - BaseNanoLabMethods - INFO - Page verification successful. Found - National Cancer Institute Center for Biomedical Informatics and Information Technology
+2022-06-22 19:52:03,467 - BaseNanoLabMethods - INFO - URL verification successful for url - https://datascience.cancer.gov/
+2022-06-22 19:52:03,467 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NCICBIITHome--------------------------------------
+2022-06-22 19:52:03,467 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NCICBIITHome Passed
+2022-06-22 19:52:03,990 - TestSuite - INFO - ---------------Begin Test case: 002_verify_sample_contains_search_by_sample_name--------------
+2022-06-22 19:52:06,550 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,558 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,565 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,571 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,577 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,583 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,590 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,596 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,605 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:06,944 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b2a2ba4c-f2f1-460e-b97b-100069e5d15f
+*** Element info: {Using=css selector, value=html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a}
+2022-06-22 19:52:10,944 - BaseNanoLabMethods - INFO - Wait Time: [4000]
+2022-06-22 19:52:10,945 - TestSuite - INFO - ---------------End of Test 002_verify_sample_contains_search_by_sample_name--------------------------------------
+2022-06-22 19:52:10,945 - TestSuite - INFO - Test 002_verify_sample_contains_search_by_sample_name Passed
+2022-06-22 19:52:11,068 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NCIHome--------------
+2022-06-22 19:52:13,478 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,485 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,492 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,500 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,507 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,514 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,520 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,527 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:13,536 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:25,069 - BaseNanoLabMethods - INFO - Page verification successful. Found - Cancer Currents Blog
+2022-06-22 19:52:26,981 - BaseNanoLabMethods - INFO - URL verification successful for url - https://www.cancer.gov/
+2022-06-22 19:52:26,981 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NCIHome--------------------------------------
+2022-06-22 19:52:26,981 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NCIHome Passed
+2022-06-22 19:52:27,474 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_InterNano--------------
+2022-06-22 19:52:29,903 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,922 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,928 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,935 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,941 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,948 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,956 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,964 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:29,975 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:30,236 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_InterNano--------------------------------------
+2022-06-22 19:52:30,236 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_InterNano Passed
+2022-06-22 19:52:30,364 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_Option_Browse_publically_available_Data--------------
+2022-06-22 19:52:32,777 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,793 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,805 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,815 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,822 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,829 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,836 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,842 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:32,854 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:34,198 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".contentTitle>tbody>tr>th"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8a35e0b5-396e-44da-98bf-f270d75042d4
+*** Element info: {Using=css selector, value=.contentTitle>tbody>tr>th}
+2022-06-22 19:52:34,198 - TestSuite - ERROR - Test 001_Verify_Option_Browse_publically_available_Data failed. Error: -null
+2022-06-22 19:52:34,198 - TestSuite - INFO - ---------------End of Test 001_Verify_Option_Browse_publically_available_Data--------------------------------------
+2022-06-22 19:52:34,322 - TestSuite - INFO - ---------------Begin Test case: 010_Verify_Help_pages(1)--------------
+2022-06-22 19:52:36,762 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,772 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,788 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,811 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,820 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,828 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,837 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,844 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:36,858 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:47,756 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab User's Guide
+2022-06-22 19:52:47,756 - TestSuite - INFO - ---------------End of Test 010_Verify_Help_pages(1)--------------------------------------
+2022-06-22 19:52:47,756 - TestSuite - INFO - Test 010_Verify_Help_pages(1) Passed
+2022-06-22 19:52:47,922 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_8--------------
+2022-06-22 19:52:50,344 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,360 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,369 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,376 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,383 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,389 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,396 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,402 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,411 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:50,671 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_8--------------------------------------
+2022-06-22 19:52:50,671 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_8 Passed
+2022-06-22 19:52:50,803 - TestSuite - INFO - ---------------Begin Test case: 013_Verify_caNanoLab_How_To_section_content--------------
+2022-06-22 19:52:53,236 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,244 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,252 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,259 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,281 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,289 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,297 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,305 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:52:53,798 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is displayed
+2022-06-22 19:52:53,983 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is enabled
+2022-06-22 19:52:54,181 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is displayed
+2022-06-22 19:52:54,357 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is enabled
+2022-06-22 19:52:56,104 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 19:52:56,495 - BaseNanoLabMethods - INFO - Expected:[caNanoLab FAQ] and Actual: [caNanoLab FAQ return value is true] verification successful
+2022-06-22 19:52:56,537 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 19:52:56,969 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 19:52:56,969 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 19:52:58,055 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is displayed
+2022-06-22 19:52:58,241 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is enabled
+2022-06-22 19:52:58,424 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is displayed
+2022-06-22 19:52:58,678 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is enabled
+2022-06-22 19:53:00,344 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 19:53:00,362 - BaseNanoLabMethods - INFO - Expected:[Search Protocols] and Actual: [Search Protocols return value is true] verification successful
+2022-06-22 19:53:00,378 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 19:53:00,752 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 19:53:00,752 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 19:53:01,239 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is displayed
+2022-06-22 19:53:01,446 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is enabled
+2022-06-22 19:53:01,641 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is displayed
+2022-06-22 19:53:01,826 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is enabled
+2022-06-22 19:53:03,472 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 19:53:03,593 - BaseNanoLabMethods - INFO - Expected:[SearchPublications] and Actual: [SearchPublications return value is true] verification successful
+2022-06-22 19:53:03,616 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 19:53:03,960 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 19:53:03,960 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 19:53:04,446 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is displayed
+2022-06-22 19:53:04,646 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is enabled
+2022-06-22 19:53:04,837 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is displayed
+2022-06-22 19:53:05,058 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is enabled
+2022-06-22 19:53:06,755 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 19:53:06,784 - BaseNanoLabMethods - INFO - Expected:[Sample Search] and Actual: [Sample Search return value is true] verification successful
+2022-06-22 19:53:06,800 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 19:53:07,153 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 19:53:07,154 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 19:53:07,643 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is displayed
+2022-06-22 19:53:07,834 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is enabled
+2022-06-22 19:53:08,052 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is displayed
+2022-06-22 19:53:08,254 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is enabled
+2022-06-22 19:53:10,145 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 19:53:10,411 - BaseNanoLabMethods - INFO - Expected:[Sample Search] and Actual: [Sample Search return value is true] verification successful
+2022-06-22 19:53:10,431 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 19:53:10,806 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 19:53:10,806 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 19:53:11,295 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is displayed
+2022-06-22 19:53:11,510 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is enabled
+2022-06-22 19:53:11,726 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is displayed
+2022-06-22 19:53:11,929 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is enabled
+2022-06-22 19:53:13,600 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 19:53:13,714 - BaseNanoLabMethods - INFO - Expected:[caNanoLab] and Actual: [caNanoLab return value is true] verification successful
+2022-06-22 19:53:13,749 - TestSuite - INFO - ---------------End of Test 013_Verify_caNanoLab_How_To_section_content--------------------------------------
+2022-06-22 19:53:13,749 - TestSuite - INFO - Test 013_Verify_caNanoLab_How_To_section_content Passed
+2022-06-22 19:53:13,884 - TestSuite - INFO - ---------------Begin Test case: 003_Verify_Option_Register_for_login_account--------------
+2022-06-22 19:53:16,458 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,466 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,480 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,488 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,495 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,502 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,510 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,517 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:16,529 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:18,256 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"table.contentTitle"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 627c9071-5fe7-4c12-bd3e-455f67643f9f
+*** Element info: {Using=css selector, value=table.contentTitle}
+2022-06-22 19:53:18,256 - BaseNanoLabMethods - INFO - Identified Actual value:[null] from home page
+2022-06-22 19:53:19,324 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"table.contentTitle"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 627c9071-5fe7-4c12-bd3e-455f67643f9f
+*** Element info: {Using=css selector, value=table.contentTitle}
+2022-06-22 19:53:19,325 - TestSuite - ERROR - Test 003_Verify_Option_Register_for_login_account failed. Error: -null
+2022-06-22 19:53:19,325 - TestSuite - INFO - ---------------End of Test 003_Verify_Option_Register_for_login_account--------------------------------------
+2022-06-22 19:53:19,512 - TestSuite - INFO - ---------------Begin Test case: 007_Verify_user_session_is_lost_when_browser_window_is_closed--------------
+2022-06-22 19:53:21,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:21,965 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:21,979 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:21,985 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:21,992 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:21,998 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:22,003 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:22,010 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:22,018 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:22,279 - TestSuite - ERROR - Test 007_Verify_user_session_is_lost_when_browser_window_is_closed failed. Error: -2
+2022-06-22 19:53:22,279 - TestSuite - INFO - ---------------End of Test 007_Verify_user_session_is_lost_when_browser_window_is_closed--------------------------------------
+2022-06-22 19:53:22,401 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_Disclaimer--------------
+2022-06-22 19:53:24,731 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,738 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,745 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,754 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,761 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,780 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,790 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,796 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:24,807 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:35,545 - BaseNanoLabMethods - INFO - Page verification successful. Found - LEGAL RULES OF THE ROAD
+2022-06-22 19:53:36,694 - BaseNanoLabMethods - INFO - URL verification successful for url - https://cananolab-qa.nci.nih.gov/caNanoLab/html/cananoDisclaimer.html
+2022-06-22 19:53:36,694 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_Disclaimer--------------------------------------
+2022-06-22 19:53:36,694 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_Disclaimer Passed
+2022-06-22 19:53:36,886 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_nanoHUB--------------
+2022-06-22 19:53:39,374 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,383 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,389 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,395 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,401 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,406 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,412 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,417 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:39,426 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:52,702 - BaseNanoLabMethods - INFO - Page verification successful. Found - Menu
+2022-06-22 19:53:52,702 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_nanoHUB--------------------------------------
+2022-06-22 19:53:52,702 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_nanoHUB Passed
+2022-06-22 19:53:53,086 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------
+2022-06-22 19:53:55,448 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,457 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,465 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,473 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,479 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,485 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,490 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,497 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,505 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:55,768 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher failed. Error: -2
+2022-06-22 19:53:55,768 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------------------------------
+2022-06-22 19:53:55,891 - TestSuite - INFO - ---------------Begin Test case: 014_Verify_caNanoLab_Whats New_section_content_releaseNotesLink--------------
+2022-06-22 19:53:58,318 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,326 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,331 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,338 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,346 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,358 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,365 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,371 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:53:58,383 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:09,320 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab 1.5.5 Release Note
+2022-06-22 19:54:09,320 - TestSuite - INFO - ---------------End of Test 014_Verify_caNanoLab_Whats New_section_content_releaseNotesLink--------------------------------------
+2022-06-22 19:54:09,320 - TestSuite - INFO - Test 014_Verify_caNanoLab_Whats New_section_content_releaseNotesLink Passed
+2022-06-22 19:54:09,492 - TestSuite - INFO - ---------------Begin Test case: 015_Verify_caNanoLab_Browse_cananoLab_section_content--------------
+2022-06-22 19:54:12,188 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,196 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,205 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,212 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,218 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,225 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,231 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,237 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:12,246 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:54:13,869 - BaseNanoLabMethods - INFO - Page verification successful. Text Welcome to caNanoLab found.
+2022-06-22 19:57:17,524 - BaseNanoLabMethods - INFO - Browse caNanoLab Section verification successful
+2022-06-22 19:57:17,525 - TestSuite - INFO - ---------------End of Test 015_Verify_caNanoLab_Browse_cananoLab_section_content--------------------------------------
+2022-06-22 19:57:17,525 - TestSuite - INFO - Test 015_Verify_caNanoLab_Browse_cananoLab_section_content Passed
+2022-06-22 19:57:17,768 - TestSuite - INFO - ---------------Begin Test case: 009_Verify_publication_search_by_Sample_Name_contains--------------
+2022-06-22 19:57:20,228 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,235 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,242 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,248 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,253 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,259 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,265 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,270 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,278 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 19:57:20,612 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"name","selector":"userActions"}
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=name, value=userActions}
+2022-06-22 19:57:20,679 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs}
+2022-06-22 19:58:21,511 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"link text","selector":"PUBLICATIONS"}
+Command duration or timeout: 287 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=link text, value=PUBLICATIONS}
+2022-06-22 19:59:21,967 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"link text","selector":"Search Existing Publications"}
+Command duration or timeout: 273 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=link text, value=Search Existing Publications}
+2022-06-22 20:00:26,043 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"id","selector":"nameOperand"}
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=id, value=nameOperand}
+2022-06-22 20:00:26,162 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"id","selector":"sampleName"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=id, value=sampleName}
+2022-06-22 20:00:26,179 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"id","selector":"sampleName"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=id, value=sampleName}
+2022-06-22 20:00:26,248 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"input[type=\"submit\"]"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=input[type="submit"]}
+2022-06-22 20:01:26,266 - BaseNanoLabMethods - INFO - Waiting for Publication Search Results page
+2022-06-22 20:02:26,754 - BaseNanoLabMethods - INFO - Validating Publication Search Results Table Header
+2022-06-22 20:02:27,826 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(1)"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(1)}
+2022-06-22 20:02:27,826 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:28,893 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(2)"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(2)}
+2022-06-22 20:02:28,893 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:29,961 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(3)"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(3)}
+2022-06-22 20:02:29,961 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:31,035 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(4)"}
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(4)}
+2022-06-22 20:02:31,035 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:32,102 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(5)"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(5)}
+2022-06-22 20:02:32,103 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:33,173 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(6)"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(6)}
+2022-06-22 20:02:33,174 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:34,239 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(7)"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(7)}
+2022-06-22 20:02:34,239 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:35,308 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(8)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fb954adb-a963-4048-bf5c-5c3d01414ce8
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(8)}
+2022-06-22 20:02:35,308 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:02:35,309 - TestSuite - ERROR - Test 009_Verify_publication_search_by_Sample_Name_contains failed. Error: -null
+2022-06-22 20:02:35,309 - TestSuite - INFO - ---------------End of Test 009_Verify_publication_search_by_Sample_Name_contains--------------------------------------
+2022-06-22 20:02:35,462 - TestSuite - INFO - ---------------Begin Test case: 002_Login_as_Curator--------------
+2022-06-22 20:02:38,002 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,010 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,015 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,022 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,027 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,036 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,042 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,049 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,059 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:38,323 - TestSuite - ERROR - Test 002_Login_as_Curator failed. Error: -2
+2022-06-22 20:02:38,324 - TestSuite - INFO - ---------------End of Test 002_Login_as_Curator--------------------------------------
+2022-06-22 20:02:38,445 - TestSuite - INFO - ---------------Begin Test case: 002_Verify_Option_Login_to_submit_data--------------
+2022-06-22 20:02:40,929 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,937 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,942 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,963 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,969 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,975 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,980 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:40,989 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:42,614 - BaseNanoLabMethods - INFO - Identified Actual value:[No account is required to browse publicly available data.] from home page
+2022-06-22 20:02:43,688 - BaseNanoLabMethods - INFO - Verification successful for Expected value:[No account is required to browse publicly available data.] with Actual value: [No account is required to browse publicly available data.] in [td.sidebarContent]
+2022-06-22 20:02:43,688 - TestSuite - INFO - ---------------End of Test 002_Verify_Option_Login_to_submit_data--------------------------------------
+2022-06-22 20:02:43,688 - TestSuite - INFO - Test 002_Verify_Option_Login_to_submit_data Passed
+2022-06-22 20:02:43,867 - TestSuite - INFO - ---------------Begin Test case: 011_Verify_Home_page_Welcome_Content--------------
+2022-06-22 20:02:46,330 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,337 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,344 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,351 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,358 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,365 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,372 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,379 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:46,389 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:48,018 - BaseNanoLabMethods - INFO - Identified Actual value:[Welcome to the cancer Nanotechnology Laboratory (caNanoLab) portal. caNanoLab is a data sharing portal designed to facilitate information sharing across the international biomedical nanotechnology research community to expedite and validate the use of nanotechnology in biomedicine. caNanoLab provides support for the annotation of nanomaterials with characterizations resulting from physico-chemical, in vitro and in vivo assays and the sharing of these characterizations and associated nanotechnology protocols in a secure fashion.] from home page
+2022-06-22 20:02:49,100 - TestSuite - INFO - ---------------End of Test 011_Verify_Home_page_Welcome_Content--------------------------------------
+2022-06-22 20:02:49,100 - TestSuite - INFO - Test 011_Verify_Home_page_Welcome_Content Passed
+2022-06-22 20:02:49,281 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_sample_search_by_keyword--------------
+2022-06-22 20:02:51,733 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,748 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,754 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,760 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,766 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,772 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,779 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,784 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:51,793 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:02:55,053 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-22 20:02:55,125 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c2800ab4-6019-4211-84ef-6b3bd0bf47f1
+*** Element info: {Using=css selector, value=html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a}
+2022-06-22 20:02:59,126 - BaseNanoLabMethods - INFO - Wait Time: [4000]
+2022-06-22 20:03:01,126 - BaseNanoLabMethods - INFO - Wait Time: [2000]
+2022-06-22 20:03:01,126 - TestSuite - INFO - ---------------End of Test 001_Verify_sample_search_by_keyword--------------------------------------
+2022-06-22 20:03:01,126 - TestSuite - INFO - Test 001_Verify_sample_search_by_keyword Passed
+2022-06-22 20:03:01,251 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_eNanoMapper--------------
+2022-06-22 20:03:03,742 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,749 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,755 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,761 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,767 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,772 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,779 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,784 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:03,793 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:15,009 - BaseNanoLabMethods - INFO - Page verification successful. Found - 
+2022-06-22 20:03:15,027 - BaseTestMethods - INFO - INFO: By.cssSelector: img[alt="Home"] is displayed
+2022-06-22 20:03:15,041 - BaseTestMethods - INFO - INFO: By.cssSelector: img[alt="Home"] is enabled
+2022-06-22 20:03:16,571 - BaseNanoLabMethods - INFO - URL verification successful for url - https://enanomapper.net/
+2022-06-22 20:03:16,572 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_eNanoMapper--------------------------------------
+2022-06-22 20:03:16,572 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_eNanoMapper Passed
+2022-06-22 20:03:16,869 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_caNanoLabWiki--------------
+2022-06-22 20:03:19,275 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,282 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,288 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,308 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,314 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,322 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,327 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:19,336 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:30,263 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab Wiki Home Page
+2022-06-22 20:03:31,356 - TestSuite - ERROR - Test 006_Verify_additional_nci_links_to_quick_links_section_caNanoLabWiki failed. Error: -String index out of range: -25
+2022-06-22 20:03:31,356 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_caNanoLabWiki--------------------------------------
+2022-06-22 20:03:31,811 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------
+2022-06-22 20:03:34,620 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,635 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,640 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,647 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,652 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,658 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,664 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,670 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,679 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:34,940 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher failed. Error: -2
+2022-06-22 20:03:34,940 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------------------------------
+2022-06-22 20:03:35,062 - TestSuite - INFO - ---------------Begin Test case: 007_Verify_caNanoLab_Feature_section_content--------------
+2022-06-22 20:03:37,622 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,638 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,644 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,655 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,662 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,667 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,675 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:37,689 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:39,356 - BaseNanoLabMethods - INFO - Identified Actual value:[caNanoLab provides access to information on:Nanotechnology ProtocolsNanomaterial CompositionNanomaterial Characterizations (physico-chemical, in vitro, in vivo)Nanomaterial PublicationsFor additional information, see the caNanoLab FAQ or Online Help] from home page
+2022-06-22 20:03:40,471 - BaseNanoLabMethods - INFO - Verification successful for Expected value:[caNanoLab provides access to information on:Nanotechnology ProtocolsNanomaterial CompositionNanomaterial Characterizations (physico-chemical, in vitro, in vivo)Nanomaterial PublicationsFor additional information, see the caNanoLab FAQ or Online Help] with Actual value: [caNanoLab provides access to information on:Nanotechnology ProtocolsNanomaterial CompositionNanomaterial Characterizations (physico-chemical, in vitro, in vivo)Nanomaterial PublicationsFor additional information, see the caNanoLab FAQ or Online Help] in [//td[2]/table/tbody/tr[5]/td]
+2022-06-22 20:03:40,471 - TestSuite - INFO - ---------------End of Test 007_Verify_caNanoLab_Feature_section_content--------------------------------------
+2022-06-22 20:03:40,471 - TestSuite - INFO - Test 007_Verify_caNanoLab_Feature_section_content Passed
+2022-06-22 20:03:40,647 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_SAFENANO--------------
+2022-06-22 20:03:43,054 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,069 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,076 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,083 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,089 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,094 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,099 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,105 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:43,113 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:54,033 - BaseNanoLabMethods - INFO - Page verification successful. Found - SAFENANO
+2022-06-22 20:03:55,343 - BaseNanoLabMethods - INFO - URL verification successful for url - https://www.safenano.org/
+2022-06-22 20:03:55,343 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_SAFENANO--------------------------------------
+2022-06-22 20:03:55,343 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_SAFENANO Passed
+2022-06-22 20:03:55,555 - TestSuite - INFO - ---------------Begin Test case: 010_Verify_Help_pages(2)--------------
+2022-06-22 20:03:58,032 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,049 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,055 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,062 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,067 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,074 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,080 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,090 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,100 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:03:58,429 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".loginBlock>tbody>tr>td>input[type=\"submit\"]"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e980d7b8-89b7-4ca5-b7db-d8f74f18b8b9
+*** Element info: {Using=css selector, value=.loginBlock>tbody>tr>td>input[type="submit"]}
+2022-06-22 20:04:08,430 - BaseNanoLabMethods - INFO - Wait Time: [10000]
+2022-06-22 20:04:08,786 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"link text","selector":"Help"}
+Command duration or timeout: 291 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e980d7b8-89b7-4ca5-b7db-d8f74f18b8b9
+*** Element info: {Using=link text, value=Help}
+2022-06-22 20:04:19,093 - BaseNanoLabMethods - INFO - Page verification successful. Found - Wiki
+2022-06-22 20:04:19,094 - TestSuite - INFO - ---------------End of Test 010_Verify_Help_pages(2)--------------------------------------
+2022-06-22 20:04:19,094 - TestSuite - INFO - Test 010_Verify_Help_pages(2) Passed
+2022-06-22 20:04:19,272 - TestSuite - INFO - ---------------Begin Test case: 003_Login_as_Researcher--------------
+2022-06-22 20:04:21,692 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,699 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,714 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,720 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,725 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,731 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,737 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,743 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:21,751 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:22,010 - TestSuite - ERROR - Test 003_Login_as_Researcher failed. Error: -2
+2022-06-22 20:04:22,010 - TestSuite - INFO - ---------------End of Test 003_Login_as_Researcher--------------------------------------
+2022-06-22 20:04:22,133 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NCLHome--------------
+2022-06-22 20:04:24,564 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,582 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,589 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,595 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,601 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,606 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,612 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,623 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:24,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:35,773 - BaseNanoLabMethods - INFO - Page verification successful. Found - Nanotechnology Characterization Lab
+2022-06-22 20:04:37,297 - BaseNanoLabMethods - INFO - URL verification successful for url - https://www.cancer.gov/nano/research/ncl
+2022-06-22 20:04:37,333 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NCLHome--------------------------------------
+2022-06-22 20:04:37,333 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NCLHome Passed
+2022-06-22 20:04:37,634 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_NanomaterialRegsitry--------------
+2022-06-22 20:04:40,059 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,069 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,076 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,084 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,090 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,098 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,105 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,114 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,124 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:40,436 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_NanomaterialRegsitry--------------------------------------
+2022-06-22 20:04:40,437 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_NanomaterialRegsitry Passed
+2022-06-22 20:04:44,164 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NanoHubs--------------
+2022-06-22 20:04:47,573 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,584 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,598 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,607 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,617 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,624 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,631 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,640 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:47,650 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:04:58,565 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab Curation
+2022-06-22 20:04:58,565 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NanoHubs--------------------------------------
+2022-06-22 20:04:58,565 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NanoHubs Passed
+2022-06-22 20:04:58,854 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_NBI--------------
+2022-06-22 20:05:01,254 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,282 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,295 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,306 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,316 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,325 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,334 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:01,349 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:12,366 - BaseNanoLabMethods - INFO - Page verification successful. Found - 
+2022-06-22 20:05:13,747 - BaseNanoLabMethods - INFO - URL verification successful for url - https://oregonstate.edu/
+2022-06-22 20:05:13,747 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_NBI--------------------------------------
+2022-06-22 20:05:13,747 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_NBI Passed
+2022-06-22 20:05:14,219 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_NIOSHNIL--------------
+2022-06-22 20:05:16,685 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,702 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,708 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,715 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,722 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,729 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,736 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,746 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:16,757 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:27,936 - BaseNanoLabMethods - INFO - Page verification successful. Found - Nanoparticle Information Library (NIL)
+2022-06-22 20:05:27,936 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_NIOSHNIL--------------------------------------
+2022-06-22 20:05:27,936 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_NIOSHNIL Passed
+2022-06-22 20:05:28,154 - TestSuite - INFO - ---------------Begin Test case: 010_Verify_login_splash_screen_text--------------
+2022-06-22 20:05:30,640 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,649 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,656 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,675 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,682 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,689 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,696 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,702 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,712 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:30,984 - TestSuite - ERROR - Test 010_Verify_login_splash_screen_text failed. Error: -2
+2022-06-22 20:05:30,984 - TestSuite - INFO - ---------------End of Test 010_Verify_login_splash_screen_text--------------------------------------
+2022-06-22 20:05:31,106 - TestSuite - INFO - ---------------Begin Test case: 005_Verify_Invalid_password--------------
+2022-06-22 20:05:33,587 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,596 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,604 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,613 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,620 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,626 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,633 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,639 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,649 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:33,961 - TestSuite - ERROR - Test 005_Verify_Invalid_password failed. Error: -2
+2022-06-22 20:05:33,961 - TestSuite - INFO - ---------------End of Test 005_Verify_Invalid_password--------------------------------------
+2022-06-22 20:05:34,107 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NanotechnologyWorkingGroup--------------
+2022-06-22 20:05:36,556 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,564 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,581 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,588 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,594 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,603 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,609 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,615 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,625 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:36,887 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NanotechnologyWorkingGroup--------------------------------------
+2022-06-22 20:05:36,887 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NanotechnologyWorkingGroup Passed
+2022-06-22 20:05:37,021 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_sample_search_by_keyword--------------
+2022-06-22 20:05:39,501 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,510 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,525 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,535 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,543 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,550 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,557 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,564 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:39,573 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:42,845 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-22 20:05:42,918 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 63ef93dc-e29d-4b33-a7c5-96093b4b3bee
+*** Element info: {Using=css selector, value=html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a}
+2022-06-22 20:05:46,918 - BaseNanoLabMethods - INFO - Wait Time: [4000]
+2022-06-22 20:05:48,919 - BaseNanoLabMethods - INFO - Wait Time: [2000]
+2022-06-22 20:05:48,919 - TestSuite - INFO - ---------------End of Test 001_Verify_sample_search_by_keyword--------------------------------------
+2022-06-22 20:05:48,919 - TestSuite - INFO - Test 001_Verify_sample_search_by_keyword Passed
+2022-06-22 20:05:49,067 - TestSuite - INFO - ---------------Begin Test case: 014_Verify_caNanoLab_Whats_New_section_content_downloadLink--------------
+2022-06-22 20:05:51,567 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,576 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,582 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,590 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,599 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,606 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,613 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,619 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:05:51,629 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:02,767 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab Wiki Home Page
+2022-06-22 20:06:02,767 - TestSuite - INFO - ---------------End of Test 014_Verify_caNanoLab_Whats_New_section_content_downloadLink--------------------------------------
+2022-06-22 20:06:02,767 - TestSuite - INFO - Test 014_Verify_caNanoLab_Whats_New_section_content_downloadLink Passed
+2022-06-22 20:06:02,994 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NCICBIITHome--------------
+2022-06-22 20:06:05,542 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,550 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,556 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,565 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,571 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,577 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,584 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,590 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:05,602 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:17,098 - BaseNanoLabMethods - INFO - Page verification successful. Found - National Cancer Institute Center for Biomedical Informatics and Information Technology
+2022-06-22 20:06:18,934 - BaseNanoLabMethods - INFO - URL verification successful for url - https://datascience.cancer.gov/
+2022-06-22 20:06:18,934 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NCICBIITHome--------------------------------------
+2022-06-22 20:06:18,934 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NCICBIITHome Passed
+2022-06-22 20:06:19,487 - TestSuite - INFO - ---------------Begin Test case: 002_verify_sample_contains_search_by_sample_name--------------
+2022-06-22 20:06:21,907 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,915 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,931 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,937 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,943 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,950 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,958 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,964 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:21,976 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:22,304 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 314d46b3-2f75-4028-8969-3513722b40ae
+*** Element info: {Using=css selector, value=html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a}
+2022-06-22 20:06:26,304 - BaseNanoLabMethods - INFO - Wait Time: [4000]
+2022-06-22 20:06:26,305 - TestSuite - INFO - ---------------End of Test 002_verify_sample_contains_search_by_sample_name--------------------------------------
+2022-06-22 20:06:26,305 - TestSuite - INFO - Test 002_verify_sample_contains_search_by_sample_name Passed
+2022-06-22 20:06:26,425 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NCIHome--------------
+2022-06-22 20:06:30,855 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,865 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,874 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,882 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,889 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,895 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,902 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,909 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:30,919 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:42,434 - BaseNanoLabMethods - INFO - Page verification successful. Found - Cancer Currents Blog
+2022-06-22 20:06:44,382 - BaseNanoLabMethods - INFO - URL verification successful for url - https://www.cancer.gov/
+2022-06-22 20:06:44,383 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NCIHome--------------------------------------
+2022-06-22 20:06:44,383 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NCIHome Passed
+2022-06-22 20:06:44,856 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_InterNano--------------
+2022-06-22 20:06:47,335 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,346 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,353 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,369 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,376 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,384 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,391 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,398 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,407 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:47,663 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_InterNano--------------------------------------
+2022-06-22 20:06:47,664 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_InterNano Passed
+2022-06-22 20:06:47,783 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_Option_Browse_publically_available_Data--------------
+2022-06-22 20:06:50,152 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,162 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,168 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,175 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,181 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,187 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,193 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,199 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:50,209 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:51,549 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".contentTitle>tbody>tr>th"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 135a19b4-9568-4588-b377-5ceb0b49dfd4
+*** Element info: {Using=css selector, value=.contentTitle>tbody>tr>th}
+2022-06-22 20:06:51,549 - TestSuite - ERROR - Test 001_Verify_Option_Browse_publically_available_Data failed. Error: -null
+2022-06-22 20:06:51,549 - TestSuite - INFO - ---------------End of Test 001_Verify_Option_Browse_publically_available_Data--------------------------------------
+2022-06-22 20:06:51,667 - TestSuite - INFO - ---------------Begin Test case: 010_Verify_Help_pages(1)--------------
+2022-06-22 20:06:54,172 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,181 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,195 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,202 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,209 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,215 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,222 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,227 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:06:54,237 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:05,130 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab User's Guide
+2022-06-22 20:07:05,130 - TestSuite - INFO - ---------------End of Test 010_Verify_Help_pages(1)--------------------------------------
+2022-06-22 20:07:05,131 - TestSuite - INFO - Test 010_Verify_Help_pages(1) Passed
+2022-06-22 20:07:05,297 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_8--------------
+2022-06-22 20:07:07,812 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,820 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,828 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,835 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,840 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,848 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,856 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,867 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:07,875 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:08,134 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_8--------------------------------------
+2022-06-22 20:07:08,135 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_8 Passed
+2022-06-22 20:07:08,253 - TestSuite - INFO - ---------------Begin Test case: 013_Verify_caNanoLab_How_To_section_content--------------
+2022-06-22 20:07:10,657 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,669 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,685 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,692 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,698 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,705 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,712 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,719 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:10,727 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:11,227 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is displayed
+2022-06-22 20:07:11,411 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is enabled
+2022-06-22 20:07:11,604 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is displayed
+2022-06-22 20:07:11,782 - BaseTestMethods - INFO - INFO: By.linkText: How do I save data to caNanoLab? is enabled
+2022-06-22 20:07:13,515 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 20:07:13,988 - BaseNanoLabMethods - INFO - Expected:[caNanoLab FAQ] and Actual: [caNanoLab FAQ return value is true] verification successful
+2022-06-22 20:07:14,031 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 20:07:14,471 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 20:07:14,471 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 20:07:15,634 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is displayed
+2022-06-22 20:07:15,827 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is enabled
+2022-06-22 20:07:16,011 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is displayed
+2022-06-22 20:07:16,263 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology protocols? is enabled
+2022-06-22 20:07:17,915 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 20:07:17,933 - BaseNanoLabMethods - INFO - Expected:[Search Protocols] and Actual: [Search Protocols return value is true] verification successful
+2022-06-22 20:07:17,953 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 20:07:18,354 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 20:07:18,354 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 20:07:18,837 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is displayed
+2022-06-22 20:07:19,042 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is enabled
+2022-06-22 20:07:19,241 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is displayed
+2022-06-22 20:07:19,433 - BaseTestMethods - INFO - INFO: By.linkText: How do I find nanotechnology publications? is enabled
+2022-06-22 20:07:21,074 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 20:07:21,198 - BaseNanoLabMethods - INFO - Expected:[SearchPublications] and Actual: [SearchPublications return value is true] verification successful
+2022-06-22 20:07:21,219 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 20:07:21,580 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 20:07:21,580 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 20:07:22,063 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is displayed
+2022-06-22 20:07:22,271 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is enabled
+2022-06-22 20:07:22,476 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is displayed
+2022-06-22 20:07:22,698 - BaseTestMethods - INFO - INFO: By.linkText: How can I search for nanomaterials, composition annotations, and characterizations? is enabled
+2022-06-22 20:07:24,417 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 20:07:24,440 - BaseNanoLabMethods - INFO - Expected:[Sample Search] and Actual: [Sample Search return value is true] verification successful
+2022-06-22 20:07:24,462 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 20:07:24,806 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 20:07:24,806 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 20:07:25,293 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is displayed
+2022-06-22 20:07:25,485 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is enabled
+2022-06-22 20:07:25,704 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is displayed
+2022-06-22 20:07:25,904 - BaseTestMethods - INFO - INFO: By.linkText: How can I add nanomaterial characterizations? is enabled
+2022-06-22 20:07:27,784 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 20:07:27,923 - BaseNanoLabMethods - INFO - Expected:[Sample Search] and Actual: [Sample Search return value is true] verification successful
+2022-06-22 20:07:27,970 - BaseTestMethods - INFO - INFO: By.cssSelector: #maincontent > div:nth-child(1) > table > tbody > tr > td.mainContentHomePage > table.gridtableHomePage > tbody > tr:nth-child(2) > td:nth-child(1) > table > tbody > tr:nth-child(1) > td:nth-child(2) > a is displayed
+2022-06-22 20:07:28,319 - BaseTestMethods - INFO - INFO: By.linkText: PROTOCOLS is displayed
+2022-06-22 20:07:28,320 - BaseNanoLabMethods - INFO - Successfully Located Home Page Logo
+2022-06-22 20:07:28,821 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is displayed
+2022-06-22 20:07:29,036 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is enabled
+2022-06-22 20:07:29,255 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is displayed
+2022-06-22 20:07:29,461 - BaseTestMethods - INFO - INFO: By.linkText: Where can I get definitions for nanotechnology concepts? is enabled
+2022-06-22 20:07:31,087 - BaseNanoLabMethods - INFO - Wait Time: [1000]
+2022-06-22 20:07:31,189 - BaseNanoLabMethods - INFO - Expected:[caNanoLab] and Actual: [caNanoLab return value is true] verification successful
+2022-06-22 20:07:31,231 - TestSuite - INFO - ---------------End of Test 013_Verify_caNanoLab_How_To_section_content--------------------------------------
+2022-06-22 20:07:31,232 - TestSuite - INFO - Test 013_Verify_caNanoLab_How_To_section_content Passed
+2022-06-22 20:07:31,373 - TestSuite - INFO - ---------------Begin Test case: 003_Verify_Option_Register_for_login_account--------------
+2022-06-22 20:07:33,911 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,919 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,925 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,934 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,939 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,945 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,955 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,961 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:33,971 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:35,550 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"table.contentTitle"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 066ba34a-f9a9-48e5-a35d-8f080d0b3853
+*** Element info: {Using=css selector, value=table.contentTitle}
+2022-06-22 20:07:35,551 - BaseNanoLabMethods - INFO - Identified Actual value:[null] from home page
+2022-06-22 20:07:36,620 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"table.contentTitle"}
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 066ba34a-f9a9-48e5-a35d-8f080d0b3853
+*** Element info: {Using=css selector, value=table.contentTitle}
+2022-06-22 20:07:36,620 - TestSuite - ERROR - Test 003_Verify_Option_Register_for_login_account failed. Error: -null
+2022-06-22 20:07:36,620 - TestSuite - INFO - ---------------End of Test 003_Verify_Option_Register_for_login_account--------------------------------------
+2022-06-22 20:07:36,796 - TestSuite - INFO - ---------------Begin Test case: 007_Verify_user_session_is_lost_when_browser_window_is_closed--------------
+2022-06-22 20:07:39,179 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,214 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,224 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,233 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,240 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,246 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,252 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,268 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,277 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:39,536 - TestSuite - ERROR - Test 007_Verify_user_session_is_lost_when_browser_window_is_closed failed. Error: -2
+2022-06-22 20:07:39,537 - TestSuite - INFO - ---------------End of Test 007_Verify_user_session_is_lost_when_browser_window_is_closed--------------------------------------
+2022-06-22 20:07:39,660 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_Disclaimer--------------
+2022-06-22 20:07:42,020 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,043 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,051 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,058 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,063 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,069 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,076 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,081 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:42,090 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:52,823 - BaseNanoLabMethods - INFO - Page verification successful. Found - LEGAL RULES OF THE ROAD
+2022-06-22 20:07:53,968 - BaseNanoLabMethods - INFO - URL verification successful for url - https://cananolab-qa.nci.nih.gov/caNanoLab/html/cananoDisclaimer.html
+2022-06-22 20:07:53,969 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_Disclaimer--------------------------------------
+2022-06-22 20:07:53,969 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_Disclaimer Passed
+2022-06-22 20:07:54,146 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_nanoHUB--------------
+2022-06-22 20:07:57,208 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,231 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,241 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,248 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,254 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,260 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,269 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,275 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:07:57,285 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:11,186 - BaseNanoLabMethods - INFO - Page verification successful. Found - Menu
+2022-06-22 20:08:11,186 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_nanoHUB--------------------------------------
+2022-06-22 20:08:11,187 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_nanoHUB Passed
+2022-06-22 20:08:11,582 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------
+2022-06-22 20:08:15,029 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,038 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,050 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,058 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,065 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,073 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,079 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,090 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,118 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:15,459 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher failed. Error: -2
+2022-06-22 20:08:15,459 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Created Date when user logged in as Reasercher--------------------------------------
+2022-06-22 20:08:15,580 - TestSuite - INFO - ---------------Begin Test case: 014_Verify_caNanoLab_Whats New_section_content_releaseNotesLink--------------
+2022-06-22 20:08:19,236 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,245 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,251 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,267 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,299 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,306 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,316 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,323 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:19,339 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:30,273 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab 1.5.5 Release Note
+2022-06-22 20:08:30,274 - TestSuite - INFO - ---------------End of Test 014_Verify_caNanoLab_Whats New_section_content_releaseNotesLink--------------------------------------
+2022-06-22 20:08:30,274 - TestSuite - INFO - Test 014_Verify_caNanoLab_Whats New_section_content_releaseNotesLink Passed
+2022-06-22 20:08:30,440 - TestSuite - INFO - ---------------Begin Test case: 015_Verify_caNanoLab_Browse_cananoLab_section_content--------------
+2022-06-22 20:08:32,908 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,925 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,931 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,940 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,946 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,953 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,961 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,967 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:32,978 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:08:34,596 - BaseNanoLabMethods - INFO - Page verification successful. Text Welcome to caNanoLab found.
+2022-06-22 20:11:38,994 - BaseNanoLabMethods - INFO - Browse caNanoLab Section verification successful
+2022-06-22 20:11:38,994 - TestSuite - INFO - ---------------End of Test 015_Verify_caNanoLab_Browse_cananoLab_section_content--------------------------------------
+2022-06-22 20:11:38,994 - TestSuite - INFO - Test 015_Verify_caNanoLab_Browse_cananoLab_section_content Passed
+2022-06-22 20:11:39,231 - TestSuite - INFO - ---------------Begin Test case: 009_Verify_publication_search_by_Sample_Name_contains--------------
+2022-06-22 20:11:42,463 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,480 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,485 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,491 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,497 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,503 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,510 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,516 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,525 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:11:42,860 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"name","selector":"userActions"}
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=name, value=userActions}
+2022-06-22 20:11:42,925 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.sidebarSectionNoTop tbody tr:nth-child(3) .sidebarContent .btn.btn-success.btn-xs}
+2022-06-22 20:12:43,779 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"link text","selector":"PUBLICATIONS"}
+Command duration or timeout: 294 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=link text, value=PUBLICATIONS}
+2022-06-22 20:13:44,254 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"link text","selector":"Search Existing Publications"}
+Command duration or timeout: 286 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=link text, value=Search Existing Publications}
+2022-06-22 20:14:48,331 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"id","selector":"nameOperand"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=id, value=nameOperand}
+2022-06-22 20:14:48,449 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"id","selector":"sampleName"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=id, value=sampleName}
+2022-06-22 20:14:48,465 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"id","selector":"sampleName"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=id, value=sampleName}
+2022-06-22 20:14:48,533 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"input[type=\"submit\"]"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=input[type="submit"]}
+2022-06-22 20:15:48,859 - BaseNanoLabMethods - INFO - Waiting for Publication Search Results page
+2022-06-22 20:16:49,348 - BaseNanoLabMethods - INFO - Validating Publication Search Results Table Header
+2022-06-22 20:16:50,417 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(1)"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(1)}
+2022-06-22 20:16:50,418 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:51,483 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(2)"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(2)}
+2022-06-22 20:16:51,483 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:52,552 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(3)"}
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(3)}
+2022-06-22 20:16:52,553 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:53,624 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(4)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(4)}
+2022-06-22 20:16:53,624 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:54,690 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(5)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(5)}
+2022-06-22 20:16:54,690 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:55,762 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(6)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(6)}
+2022-06-22 20:16:55,762 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:56,828 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(7)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(7)}
+2022-06-22 20:16:56,829 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:57,897 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(8)"}
+Command duration or timeout: 8 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c448b5a9-cb8f-4afd-beb4-0c042d2d5b7f
+*** Element info: {Using=css selector, value=.table.sample.ng-scope.ng-table thead tr:nth-child(1) th:nth-child(8)}
+2022-06-22 20:16:57,897 - BaseNanoLabMethods - INFO - Identified Searcg Result Table Column:[null]
+2022-06-22 20:16:57,897 - TestSuite - ERROR - Test 009_Verify_publication_search_by_Sample_Name_contains failed. Error: -null
+2022-06-22 20:16:57,897 - TestSuite - INFO - ---------------End of Test 009_Verify_publication_search_by_Sample_Name_contains--------------------------------------
+2022-06-22 20:16:58,048 - TestSuite - INFO - ---------------Begin Test case: 002_Login_as_Curator--------------
+2022-06-22 20:17:00,629 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,636 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,642 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,649 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,654 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,662 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,668 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,674 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,683 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:00,946 - TestSuite - ERROR - Test 002_Login_as_Curator failed. Error: -2
+2022-06-22 20:17:00,946 - TestSuite - INFO - ---------------End of Test 002_Login_as_Curator--------------------------------------
+2022-06-22 20:17:01,067 - TestSuite - INFO - ---------------Begin Test case: 002_Verify_Option_Login_to_submit_data--------------
+2022-06-22 20:17:03,498 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,505 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,522 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,529 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,534 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,539 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,545 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,553 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:03,561 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:05,190 - BaseNanoLabMethods - INFO - Identified Actual value:[No account is required to browse publicly available data.] from home page
+2022-06-22 20:17:06,263 - BaseNanoLabMethods - INFO - Verification successful for Expected value:[No account is required to browse publicly available data.] with Actual value: [No account is required to browse publicly available data.] in [td.sidebarContent]
+2022-06-22 20:17:06,263 - TestSuite - INFO - ---------------End of Test 002_Verify_Option_Login_to_submit_data--------------------------------------
+2022-06-22 20:17:06,263 - TestSuite - INFO - Test 002_Verify_Option_Login_to_submit_data Passed
+2022-06-22 20:17:06,444 - TestSuite - INFO - ---------------Begin Test case: 011_Verify_Home_page_Welcome_Content--------------
+2022-06-22 20:17:08,944 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:08,951 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:08,956 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:08,962 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:08,968 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:08,976 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:08,984 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:08,990 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:09,006 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:10,634 - BaseNanoLabMethods - INFO - Identified Actual value:[Welcome to the cancer Nanotechnology Laboratory (caNanoLab) portal. caNanoLab is a data sharing portal designed to facilitate information sharing across the international biomedical nanotechnology research community to expedite and validate the use of nanotechnology in biomedicine. caNanoLab provides support for the annotation of nanomaterials with characterizations resulting from physico-chemical, in vitro and in vivo assays and the sharing of these characterizations and associated nanotechnology protocols in a secure fashion.] from home page
+2022-06-22 20:17:11,710 - TestSuite - INFO - ---------------End of Test 011_Verify_Home_page_Welcome_Content--------------------------------------
+2022-06-22 20:17:11,710 - TestSuite - INFO - Test 011_Verify_Home_page_Welcome_Content Passed
+2022-06-22 20:17:11,878 - TestSuite - INFO - ---------------Begin Test case: 001_Verify_sample_search_by_keyword--------------
+2022-06-22 20:17:14,820 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,830 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,836 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,842 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,847 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,853 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,858 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,864 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:14,872 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:18,121 - BaseNanoLabMethods - INFO - Wait Time: [3000]
+2022-06-22 20:17:18,192 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":"html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a"}
+Command duration or timeout: 7 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f69fba89-2e89-4cff-84fc-a4594fef8e33
+*** Element info: {Using=css selector, value=html body.ng-scope div.container table tbody tr td#maincontent.mainContent table tbody tr td.mainContent.ng-scope div.ng-scope table tbody tr td.mainContentHomePage table.gridtableHomePage tbody tr.alt td table.gridtableNoBorder tbody tr td a}
+2022-06-22 20:17:22,193 - BaseNanoLabMethods - INFO - Wait Time: [4000]
+2022-06-22 20:17:24,193 - BaseNanoLabMethods - INFO - Wait Time: [2000]
+2022-06-22 20:17:24,193 - TestSuite - INFO - ---------------End of Test 001_Verify_sample_search_by_keyword--------------------------------------
+2022-06-22 20:17:24,193 - TestSuite - INFO - Test 001_Verify_sample_search_by_keyword Passed
+2022-06-22 20:17:24,313 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_eNanoMapper--------------
+2022-06-22 20:17:26,865 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,872 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,882 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,889 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,894 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,901 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,906 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,912 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:26,919 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:38,125 - BaseNanoLabMethods - INFO - Page verification successful. Found - 
+2022-06-22 20:17:38,142 - BaseTestMethods - INFO - INFO: By.cssSelector: img[alt="Home"] is displayed
+2022-06-22 20:17:38,156 - BaseTestMethods - INFO - INFO: By.cssSelector: img[alt="Home"] is enabled
+2022-06-22 20:17:39,675 - BaseNanoLabMethods - INFO - URL verification successful for url - https://enanomapper.net/
+2022-06-22 20:17:39,675 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_eNanoMapper--------------------------------------
+2022-06-22 20:17:39,675 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_eNanoMapper Passed
+2022-06-22 20:17:39,963 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_caNanoLabWiki--------------
+2022-06-22 20:17:42,531 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,539 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,544 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,551 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,556 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,562 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,567 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,573 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:42,582 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:53,507 - BaseNanoLabMethods - INFO - Page verification successful. Found - caNanoLab Wiki Home Page
+2022-06-22 20:17:54,565 - TestSuite - ERROR - Test 006_Verify_additional_nci_links_to_quick_links_section_caNanoLabWiki failed. Error: -String index out of range: -25
+2022-06-22 20:17:54,565 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_caNanoLabWiki--------------------------------------
+2022-06-22 20:17:54,796 - TestSuite - INFO - ---------------Begin Test case: 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------
+2022-06-22 20:17:57,257 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,264 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,270 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,276 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,282 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,287 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,293 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,298 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,306 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:17:57,589 - TestSuite - ERROR - Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher failed. Error: -2
+2022-06-22 20:17:57,589 - TestSuite - INFO - ---------------End of Test 002_Ensure user able to sort google like search results by Description when user logged in as Reasercher--------------------------------------
+2022-06-22 20:17:57,706 - TestSuite - INFO - ---------------Begin Test case: 007_Verify_caNanoLab_Feature_section_content--------------
+2022-06-22 20:18:00,279 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,287 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,294 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,301 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,306 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,312 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,318 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,323 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:00,332 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:01,998 - BaseNanoLabMethods - INFO - Identified Actual value:[caNanoLab provides access to information on:Nanotechnology ProtocolsNanomaterial CompositionNanomaterial Characterizations (physico-chemical, in vitro, in vivo)Nanomaterial PublicationsFor additional information, see the caNanoLab FAQ or Online Help] from home page
+2022-06-22 20:18:03,113 - BaseNanoLabMethods - INFO - Verification successful for Expected value:[caNanoLab provides access to information on:Nanotechnology ProtocolsNanomaterial CompositionNanomaterial Characterizations (physico-chemical, in vitro, in vivo)Nanomaterial PublicationsFor additional information, see the caNanoLab FAQ or Online Help] with Actual value: [caNanoLab provides access to information on:Nanotechnology ProtocolsNanomaterial CompositionNanomaterial Characterizations (physico-chemical, in vitro, in vivo)Nanomaterial PublicationsFor additional information, see the caNanoLab FAQ or Online Help] in [//td[2]/table/tbody/tr[5]/td]
+2022-06-22 20:18:03,114 - TestSuite - INFO - ---------------End of Test 007_Verify_caNanoLab_Feature_section_content--------------------------------------
+2022-06-22 20:18:03,114 - TestSuite - INFO - Test 007_Verify_caNanoLab_Feature_section_content Passed
+2022-06-22 20:18:03,286 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_SAFENANO--------------
+2022-06-22 20:18:05,843 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,851 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,857 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,864 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,870 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,875 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,881 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,887 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:05,895 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:16,810 - BaseNanoLabMethods - INFO - Page verification successful. Found - SAFENANO
+2022-06-22 20:18:18,111 - BaseNanoLabMethods - INFO - URL verification successful for url - https://www.safenano.org/
+2022-06-22 20:18:18,112 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_SAFENANO--------------------------------------
+2022-06-22 20:18:18,112 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_SAFENANO Passed
+2022-06-22 20:18:18,312 - TestSuite - INFO - ---------------Begin Test case: 010_Verify_Help_pages(2)--------------
+2022-06-22 20:18:20,855 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,866 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,872 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,878 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,883 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,889 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,895 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,900 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:20,908 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:21,232 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"css selector","selector":".loginBlock>tbody>tr>td>input[type=\"submit\"]"}
+Command duration or timeout: 6 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ea12c50b-e080-4096-ac3e-3d08ba6a85e4
+*** Element info: {Using=css selector, value=.loginBlock>tbody>tr>td>input[type="submit"]}
+2022-06-22 20:18:31,233 - BaseNanoLabMethods - INFO - Wait Time: [10000]
+2022-06-22 20:18:31,572 - BaseTestMethods - ERROR - ERROR: Unable to locate element: {"method":"link text","selector":"Help"}
+Command duration or timeout: 278 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'nciws-d2151-v.nci.nih.gov', ip: '10.133.108.201', os.name: 'Linux', os.arch: 'amd64', os.version: '3.10.0-1160.66.1.el7.x86_64', java.version: '1.8.0_331'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0, platform=LINUX, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ea12c50b-e080-4096-ac3e-3d08ba6a85e4
+*** Element info: {Using=link text, value=Help}
+2022-06-22 20:18:41,879 - BaseNanoLabMethods - INFO - Page verification successful. Found - Wiki
+2022-06-22 20:18:41,880 - TestSuite - INFO - ---------------End of Test 010_Verify_Help_pages(2)--------------------------------------
+2022-06-22 20:18:41,880 - TestSuite - INFO - Test 010_Verify_Help_pages(2) Passed
+2022-06-22 20:18:42,055 - TestSuite - INFO - ---------------Begin Test case: 003_Login_as_Researcher--------------
+2022-06-22 20:18:44,509 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,524 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,531 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,537 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,543 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,548 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,554 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,560 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,569 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:44,831 - TestSuite - ERROR - Test 003_Login_as_Researcher failed. Error: -2
+2022-06-22 20:18:44,831 - TestSuite - INFO - ---------------End of Test 003_Login_as_Researcher--------------------------------------
+2022-06-22 20:18:44,948 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_nci_links_to_quick_links_section_NCLHome--------------
+2022-06-22 20:18:47,385 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,392 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,397 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,411 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,418 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,423 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,429 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,435 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:47,443 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:18:58,576 - BaseNanoLabMethods - INFO - Page verification successful. Found - Nanotechnology Characterization Lab
+2022-06-22 20:19:00,095 - BaseNanoLabMethods - INFO - URL verification successful for url - https://www.cancer.gov/nano/research/ncl
+2022-06-22 20:19:00,132 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_nci_links_to_quick_links_section_NCLHome--------------------------------------
+2022-06-22 20:19:00,132 - TestSuite - INFO - Test 006_Verify_additional_nci_links_to_quick_links_section_NCLHome Passed
+2022-06-22 20:19:00,431 - TestSuite - INFO - ---------------Begin Test case: 006_Verify_additional_external_links_to_quick_links_section_NanomaterialRegsitry--------------
+2022-06-22 20:19:05,977 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:05,985 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:05,991 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:05,997 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:06,004 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:06,010 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:06,015 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:06,022 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:06,030 - BaseNanoLabMethods - INFO - Loading page condition is: [false]
+2022-06-22 20:19:06,288 - TestSuite - INFO - ---------------End of Test 006_Verify_additional_external_links_to_quick_links_section_NanomaterialRegsitry--------------------------------------
+2022-06-22 20:19:06,288 - TestSuite - INFO - Test 006_Verify_additional_external_links_to_quick_links_section_NanomaterialRegsitry Passed
